@@ -7,6 +7,8 @@ Grade retentions over gender and age, where age = [10, 18] years old.
 Graphs are as follows: first two shows all held back (or advanced) years stacked on top of each other, while the last graph is a box graph that shows the median over the years (hence it is the "correct" one).
 Only the first graph uses data from all ages, meaning we can see students that are 34 or 63 years old.
 
+Last graph is a choropleth graph of the USA, where each state shows the median years held back or advanced.
+
 Data taken from: https://docs.google.com/spreadsheets/d/1S6Dgsh_S2ghVo7hSoJ2aD25FjLSXSQMkI_McGE88dCY/edit?usp=sharing 
 """
 
@@ -61,24 +63,48 @@ boxplot = plotly.express.box(
     color = 'Gender',
     boxmode='group',
     labels={
-        'age_offset':'Years held back (ord advanced)',
+        'age_offset':'Median years held back (ord advanced)',
         'Ageyears':'Age'
     },
     title='Boxplot grade retentions over gender and age, purged data'
-    #TODO
+) 
+
+##################################################
+
+# Create dataframe with only useful data
+df_regions = dataframe[['age_offset', 'Region']]
+
+median_per_region = df_regions.groupby("Region")["age_offset"].median().reset_index()
+
+df_median = df_regions.merge(median_per_region, on=["Region", "age_offset"]).drop_duplicates(subset=['Region'])
+
+choropleth = plotly.express.choropleth(
+    data_frame=df_median,
+    locations='Region',
+    locationmode='USA-states',
+    #color=[1,2,3] # keep it default
+    scope='usa',
+    color='age_offset',
+    labels={
+        'age_offset':'Years Offset'
+    },
+    title='Median years held back (or advanced) per state. Gray equals no data'
+).update_layout(
+    margin={"r":0,"t":30,"l":0,"b":0}
 )
 
 
 
 app.layout = [
     html.H1(
-        children='Grade retentions over gender and age', 
+        children='Grade retentions over gender, age and states', 
         style={'textAlign':'center',
                'fontFamily':'Arial'}),
     # dash_table.DataTable(data=df_transformed.to_dict('records'), page_size=20),
     dcc.Graph(figure=bargraph_full),
     dcc.Graph(figure=bargraph_purged),
     dcc.Graph(figure=boxplot),
+    dcc.Graph(figure=choropleth),
     dash_table.DataTable(
         data=df_transformed
         .query('Ageyears <= 20')
