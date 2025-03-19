@@ -65,8 +65,11 @@ Attributes:
 
 ## Questions
 
-### age + grade + gender 
+### Grade Retention  
+age + grade + gender 
 Distribution among genders of grade retention, or starting earlier.
+
+Maybe also + state.
 
 ### main transportation method + commuting time + [average USA car speed]
 Shows how car centric USA is, how big it is + average distance of the students
@@ -141,6 +144,8 @@ not a lot of correlation with anything except gender or age
 
 
 # Observations
+
+## Grade Retention
 
 - With full data we get a graph that is not particularly useful, since some data points are too far from the majority 
 - With purged data things become more readable

@@ -39,7 +39,7 @@ bargraph_full = plotly.express.bar(
 )
 
 
-# purged data i.e., only student between 10 and 20 years old
+# Purged data i.e., only student between 10 and 20 years old
 bargraph_purged = plotly.express.bar(
     df_transformed.query('Ageyears <= 20'),
     x = 'Ageyears',
@@ -54,7 +54,7 @@ bargraph_purged = plotly.express.bar(
 )
 
 
-# purged data i.e., only student between 10 and 20 years old
+# Purged data i.e., only student between 10 and 20 years old
 boxplot = plotly.express.box(
     df_transformed.query('Ageyears <= 20'),
     x = 'Ageyears',
@@ -71,12 +71,12 @@ boxplot = plotly.express.box(
 
 ##################################################
 
-# Create dataframe with only useful data
+# Create new dataframe with region-relative data and get median per region (unique)
+# Make choropleth map of USA, for each state show median grade retention
 df_regions = dataframe[['age_offset', 'Region']]
-
 median_per_region = df_regions.groupby("Region")["age_offset"].median().reset_index()
-
 df_median = df_regions.merge(median_per_region, on=["Region", "age_offset"]).drop_duplicates(subset=['Region'])
+
 
 choropleth = plotly.express.choropleth(
     data_frame=df_median,
@@ -94,7 +94,7 @@ choropleth = plotly.express.choropleth(
 )
 
 
-
+# Place element in the page
 app.layout = [
     html.H1(
         children='Grade retentions over gender, age and states', 
