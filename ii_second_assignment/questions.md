@@ -140,3 +140,21 @@ not a lot of correlation with anything except gender or age
 - favourite type of music
 
 
+# Observations
+
+- With full data we get a graph that is not particularly useful, since some data points are too far from the majority 
+- With purged data things become more readable
+- Second iteration (purged data) has some problems:
+  - Stacked data make it seems like grade retentions increases over the years 
+  - What if this is the result of a distribution of data i.e., we have more data points of ages between 16 and 18?
+- Previous points are shown correct in the boxplot: median of grade retention stays the same throughout the years
+- 1 or 2 years may not mean that student was held back or moved forward:
+  - maybe just started earlier or later
+  - we don't know when the survey was taken, so we cannot use month of birth to calculate if the year is correct but they just didn't have birthday yet   
+
+
+While it would be interesting to add to this data geographical data (choropleth map of USA), this feels un-interesting because of how little variance there is, meaning we will likely go nowhere.
+
+Surely one thing: no need to divide by gender since we have seen how little difference there is.
+
+Added and as we surmised there is not a lot of difference. Coloring make it seem pretty dramatic while in reality the difference is between [-1, 2].
