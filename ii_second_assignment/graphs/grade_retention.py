@@ -78,6 +78,15 @@ median_per_region = df_regions.groupby("Region")["age_offset"].median().reset_in
 df_median = df_regions.merge(median_per_region, on=["Region", "age_offset"]).drop_duplicates(subset=['Region'])
 
 
+color_scale = {
+    -1: "-1",   # Example color for -1
+    0: "Zero",    # Example color for 0 
+    1: "1",  # Example color for +1
+    2: "2"      # Example color for +2
+}
+
+df_median["age_offset"] = df_median["age_offset"].map(color_scale).astype("category")
+
 choropleth = plotly.express.choropleth(
     data_frame=df_median,
     locations='Region',
@@ -85,10 +94,12 @@ choropleth = plotly.express.choropleth(
     #color=[1,2,3] # keep it default
     scope='usa',
     color='age_offset',
+    color_discrete_map=color_scale,
     labels={
-        'age_offset':'Years Offset'
+        'age_offset':'Years Offset',
     },
-    title='Median years held back (or advanced) per state. Gray equals no data'
+    title='Median years held back (or advanced) per state. Gray equals no data',
+    category_orders={"age_offset": [-1, 0, 1, 2]}
 ).update_layout(
     margin={"r":0,"t":30,"l":0,"b":0}
 )
