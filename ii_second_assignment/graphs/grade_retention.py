@@ -76,7 +76,25 @@ boxplot = plotly.express.box(
 df_regions = dataframe[['age_offset', 'Region']]
 median_per_region = df_regions.groupby("Region")["age_offset"].median().reset_index()
 df_median = df_regions.merge(median_per_region, on=["Region", "age_offset"]).drop_duplicates(subset=['Region'])
+ 
 
+choropleth_continue = plotly.express.choropleth(
+    data_frame=df_median,
+    locations='Region',
+    locationmode='USA-states',
+    scope='usa',
+    color='age_offset',
+    labels={
+        'age_offset':'Years Offset'
+    },
+    title='Median years held back (or advanced) per state. Gray equals no data'
+).update_layout(
+    margin={"r":0,"t":30,"l":0,"b":0}
+ 
+)
+
+
+####### discrete colors usa map ########
 
 color_scale = {
     -1: "-1",   # Example color for -1
@@ -87,11 +105,10 @@ color_scale = {
 
 df_median["age_offset"] = df_median["age_offset"].map(color_scale).astype("category")
 
-choropleth = plotly.express.choropleth(
+choropleth_discrete = plotly.express.choropleth(
     data_frame=df_median,
     locations='Region',
     locationmode='USA-states',
-    #color=[1,2,3] # keep it default
     scope='usa',
     color='age_offset',
     color_discrete_map=color_scale,
@@ -115,7 +132,8 @@ app.layout = [
     dcc.Graph(figure=bargraph_full),
     dcc.Graph(figure=bargraph_purged),
     dcc.Graph(figure=boxplot),
-    dcc.Graph(figure=choropleth),
+    dcc.Graph(figure=choropleth_continue),
+    dcc.Graph(figure=choropleth_discrete),
     dash_table.DataTable(
         data=df_transformed
         .query('Ageyears <= 20')
