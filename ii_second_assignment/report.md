@@ -69,11 +69,10 @@ The graph follows, where:
 - Range of offset vary between `[-1, +2]`
 - Grey-colored states means there is no data available
 
-![](./graphs/usa_map_grade_retention.png)
+![](./graphs/usa_map_graderetention_discrete.png)
 
-This shows us how uncommon it actually is to be "out of grade" (i.e., being held back or moved forward) in the USA: most states have a median around zero, eight have a median between `[-1, 1]` (which could, once again, be invalidated by the month when the surveys were taken), and only one state has a median offset of `+2` (meaning people there are, as far as our data is concerned, commonly held back at least one year).
-
-One thing to note: due to the coloring, which was left as-is partly to state this point, partly because it makes everything clearly visible, the differences in offsets (and the offsets themselves) would seem to be dramatic while in reality they are, as we just said, almost negligible.
+This shows us how uncommon it actually is to be "out of grade" (i.e., being held back or moved forward) in the USA: most states have a median around zero, eight have a median between `[-1, 1]` (which could, once again, be invalidated by the month when the surveys were taken), and only one state has a median offset of `+2` (meaning people there are, as far as our data is concerned, commonly held back at least one year).\
+The colors (and thus the legend) have been made discrete to aid readability.
 
 
 ## Design Iterations
