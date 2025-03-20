@@ -81,6 +81,7 @@ The graph follows, where:
 This shows us how uncommon it actually is to be "out of grade" (i.e., being held back or moved forward) in the USA: most states have a median around zero, nine have a median between `[-1, 1]` (which could, once again, be invalidated by the month when the surveys were taken), and only one state has a median offset of `+2` (meaning people there are, as far as our data is concerned, commonly held back at least one year).\
 The colors (and thus the legend) have been made discrete to aid readability.
 
+Once again, regarding data to ink ratio I preferred to keep the legend since some states are too small to write the offset directly inside of them. Maybe it would be possible with some extra steps (like with connecting lines) but I decided to keep it simple.
 
 ## Development Process and Design Iterations 
 
