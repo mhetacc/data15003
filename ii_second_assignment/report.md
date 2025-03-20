@@ -14,6 +14,11 @@ dataframe = pandas.read_csv('/home/../USA_school_census.csv')
 
 The code, datasets and graphs can all be found in the following GitHub repository: [](https://github.com/mhetacc/data15003).
 
+To compile the file yourself to see all the various graphs' iterations, you need the files: 
+- https://github.com/mhetacc/data15003/blob/main/ii_second_assignment/USA_school_census.csv
+- https://github.com/mhetacc/data15003/blob/main/ii_second_assignment/graphs/grade_retention.py
+
+
 ## Explored Questions: Design Choices and Findings
 
 My approach was, at the start, to look through all the available data, and wonder about what could be inferred by putting some attributes together, for example:
@@ -57,7 +62,9 @@ From the graph we can infer the following conclusions:
 4. There are some students, especially at ages 17 and 18, that are extremely out of the median, having repeated more than five years (although the reasons may vary).
 
 While points #1 and #2 are self explanatory, I would like to comment briefly over point #3 and #4: having an offset between [-1, +1] means, if we consider my comment about not knowing the month when the survey is taken, that most people are probably in their correct grade. \
-Regarding point number four, it should be said that having some isolated cases extremely out of median should not be taken as an indicator that at those ages it is more common to have an offset, since the reasons could vary wildly (e.g., refuge, family situations, etc).
+Regarding point number four, it should be said that having some isolated cases extremely out of median should not be taken as an indicator that at those ages it is more common to have an offset, since the reasons could vary wildly (e.g., refuge, family situations, human error, etc).
+
+Regarding ink to data ratio, i decided to keep the legend since putting the data inside the graph would have resulted, in my opinion, in less clarity.
 
 ### Second Question
 
@@ -71,11 +78,13 @@ The graph follows, where:
 
 ![](./graphs/usa_map_graderetention_discrete.png)
 
-This shows us how uncommon it actually is to be "out of grade" (i.e., being held back or moved forward) in the USA: most states have a median around zero, eight have a median between `[-1, 1]` (which could, once again, be invalidated by the month when the surveys were taken), and only one state has a median offset of `+2` (meaning people there are, as far as our data is concerned, commonly held back at least one year).\
+This shows us how uncommon it actually is to be "out of grade" (i.e., being held back or moved forward) in the USA: most states have a median around zero, nine have a median between `[-1, 1]` (which could, once again, be invalidated by the month when the surveys were taken), and only one state has a median offset of `+2` (meaning people there are, as far as our data is concerned, commonly held back at least one year).\
 The colors (and thus the legend) have been made discrete to aid readability.
 
 
-## Design Iterations
+## Development Process and Design Iterations 
+
+### First Question
 
 Answering such question needed more data then what was available, namely calculating if, compared to their age, some students are in a grade that is higher or lower than expected. \
 The *expected grade* is not present in the data, but can easily be calculated by adding one column to our dataset with the formula `Ageyears + 5`, since the rationale is that first grade starts at six.
@@ -95,4 +104,48 @@ At this point our data table looks like this:
 | Age | Expected Age | Gender | Offset | ... |
 | :-: | :-: | :-: | :-: | :-: | 
 
+And the first thing that came to mind was doing a bar graph to show the offsets, divided by gender, over the age.
+
+![](./graphs/stacked_full_grade_retention.png)
+
+The first thing we notice about this graph is that there are some data points (specifically in the x-axis i.e., 'Age') too far away from the others, since there are some students over 20 or even 30 years old.\ This prevent a clear reading of the data chart and we don't know why we have these data points, and the reasons could vary wildly from complicated personal situations to simple human error, so I decided to filter them out, using a simple query:
+
+```python
+bargraph_purged = plotly.express.bar(
+    df_transformed.query('Ageyears <= 20'),
+```
+
+Thus getting the graph that follows:
+
+![](./graphs/stacked_purged_grade_retention.png)
+
+From this graph it would seem that the amount of students "out of grade" increases over the years, which would seem reasonable to me since I have a bias that come from personal experience: back in my home country this is definitely the case. \
+However, we already seen in the final graph (seen in the section §2.1) that this is not true, meaning that the reason is something else entirely: we just have more data points for the later years (i.e., 16, 17 and 18).
+
+### Second Question
+
+As I stated already in section §2.2, I decided to not consider gender this time around since there is no noticeable difference between the two (in the matter of grade retention).
+
+I needed to modify a little bit the data in order to group the median offsets by the state code, and then make sure that there are no repetitions, like so:
+
+```python
+df_regions = dataframe[['age_offset', 'Region']]
+median_per_region = df_regions.groupby("Region")["age_offset"].median().reset_index()
+
+# make it unique on 'Region' attribute
+df_median = df_regions.merge(median_per_region, on=["Region", "age_offset"]).drop_duplicates(subset=['Region'])
+```
+
+At this point I was able to compute the choropleth map, which follows:
+
+![](./graphs/usa_map_grade_retention.png)
+
+As we can see, continuos colors in the legend, while having great contrast, make it harder to see immediately where the distinction between the values are, especially because said values are discrete. So I modified both the dataframe and the graph to produce the final one seen in section §2.2, which uses discrete colors.
+
 ## Lessons Learned
+
+From a strictly technical standpoint, I learned to set up and use some useful visualization tools in Python.
+
+For the iterations on the first question it was clear to me the importance of "purging" the data from un-important data points that are too out of scope, and that if what we want to show is a variation over time we should use graph that are made for that specific purpose, instead than trying to compute it beforehand and try to fit it in a graph that was made for a different purpose.
+
+From the iterations on the second question I learned the importance of distinguishing between discrete and continuous data and visualizations.

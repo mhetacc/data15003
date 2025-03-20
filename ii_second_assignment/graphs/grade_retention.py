@@ -78,7 +78,7 @@ median_per_region = df_regions.groupby("Region")["age_offset"].median().reset_in
 df_median = df_regions.merge(median_per_region, on=["Region", "age_offset"]).drop_duplicates(subset=['Region'])
  
 
-choropleth_continue = plotly.express.choropleth(
+choropleth_continuous = plotly.express.choropleth(
     data_frame=df_median,
     locations='Region',
     locationmode='USA-states',
@@ -132,7 +132,7 @@ app.layout = [
     dcc.Graph(figure=bargraph_full),
     dcc.Graph(figure=bargraph_purged),
     dcc.Graph(figure=boxplot),
-    dcc.Graph(figure=choropleth_continue),
+    dcc.Graph(figure=choropleth_continuous),
     dcc.Graph(figure=choropleth_discrete),
     dash_table.DataTable(
         data=df_transformed
