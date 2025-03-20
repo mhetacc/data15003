@@ -2,7 +2,7 @@
 
 ## Tools
 
-Python, with Dash, Plotly Express and Pandas libraries, were used to manipulate the dataset (saved as csv file) and produce the resulting graphs. 
+Python, with Dash, Plotly Express and Pandas libraries, were used to manipulate the dataset (saved as csv file) and produce all the graphs. 
 
 ```python
 from dash import Dash, html, dcc, dash_table
@@ -12,16 +12,16 @@ import pandas
 dataframe = pandas.read_csv('/home/../USA_school_census.csv')
 ```
 
-The code, datasets and graphs can all be found in the following GitHub repository: [](https://github.com/mhetacc/data15003).
+The code, datasets and graphs can all be found in the following GitHub repository: https://github.com/mhetacc/data15003.
 
-To compile the file yourself to see all the various graphs' iterations, you need the files: 
+To run the script yourself, to see all the various graphs' iterations, you need the following files: 
 - https://github.com/mhetacc/data15003/blob/main/ii_second_assignment/USA_school_census.csv
 - https://github.com/mhetacc/data15003/blob/main/ii_second_assignment/graphs/grade_retention.py
 
 
 ## Explored Questions: Design Choices and Findings
 
-My approach was, at the start, to look through all the available data, and wonder about what could be inferred by putting some attributes together, for example:
+My approach was, at the start, to look through all available data, and wonder what could be inferred by putting some attributes together, for example:
 - `Travel_to_School + Travel_time_to_School` + the average car speed in USA: *show how car-centric the USA are, and infer average distance to school*;
 - `Sleep_Hours_Schoolnight + Sleep_Hours_Non_Schoolnight + Gender + Ageyears + Importance_owning_computer + Importance_Internet_access`: *see if there are some correlations between gender and sleep hours, or being tech-oriented and sleep hours, and between gender and being tech oriented*;
 - `Gender + Ageyears + Superpower`: *bonus for fun*.
@@ -34,15 +34,15 @@ I settled (initially) with the following combination: `Gender + Ageyears + Class
 
 The question was first reduced and re-interpreted as *"what is the offset between the expected grade a student should be in and the grade they are actually in?"*. \
 Let's clarify with an example: imagine student Alice is six years old, then they should be in first grade. If they are, say, in second grade then their offset would be equal to `-1`, meaning they got moved forward one year (or they just started school one year earlier). \
-Now imagine that student Bob is 20 years old, then they should not even be in high school anymore. But data told us that they are in twelfth grade, meaning their offset is `+3`, hence they were held back three years.
+Now imagine that student Bob is 20 years old, then they should not even be in high school anymore. But let's say they are in twelfth grade, meaning their offset is `+3`, hence they were held back three years.
 
 It should be said that this method suffers from a clear problem: we do not know in which month the survey was taken, so we cannot use the attribute `Birth_month` to calculate if the student is to be considered younger or older than what they actually are. \
 Let's use an example to explain this point: I was born in October, and school starts in September, hence if I had participated in the survey in September my offset would have been `-1`, while if I did it from December onward it would have been `0`. 
 
 Now we can add back gender into the equation, expanding the question to: *"what is the offset between the expected grade a student should be in and the grade they are actually in, relative to their gender and age?"*.\
-I decided to include a projection not only over gender but also over age for two reasons: first, to make it more readable and second to see if there is some difference relative to the grade students are in (since, at least in my experience, that is the case). We will see in the §Design Iterations section how this point could have produced some misleading visualizations. 
+I decided to include a projection not only over gender but also over age for two reasons: first, to make it more readable and second to see if there is some difference relative to the grade students are in (since, at least in my experience, that is the case). We will see in the *§ Design Iterations* section how this could have produced some misleading visualizations. 
 
-It is pretty clear that we want to show a median of the offset over age and gender, not a sum of all the various offsets, and for this reason I choose a graph type that is especially made to show "variation in samples of a statistical population" (source [Wikipedia: Box Plot](https://en.wikipedia.org/wiki/Box_plot)) through data quartiles. Let's briefly explain them (once again, source is [Wikipedia: Quartile](https://en.wikipedia.org/wiki/Quartile))
+It is pretty clear that we want to show a median of the offset over age and gender, and not a sum of all the various offsets, so for this reason I choose a graph type (box plot) that is especially made to show *"variation in samples of a statistical population"* (source [Wikipedia: Box Plot](https://en.wikipedia.org/wiki/Box_plot)) through data quartiles. Let's briefly explain them (once again, source is [Wikipedia: Quartile](https://en.wikipedia.org/wiki/Quartile))
 
 - Minimum: quartile, minimum value of the data sample;
 - Maximum: quartile, maximum value of the data sample;
@@ -68,7 +68,7 @@ Regarding ink to data ratio, i decided to keep the legend since putting the data
 
 ### Second Question
 
-At this point, I tough it would be interesting to show a choropleth map of the USA, leveraging the attribute `Region`, to see the median offset difference between the different states (the graph type choice was obvious in this case). \
+At this point, I tough it would be interesting to show a choropleth map of the USA, leveraging the attribute `Region`, to see the how median offset differs between different states (the graph type choice was obvious in this case). \
 This time around I did not bother to map the data over gender, since the previous graph already showed how little difference there is between males and females on this matter.
 
 The graph follows, where:
@@ -88,7 +88,7 @@ Once again, regarding data to ink ratio I preferred to keep the legend since som
 ### First Question
 
 Answering such question needed more data then what was available, namely calculating if, compared to their age, some students are in a grade that is higher or lower than expected. \
-The *expected grade* is not present in the data, but can easily be calculated by adding one column to our dataset with the formula `Ageyears + 5`, since the rationale is that first grade starts at six.
+The *expected grade* is not present in the data, but can be easily calculated by adding one column to our dataset with the formula `Ageyears + 5`, since the rationale is that first grade starts at six.
 
 ```python
 dataframe['expected_age'] = dataframe['ClassGrade'] + 5
@@ -109,7 +109,8 @@ And the first thing that came to mind was doing a bar graph to show the offsets,
 
 ![](./graphs/stacked_full_grade_retention.png)
 
-The first thing we notice about this graph is that there are some data points (specifically in the x-axis i.e., 'Age') too far away from the others, since there are some students over 20 or even 30 years old.\ This prevent a clear reading of the data chart and we don't know why we have these data points, and the reasons could vary wildly from complicated personal situations to simple human error, so I decided to filter them out, using a simple query:
+The first thing we notice about this graph is that there are some data points (specifically in the x-axis i.e., 'Age') too far away from the others, since there are some students over 20 or even 30 years old.\ 
+This prevent a clear reading of the data chart, and the reasons why we have these data points could vary wildly from complicated personal situations to simple human error, so I decided to filter them out, using a simple query:
 
 ```python
 bargraph_purged = plotly.express.bar(
@@ -120,14 +121,14 @@ Thus getting the graph that follows:
 
 ![](./graphs/stacked_purged_grade_retention.png)
 
-From this graph it would seem that the amount of students "out of grade" increases over the years, which would seem reasonable to me since I have a bias that come from personal experience: back in my home country this is definitely the case. \
+From this graph it would seem that the amount of students "out of grade" increases over the years, which would seem reasonable to me since I have a bias that comes from personal experience: back in my home country this is definitely the case. \
 However, we already seen in the final graph (seen in the section §2.1) that this is not true, meaning that the reason is something else entirely: we just have more data points for the later years (i.e., 16, 17 and 18).
 
 ### Second Question
 
-As I stated already in section §2.2, I decided to not consider gender this time around since there is no noticeable difference between the two (in the matter of grade retention).
+As I stated in section §2.2, I decided not to consider gender this time around since there is no noticeable difference between the two (in the matter of grade retention).
 
-I needed to modify a little bit the data in order to group the median offsets by the state code, and then make sure that there are no repetitions, like so:
+I needed to modify the data a little in order to group the median offsets by the state code, and then make sure that there are no repetitions, like so:
 
 ```python
 df_regions = dataframe[['age_offset', 'Region']]
@@ -145,8 +146,8 @@ As we can see, continuos colors in the legend, while having great contrast, make
 
 ## Lessons Learned
 
-From a strictly technical standpoint, I learned to set up and use some useful visualization tools in Python.
+From the standpoint of development, I learned to set up and use some useful visualization tools in Python.
 
-For the iterations on the first question it was clear to me the importance of "purging" the data from un-important data points that are too out of scope, and that if what we want to show is a variation over time we should use graph that are made for that specific purpose, instead than trying to compute it beforehand and try to fit it in a graph that was made for a different purpose.
+From the iterations on the first question it was clear to me the importance of "purging" the data from unimportant data points that are too out of scope, and that if we want to show a variation over time, we should use graphs that are made for that specific purpose.
 
 From the iterations on the second question I learned the importance of distinguishing between discrete and continuous data and visualizations.
