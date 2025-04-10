@@ -10,7 +10,14 @@ This can be seen, for example, at [italian results csv](https://github.com/mheta
 
 The most we could know is that *party X*, e.g., `IT01`, which may be `FI` as in `Forza Italia` got 22 seats in the parliament. Unfortunately
 
-We will need to calculate it based in the seats assigned to the whole country and the seats assigned to each single party.
+**Solution:**
+
+We will need to calculate votes percentage based in the seats assigned to the whole country and the seats assigned to each single party, e.g.,
+- PARTY1 10 seats
+- PARTY2 5  seats
+- total 100% = 15 seats 
+- so parties are like 75% and 25%
+ 
 
 ### Build Political Dataset
 
