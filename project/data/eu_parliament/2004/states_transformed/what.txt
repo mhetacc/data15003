@@ -1,0 +1,4 @@
+.csv-s of single state results with calculated based on number of seats 
+e.g.,   - PARTY1 10 seats
+        - PARTY2 5  seats
+        - total 100% = 15 seats 
