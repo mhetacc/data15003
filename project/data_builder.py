@@ -2,8 +2,13 @@ import pandas
 import glob
 
 
-def merge_parties_countries_votepercentage(year):
-        # Read csv files, separating by `;`
+def merge_parties_countries_votepercentage(year, transformed=False):
+    """
+    Merge parties with country names and votes percentage for the given year.
+    If transformed=True it will look into 2004 and 1999 folders for the transformed party election results.
+    """
+
+    # Read csv files, separating by `;`
     parties = pandas.read_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/eu_parliament/{year}/parties.csv', sep=';')
     country_codes = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/country_codes.csv', sep=';')
 
@@ -35,10 +40,4 @@ def merge_parties_countries_votepercentage(year):
 
     # save to csv for debugging
     parties_countries_percentage.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/parties_countries_percentage_{year}.csv', index=False, sep=';')
-
-merge_parties_countries_votepercentage(2024)
-
-
-# 2004, 1999 do not have usable data
-# merge_parties_countries_votepercentage(1999)
 
