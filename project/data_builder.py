@@ -31,15 +31,15 @@ def build_data(year, transformed=False):
     parties_df = [pandas.read_csv(party, sep=';') for party in list_of_parties]
 
     # Concatenate them into a single DataFrame
-    all_parties_merged = pandas.concat(parties_df, ignore_index=True)
+    parties_merged = pandas.concat(parties_df, ignore_index=True)
 
     # save to csv for debugging
-    all_parties_merged.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/all_parties_merged_{year}.csv', index=False, sep=';')
+    parties_merged.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/parties_merged_{year}.csv', index=False, sep=';')
 
 
     # Merge parties with election results 
     # with parties with countries
-    parties_countries_percentage = pandas.merge(parties_with_countries, all_parties_merged, left_on='ID', right_on='PARTY_ID', how='left')
+    parties_countries_percentage = pandas.merge(parties_with_countries, parties_merged, left_on='ID', right_on='PARTY_ID', how='left')
 
     # add random political temperature to each one
     parties_countries_percentage['TEMPERATURE'] = numpy.random.uniform(-2, 2, size=len(parties_countries_percentage))
@@ -101,7 +101,28 @@ def build_data(year, transformed=False):
   
     ##  # Save to CSV
     ##  list_of_parties_df.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/list_of_parties_{year}.csv', index=False, sep=';')
+def merge_all():
+    """
+    Merge all data from all years into one dataframe
+    """
 
+
+    # Get all files with results for each country
+    countries_temp = glob.glob('/home/mhetac/Documents/GitHub/data15003/project/data/build/country_temps_*.csv', recursive=True)
+
+    # Read and store each file into a list of DataFrames
+    countries_merged = [pandas.read_csv(country, sep=';') for country in countries_temp]
+
+
+    # Concatenate them into a single DataFrame
+    countries_temp_all_merged = pandas.concat(countries_merged, ignore_index=True)
+
+    # save to csv for debugging
+    countries_temp_all_merged.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/countries_temp_all_merged.csv', index=False, sep=';')
 
 build_data(2024)
+build_data(2019)
+build_data(2014)
+build_data(2009)
 
+merge_all()

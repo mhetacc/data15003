@@ -28,9 +28,9 @@ Two things to notice:
 1. doing it by hand would require an inordinate amount of time
 2. in the chat we see parties taken from datasets from 2024, so the total quantity is even bigger
 
-I could do it with microsoft copilot with the uni account but i need to manually divide the list of parties since it exceed greatly the max number of characters allowed, as it can be seen at the [prompt link](https://www.microsoft365.com/chat/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429/eyJpZCI6IlZYTmxjbFl4ZkdoMGRIQnpPaTh2YzNWaWMzUnlZWFJsTFdsdWRDNXZabVpwWTJVdVkyOXRMM3hQU1VRNk0yRmpaamsyT1RrdE5EQTFOQzAwWkRCbUxUZzNOVFV0T0dOa01EUXhOVFkwTUdNeWZHUTFOelEwT1daa0xUTTBOVEl0TkRVeE1DMWhNREk1TFdJME16QTBZVEU0TVRneE5ud3lNREkxTFRBMExURTBWREUwT2pFeE9qVXlMakUzTWpReE5qZGEiLCJzY2VuYXJpbyI6InNoYXJlTGluayIsInByb3BlcnRpZXMiOnsicHJvbXB0U291cmNlIjoidXNlciIsImNsaWNrVGltZXN0YW1wIjoiMjAyNS0wNC0xNFQxNDoxMTo1Mi4zMjZaIn0sImNoYXRUeXBlIjoid2ViIiwidmVyc2lvbiI6MS4xfQ)
+I could do it with microsoft copilot with the university account but i need to manually divide the list of parties since it exceed greatly the max number of characters allowed, as it can be seen at the [prompt link](https://www.microsoft365.com/chat/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429/eyJpZCI6IlZYTmxjbFl4ZkdoMGRIQnpPaTh2YzNWaWMzUnlZWFJsTFdsdWRDNXZabVpwWTJVdVkyOXRMM3hQU1VRNk0yRmpaamsyT1RrdE5EQTFOQzAwWkRCbUxUZzNOVFV0T0dOa01EUXhOVFkwTUdNeWZHUTFOelEwT1daa0xUTTBOVEl0TkRVeE1DMWhNREk1TFdJME16QTBZVEU0TVRneE5ud3lNREkxTFRBMExURTBWREUwT2pFeE9qVXlMakUzTWpReE5qZGEiLCJzY2VuYXJpbyI6InNoYXJlTGluayIsInByb3BlcnRpZXMiOnsicHJvbXB0U291cmNlIjoidXNlciIsImNsaWNrVGltZXN0YW1wIjoiMjAyNS0wNC0xNFQxNDoxMTo1Mi4zMjZaIn0sImNoYXRUeXBlIjoid2ViIiwidmVyc2lvbiI6MS4xfQ)
 
-For these reasons, i decided for now to assign a random grading to the various parties which makes it just for demonstration purposes. If time will allow it i will try to get the full result from AIs.
+For these reasons, i decided for now to assign a random grading to the various parties just for demonstration purposes. If time allows it i will try to get the full result from AIs.
 
 ### Build Political Dataset
 
