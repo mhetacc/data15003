@@ -14,7 +14,7 @@ Data taken from: https://docs.google.com/spreadsheets/d/1S6Dgsh_S2ghVo7hSoJ2aD25
 
 # Read data, add the expected grade, add the age offset for each row
 dataframe = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/ii_second_assignment/USA_school_census.csv')
-dataframe['expected_age'] = dataframe['ClassGrade'] + 5
+dataframe['expected_age'] = dataframe['ClassGrade'] + 5 
 dataframe['age_offset'] = dataframe['Ageyears'] - dataframe['expected_age']
 
 # Create dataframe with only useful data

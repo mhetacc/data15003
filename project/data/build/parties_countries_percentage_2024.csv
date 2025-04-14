@@ -1,430 +1,359 @@
-DIVISION_ID;ID;TYPE_x;ACRONYM;LABEL;MEMBER_OF_COALITION;COALITION_MEMBERS;name;alpha-2;alpha-3;country-code;iso_3166-2;region;sub-region;intermediate-region;region-code;sub-region-code;intermediate-region-code;PARTY_ID;TYPE_y;VOTES_PERCENT;UPDATE_STATUS;UPDATE_TIME
-BE;BE01;PARTY;N-VA;Nieuw-Vlaamse Alliantie;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE01;PARTY;13.97;OFFICIAL;2024-07-16 09:44
-BE;BE01;PARTY;N-VA;Nieuw-Vlaamse Alliantie;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE01;PARTY;22.09;OFFICIAL;2024-07-16 09:44
-BE;BE02;PARTY;VB;Vlaams Belang;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE02;PARTY;14.5;OFFICIAL;2024-07-16 09:44
-BE;BE02;PARTY;VB;Vlaams Belang;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE02;PARTY;22.94;OFFICIAL;2024-07-16 09:44
-BE;BE03;PARTY;Open VLD;Open Vlaamse Liberalen en Democraten;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE03;PARTY;5.76;OFFICIAL;2024-07-16 09:44
-BE;BE03;PARTY;Open VLD;Open Vlaamse Liberalen en Democraten;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE03;PARTY;9.11;OFFICIAL;2024-07-16 09:44
-BE;BE04;PARTY;CD&V;Christen-Democratisch en Vlaams;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE04;PARTY;8.34;OFFICIAL;2024-07-16 09:44
-BE;BE04;PARTY;CD&V;Christen-Democratisch en Vlaams;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE04;PARTY;13.2;OFFICIAL;2024-07-16 09:44
-BE;BE05;PARTY;Groen;Groen;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE05;PARTY;6.32;OFFICIAL;2024-07-16 09:44
-BE;BE05;PARTY;Groen;Groen;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE05;PARTY;10.0;OFFICIAL;2024-07-16 09:44
-BE;BE06;PARTY;Vooruit;Vooruit;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE06;PARTY;7.99;OFFICIAL;2024-07-16 09:44
-BE;BE06;PARTY;Vooruit;Vooruit;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE06;PARTY;12.64;OFFICIAL;2024-07-16 09:44
-BE;BE07;PARTY;PVDA;Partij van de Arbeid van België;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE07;PARTY;5.13;OFFICIAL;2024-07-16 09:44
-BE;BE07;PARTY;PVDA;Partij van de Arbeid van België;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE07;PARTY;8.12;OFFICIAL;2024-07-16 09:44
-BE;BE08;PARTY;PS;Parti Socialiste;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE08;PARTY;20.52;OFFICIAL;2024-07-16 09:44
-BE;BE08;PARTY;PS;Parti Socialiste;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE08;PARTY;7.43;OFFICIAL;2024-07-16 09:44
-BE;BE09;PARTY;ECOLO;Ecologistes Confédérés pour l'Organisation de Luttes Originales;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE09;PARTY;10.06;OFFICIAL;2024-07-16 09:44
-BE;BE09;PARTY;ECOLO;Ecologistes Confédérés pour l'Organisation de Luttes Originales;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE09;PARTY;3.64;OFFICIAL;2024-07-16 09:44
-BE;BE10;PARTY;MR;Mouvement Réformateur;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE10;PARTY;34.88;OFFICIAL;2024-07-16 09:44
-BE;BE10;PARTY;MR;Mouvement Réformateur;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE10;PARTY;12.62;OFFICIAL;2024-07-16 09:44
-BE;BE11;PARTY;Les Engagés;Les Engagés;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE11;PARTY;14.28;OFFICIAL;2024-07-16 09:44
-BE;BE11;PARTY;Les Engagés;Les Engagés;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE11;PARTY;5.17;OFFICIAL;2024-07-16 09:44
-BE;BE12;PARTY;DéFI;Démocrate Fédéraliste Indépendant;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE12;PARTY;2.91;OFFICIAL;2024-07-16 09:44
-BE;BE12;PARTY;DéFI;Démocrate Fédéraliste Indépendant;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE12;PARTY;1.05;OFFICIAL;2024-07-16 09:44
-BE;BE13;PARTY;PTB;Parti du Travail de Belgique;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE13;PARTY;15.38;OFFICIAL;2024-07-16 09:44
-BE;BE13;PARTY;PTB;Parti du Travail de Belgique;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE13;PARTY;5.57;OFFICIAL;2024-07-16 09:44
-BE;BE14;PARTY;CSP;Christlich Soziale Partei;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE14;PARTY;0.21;OFFICIAL;2024-07-16 09:44
-BE;BE14;PARTY;CSP;Christlich Soziale Partei;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE14;PARTY;34.93;OFFICIAL;2024-07-16 09:44
-BE;BE15;PARTY;SP;Sozialistische Partei;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE15;PARTY;0.07;OFFICIAL;2024-07-16 09:44
-BE;BE15;PARTY;SP;Sozialistische Partei;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE15;PARTY;11.82;OFFICIAL;2024-07-16 09:44
-BE;BE16;PARTY;PFF-MR;Partei für Freiheit und Fortschritt;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE16;PARTY;0.08;OFFICIAL;2024-07-16 09:44
-BE;BE16;PARTY;PFF-MR;Partei für Freiheit und Fortschritt;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE16;PARTY;13.57;OFFICIAL;2024-07-16 09:44
-BE;BE17;PARTY;ProDG;Pro deutschsprachige Gemeinschaft;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE17;PARTY;0.1;OFFICIAL;2024-07-16 09:44
-BE;BE17;PARTY;ProDG;Pro deutschsprachige Gemeinschaft;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE17;PARTY;16.43;OFFICIAL;2024-07-16 09:44
-BE;BE18;PARTY;ECOLO (G.);Ecologistes Confédérés pour l'Organisation de Luttes Originales (G.);;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE18;PARTY;0.07;OFFICIAL;2024-07-16 09:44
-BE;BE18;PARTY;ECOLO (G.);Ecologistes Confédérés pour l'Organisation de Luttes Originales (G.);;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE18;PARTY;11.1;OFFICIAL;2024-07-16 09:44
-BE;BE90;PARTY;Other parties F.;Other parties from Dutch-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE90;PARTY;1.2;OFFICIAL;2024-07-16 09:44
-BE;BE90;PARTY;Other parties F.;Other parties from Dutch-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE90;PARTY;1.9;OFFICIAL;2024-07-16 09:44
-BE;BE91;PARTY;Other parties W.;Other parties from French-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE91;PARTY;1.97;OFFICIAL;2024-07-16 09:44
-BE;BE91;PARTY;Other parties W.;Other parties from French-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE91;PARTY;0.71;OFFICIAL;2024-07-16 09:44
-BE;BE92;PARTY;Other parties G.;Other parties from German-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE92;PARTY;0.07;OFFICIAL;2024-07-16 09:44
-BE;BE92;PARTY;Other parties G.;Other parties from German-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE92;PARTY;12.15;OFFICIAL;2024-07-16 09:44
-FBE;BE01;PARTY;N-VA;Nieuw-Vlaamse Alliantie;;;;;;;;;;;;;;BE01;PARTY;13.97;OFFICIAL;2024-07-16 09:44
-FBE;BE01;PARTY;N-VA;Nieuw-Vlaamse Alliantie;;;;;;;;;;;;;;BE01;PARTY;22.09;OFFICIAL;2024-07-16 09:44
-FBE;BE02;PARTY;VB;Vlaams Belang;;;;;;;;;;;;;;BE02;PARTY;14.5;OFFICIAL;2024-07-16 09:44
-FBE;BE02;PARTY;VB;Vlaams Belang;;;;;;;;;;;;;;BE02;PARTY;22.94;OFFICIAL;2024-07-16 09:44
-FBE;BE03;PARTY;Open VLD;Open Vlaamse Liberalen en Democraten;;;;;;;;;;;;;;BE03;PARTY;5.76;OFFICIAL;2024-07-16 09:44
-FBE;BE03;PARTY;Open VLD;Open Vlaamse Liberalen en Democraten;;;;;;;;;;;;;;BE03;PARTY;9.11;OFFICIAL;2024-07-16 09:44
-FBE;BE04;PARTY;CD&V;Christen-Democratisch en Vlaams;;;;;;;;;;;;;;BE04;PARTY;8.34;OFFICIAL;2024-07-16 09:44
-FBE;BE04;PARTY;CD&V;Christen-Democratisch en Vlaams;;;;;;;;;;;;;;BE04;PARTY;13.2;OFFICIAL;2024-07-16 09:44
-FBE;BE05;PARTY;Groen;Groen;;;;;;;;;;;;;;BE05;PARTY;6.32;OFFICIAL;2024-07-16 09:44
-FBE;BE05;PARTY;Groen;Groen;;;;;;;;;;;;;;BE05;PARTY;10.0;OFFICIAL;2024-07-16 09:44
-FBE;BE06;PARTY;Vooruit;Vooruit;;;;;;;;;;;;;;BE06;PARTY;7.99;OFFICIAL;2024-07-16 09:44
-FBE;BE06;PARTY;Vooruit;Vooruit;;;;;;;;;;;;;;BE06;PARTY;12.64;OFFICIAL;2024-07-16 09:44
-FBE;BE07;PARTY;PVDA;Partij van de Arbeid van België;;;;;;;;;;;;;;BE07;PARTY;5.13;OFFICIAL;2024-07-16 09:44
-FBE;BE07;PARTY;PVDA;Partij van de Arbeid van België;;;;;;;;;;;;;;BE07;PARTY;8.12;OFFICIAL;2024-07-16 09:44
-FBE;BE90;PARTY;Other parties F.;Other parties from Dutch-speaking electoral college;;;;;;;;;;;;;;BE90;PARTY;1.2;OFFICIAL;2024-07-16 09:44
-FBE;BE90;PARTY;Other parties F.;Other parties from Dutch-speaking electoral college;;;;;;;;;;;;;;BE90;PARTY;1.9;OFFICIAL;2024-07-16 09:44
-GBE;BE14;PARTY;CSP;Christlich Soziale Partei ;;;;;;;;;;;;;;BE14;PARTY;0.21;OFFICIAL;2024-07-16 09:44
-GBE;BE14;PARTY;CSP;Christlich Soziale Partei ;;;;;;;;;;;;;;BE14;PARTY;34.93;OFFICIAL;2024-07-16 09:44
-GBE;BE15;PARTY;SP;Sozialistische Partei;;;;;;;;;;;;;;BE15;PARTY;0.07;OFFICIAL;2024-07-16 09:44
-GBE;BE15;PARTY;SP;Sozialistische Partei;;;;;;;;;;;;;;BE15;PARTY;11.82;OFFICIAL;2024-07-16 09:44
-GBE;BE16;PARTY;PFF-MR;Partei für Freiheit und Fortschritt;;;;;;;;;;;;;;BE16;PARTY;0.08;OFFICIAL;2024-07-16 09:44
-GBE;BE16;PARTY;PFF-MR;Partei für Freiheit und Fortschritt;;;;;;;;;;;;;;BE16;PARTY;13.57;OFFICIAL;2024-07-16 09:44
-GBE;BE17;PARTY;ProDG;Pro deutschsprachige Gemeinschaft ;;;;;;;;;;;;;;BE17;PARTY;0.1;OFFICIAL;2024-07-16 09:44
-GBE;BE17;PARTY;ProDG;Pro deutschsprachige Gemeinschaft ;;;;;;;;;;;;;;BE17;PARTY;16.43;OFFICIAL;2024-07-16 09:44
-GBE;BE18;PARTY;ECOLO (G.);Ecologistes Confédérés pour l'Organisation de Luttes Originales ;;;;;;;;;;;;;;BE18;PARTY;0.07;OFFICIAL;2024-07-16 09:44
-GBE;BE18;PARTY;ECOLO (G.);Ecologistes Confédérés pour l'Organisation de Luttes Originales ;;;;;;;;;;;;;;BE18;PARTY;11.1;OFFICIAL;2024-07-16 09:44
-GBE;BE92;PARTY;Other parties G.;Other parties from German-speaking electoral college;;;;;;;;;;;;;;BE92;PARTY;0.07;OFFICIAL;2024-07-16 09:44
-GBE;BE92;PARTY;Other parties G.;Other parties from German-speaking electoral college;;;;;;;;;;;;;;BE92;PARTY;12.15;OFFICIAL;2024-07-16 09:44
-WBE;BE08;PARTY;PS;Parti Socialiste;;;;;;;;;;;;;;BE08;PARTY;20.52;OFFICIAL;2024-07-16 09:44
-WBE;BE08;PARTY;PS;Parti Socialiste;;;;;;;;;;;;;;BE08;PARTY;7.43;OFFICIAL;2024-07-16 09:44
-WBE;BE09;PARTY;ECOLO;Ecologistes Confédérés pour l'Organisation de Luttes Originales;;;;;;;;;;;;;;BE09;PARTY;10.06;OFFICIAL;2024-07-16 09:44
-WBE;BE09;PARTY;ECOLO;Ecologistes Confédérés pour l'Organisation de Luttes Originales;;;;;;;;;;;;;;BE09;PARTY;3.64;OFFICIAL;2024-07-16 09:44
-WBE;BE10;PARTY;MR;Mouvement Réformateur;;;;;;;;;;;;;;BE10;PARTY;34.88;OFFICIAL;2024-07-16 09:44
-WBE;BE10;PARTY;MR;Mouvement Réformateur;;;;;;;;;;;;;;BE10;PARTY;12.62;OFFICIAL;2024-07-16 09:44
-WBE;BE11;PARTY;Les Engagés;Les Engagés;;;;;;;;;;;;;;BE11;PARTY;14.28;OFFICIAL;2024-07-16 09:44
-WBE;BE11;PARTY;Les Engagés;Les Engagés;;;;;;;;;;;;;;BE11;PARTY;5.17;OFFICIAL;2024-07-16 09:44
-WBE;BE12;PARTY;DéFI;Démocrate Fédéraliste Indépendant;;;;;;;;;;;;;;BE12;PARTY;2.91;OFFICIAL;2024-07-16 09:44
-WBE;BE12;PARTY;DéFI;Démocrate Fédéraliste Indépendant;;;;;;;;;;;;;;BE12;PARTY;1.05;OFFICIAL;2024-07-16 09:44
-WBE;BE13;PARTY;PTB;Parti du Travail de Belgique;;;;;;;;;;;;;;BE13;PARTY;15.38;OFFICIAL;2024-07-16 09:44
-WBE;BE13;PARTY;PTB;Parti du Travail de Belgique;;;;;;;;;;;;;;BE13;PARTY;5.57;OFFICIAL;2024-07-16 09:44
-WBE;BE91;PARTY;Other parties W.;Other parties from French-speaking electoral college;;;;;;;;;;;;;;BE91;PARTY;1.97;OFFICIAL;2024-07-16 09:44
-WBE;BE91;PARTY;Other parties W.;Other parties from French-speaking electoral college;;;;;;;;;;;;;;BE91;PARTY;0.71;OFFICIAL;2024-07-16 09:44
-BG;BG01;COALITION;GERB - SDS/ГЕРБ - СДС ;Coalition Grazhdani za evropeysko razvitie na Balgariya - Sayuz na demokratichnite sili/Граждани за европейско развитие на България - Съюз на демократичните сили;;BG11|BG12;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG01;COALITION;23.55;OFFICIAL;2024-07-16 12:32
-BG;BG11;PARTY;GERB/ГЕРБ;Grazhdani za evropeysko razvitie na Balgariya;BG01;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;;;;;
-BG;BG12;PARTY;SDS/СДС;Sayuz na demokratichnite sili/Съюз на демократичните сили;BG01;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;;;;;
-BG;BG02;PARTY;BSP/БСП;Bulgarska sotsialisticheska partiy/Българска социалистическа партия;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG02;PARTY;7.01;OFFICIAL;2024-07-16 12:32
-BG;BG03;PARTY;DPS/ДПС;Dvizhenie za prava i svobodi/Движение за права и свободи;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG03;PARTY;14.66;OFFICIAL;2024-07-16 12:32
-BG;BG04;COALITION;PP - DB/ПП - ДБ;Coalition Prodalzhavame promyanata – Demokratichna Balgariya/Продължаваме промяната – Демократична България;;BG14|BG13;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG04;COALITION;14.45;OFFICIAL;2024-07-16 12:32
-BG;BG14;PARTY;DSB/ДСБ;Demokratichna Balgariya/Демократична България;BG04;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;;;;;
-BG;BG13;PARTY;PP/ПП;Prodalzhavame promyanata/Продължаваме промяната;BG04;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;;;;;
-BG;BG05;PARTY;Vazrazhdane/Възраждане;Vazrazhdane/Възраждане;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG05;PARTY;13.98;OFFICIAL;2024-07-16 12:32
-BG;BG06;PARTY;ITN/ИТН;Ima takav narod/Има такъв народ;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG06;PARTY;6.04;OFFICIAL;2024-07-16 12:32
-BG;BG90;PARTY;Other parties;Other parties;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG90;PARTY;20.31;OFFICIAL;2024-07-16 12:32
-CZ;CZ01;PARTY;ANO 2011;ANO 2011;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ01;PARTY;26.14;OFFICIAL;2024-07-16 12:32
-CZ;CZ02;PARTY;Piráti;Česká pirátská strana;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ02;PARTY;6.2;OFFICIAL;2024-07-16 12:32
-CZ;CZ03;COALITION;STAN - SLK;Coalition Starostové a osobnosti pro Evropu Starostové a nezávislí, Starostové pro Liberecký kraj;;CZ21;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ03;COALITION;8.7;OFFICIAL;2024-07-16 12:32
-CZ;CZ21;PARTY;STAN;Starostové a nezávislí;CZ03;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ04;COALITION;Stačilo!;Coalition Stačilo! (Komunistická strana Čech a Moravy, Česká strana národně sociální, Spojení demokraté – Sdružení nezávislých);;CZ20|CZ19;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ04;COALITION;9.56;OFFICIAL;2024-07-16 12:32
-CZ;CZ20;PARTY;Ind.;Independent;CZ04;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ19;PARTY;KSČM;Komunistická strana Čech a Moravy;CZ04;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ05;PARTY;SOCDEM ;Sociální Demokracie ;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ05;PARTY;1.86;OFFICIAL;2024-07-16 12:32
-CZ;CZ06;PARTY;Svobodní;Strana Svobodných Občanů;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ06;PARTY;1.76;OFFICIAL;2024-07-16 12:32
-CZ;CZ07;COALITION;SPOLU;Coalition SPOLU (Občanská demokratická strana, Křesťanská a demokratická unie – Československá strana lidová, Tradice Odpovědnost Prosperita 09);;CZ14|CZ16|CZ15;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ07;COALITION;22.27;OFFICIAL;2024-07-16 12:32
-CZ;CZ14;PARTY;Coalition SPOLU;Coalition SPOLU;CZ07;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ16;PARTY;KDU-ČSL;Křesťanská a demokratická unie – Československá strana lidová;CZ07;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ15;PARTY;ODS;Občanská demokratická strana;CZ07;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ08;PARTY;Zelení;Strana zelených;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ08;PARTY;1.55;OFFICIAL;2024-07-16 12:32
-CZ;CZ09;COALITION;Přísaha a Motoristé;Coalition Přísaha a Motoristé (Přísaha – občanské hnutí Roberta Šlachty, AUTO - Motoristé sobě);;CZ17|CZ18;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ09;COALITION;10.26;OFFICIAL;2024-07-16 12:32
-CZ;CZ17;PARTY;AUTO;Motoristé sobě;CZ09;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ18;PARTY;Přísaha;Přísaha;CZ09;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ10;COALITION;SPD a Trikolora;Coalition SPD a Trikolora (Svoboda a přímá demokracie, Trikolóra hnutí občanů);;CZ22;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ10;COALITION;5.73;OFFICIAL;2024-07-16 12:32
-CZ;CZ22;PARTY;SPD;Svoboda a přímá demokracie;CZ10;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;;;;;
-CZ;CZ11;PARTY;PRO ;Právo Respekt Odbornost -  Jindřicha Rajchla;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ11;PARTY;2.15;OFFICIAL;2024-07-16 12:32
-CZ;CZ90;PARTY;Other parties;Other parties;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ90;PARTY;3.82;OFFICIAL;2024-07-16 12:32
-DK;DK01;PARTY;V;Venstre, Danmarks Liberale Parti;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK01;PARTY;14.72;OFFICIAL;2024-07-15 17:47
-DK;DK02;PARTY;S (A);Socialdemokratiet ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK02;PARTY;15.57;OFFICIAL;2024-07-15 17:47
-DK;DK03;PARTY;SF (F);Socialistisk Folkeparti ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK03;PARTY;17.42;OFFICIAL;2024-07-15 17:47
-DK;DK04;PARTY;DF (O);Dansk Folkeparti ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK04;PARTY;6.37;OFFICIAL;2024-07-15 17:47
-DK;DK05;PARTY;RV (B);Radikale Venstre ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK05;PARTY;7.08;OFFICIAL;2024-07-15 17:47
-DK;DK06;PARTY;KF (C)  ;Det Konservative Folkeparti ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK06;PARTY;8.84;OFFICIAL;2024-07-15 17:47
-DK;DK07;PARTY;EL (Ø);Enhedslisten - De Rød-Grønne;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK07;PARTY;7.04;OFFICIAL;2024-07-15 17:47
-DK;DK08;PARTY;ALT (Å);Alternativet ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK08;PARTY;2.66;OFFICIAL;2024-07-15 17:47
-DK;DK09;PARTY;LA (I);Liberal Alliance ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK09;PARTY;6.95;OFFICIAL;2024-07-15 17:47
-DK;DK10;PARTY;M;Moderaterne ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK10;PARTY;5.95;OFFICIAL;2024-07-15 17:47
-DK;DK11;PARTY;DD (Æ);Danmarksdemokraterne - Inger Støjberg;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK11;PARTY;7.39;OFFICIAL;2024-07-15 17:47
-DK;DK90;PARTY;Other parties;Other parties;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK90;PARTY;0.0;OFFICIAL;2024-07-15 17:47
-DE;DE01;COALITION;CDU/CSU;Christlich Demokratische Union Deutschlands/Christlich-Soziale Union in Bayern ;;DE22|DE21;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE01;COALITION;30.0;OFFICIAL;2024-07-16 13:26
-DE;DE22;PARTY;CDU;Christlich Demokratische Union Deutschlands;DE01;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;;;;;
-DE;DE21;PARTY;CSU;Christlich-Soziale Union in Bayern;DE01;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;;;;;
-DE;DE02;PARTY;SPD;Sozialdemokratische Partei Deutschlands;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE02;PARTY;13.9;OFFICIAL;2024-07-16 13:26
-DE;DE03;PARTY;Die Grünen;Bündnis 90/Die Grünen;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE03;PARTY;11.9;OFFICIAL;2024-07-16 13:26
-DE;DE04;PARTY;AfD;Alternative für Deutschland;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE04;PARTY;15.9;OFFICIAL;2024-07-16 13:26
-DE;DE05;COALITION;Die Linke;Die Linke;;DE24|DE23;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE05;COALITION;2.7;OFFICIAL;2024-07-16 13:26
-DE;DE24;PARTY;Die Linke;Die Linke;DE05;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;;;;;
-DE;DE23;PARTY;Ind.;Independent;DE05;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;;;;;
-DE;DE06;PARTY;FDP;Freie Demokratische Partei;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE06;PARTY;5.2;OFFICIAL;2024-07-16 13:26
-DE;DE07;PARTY;FW;Freie Wähler;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE07;PARTY;2.7;OFFICIAL;2024-07-16 13:26
-DE;DE08;PARTY;Tierschutzpartei;Partei Mensch Umwelt Tierschutz;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE08;PARTY;1.4;OFFICIAL;2024-07-16 13:26
-DE;DE09;PARTY;BSW;Bündnis Sahra Wagenknecht - Für Vernunft und Gerechtigkeit;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE09;PARTY;6.2;OFFICIAL;2024-07-16 13:26
-DE;DE10;PARTY;Piratenpartei;Piratenpartei Deutschland;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE10;PARTY;0.5;OFFICIAL;2024-07-16 13:26
-DE;DE11;PARTY;Familie;Familien-Partei Deutschlands                                                               ;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE11;PARTY;0.6;OFFICIAL;2024-07-16 13:26
-DE;DE12;PARTY;ÖDP ;Ökologisch-Demokratische Partei;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE12;PARTY;0.6;OFFICIAL;2024-07-16 13:26
-DE;DE13;PARTY;Die Partei;Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE13;PARTY;1.9;OFFICIAL;2024-07-16 13:26
-DE;DE14;PARTY;Volt;Volt Deutschland;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE14;PARTY;2.6;OFFICIAL;2024-07-16 13:26
-DE;DE16;PARTY;PdF;Partei des Fortschritts;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE16;PARTY;0.6;OFFICIAL;2024-07-16 13:26
-DE;DE90;PARTY;Other parties;Other parties;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE90;PARTY;3.3;OFFICIAL;2024-07-16 13:26
-EE;EE01;PARTY;ER;Eesti Reformierakond;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE01;PARTY;17.9;OFFICIAL;2024-07-16 12:32
-EE;EE02;PARTY;SDE;Sotsiaaldemokraatlik Erakond;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE02;PARTY;19.3;OFFICIAL;2024-07-16 12:32
-EE;EE03;PARTY;KE;Eesti Keskerakond;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE03;PARTY;12.4;OFFICIAL;2024-07-16 12:32
-EE;EE04;COALITION;EKRE;Eesti Konservatiivne Rahvaerakond;;EE10;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE04;COALITION;14.8;OFFICIAL;2024-07-16 12:32
-EE;EE10;PARTY;Ind.;Independent;EE04;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;;;;;
-EE;EE05;PARTY;Isamaa;Isamaa Erakond;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE05;PARTY;21.5;OFFICIAL;2024-07-16 12:32
-EE;EE06;PARTY;E200;Erakond Eesti 200;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE06;PARTY;2.6;OFFICIAL;2024-07-16 12:32
-EE;EE07;PARTY;EER;Erakond Eestimaa Rohelised;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE07;PARTY;0.6;OFFICIAL;2024-07-16 12:32
-EE;EE08;PARTY;EP;Erakond Parempoolsed;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE08;PARTY;6.8;OFFICIAL;2024-07-16 12:32
-EE;EE09;PARTY;KOOS ;KOOS organisatsioon osutab suveräänsusele;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE09;PARTY;3.1;OFFICIAL;2024-07-16 12:32
-EE;EE90;PARTY;Other parties;Other parties;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE90;PARTY;1.0;OFFICIAL;2024-07-16 12:32
-IE;IE01;PARTY;FG;Fine Gael;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE01;PARTY;20.79;FINAL;2024-07-16 12:32
-IE;IE02;PARTY;FF;Fianna Fáil – The Republican Party/Fianna Fáil - An Páirtí Poblachtánach;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE02;PARTY;20.44;FINAL;2024-07-16 12:32
-IE;IE03;PARTY;IND/Neamhspleách;Independent/Neamhspleách;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE03;PARTY;13.97;FINAL;2024-07-16 12:32
-IE;IE04;PARTY;SF;Sinn Féin;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE04;PARTY;11.14;FINAL;2024-07-16 12:32
-IE;IE05;PARTY;GP/CG;Green Party/An Comhaontas Glas;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE05;PARTY;5.36;FINAL;2024-07-16 12:32
-IE;IE06;PARTY;Lab/LO;The Labour Party/Páirtí an Lucht Oibre;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE06;PARTY;3.38;FINAL;2024-07-16 12:32
-IE;IE07;PARTY;PBP-S/D-PSB;People Before Profit–Solidarity/Dlúthpháirtíocht–Pobal Seachas Brabús;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE07;PARTY;1.82;FINAL;2024-07-16 12:32
-IE;IE08;PARTY;SD/DS;Social Democrats/Daonlathaithe Sóisialta;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE08;PARTY;2.95;FINAL;2024-07-16 12:32
-IE;IE09;PARTY;Aon;Aontú;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE09;PARTY;3.76;FINAL;2024-07-16 12:32
-IE;IE12;PARTY;I4C;Independents 4 Change/Neamhspleáigh ar son an Athraithe ;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE12;PARTY;4.58;FINAL;2024-07-16 12:32
-IE;IE13;COALITION;Independent Ireland ;Independent Ireland ;;IE14;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE13;COALITION;6.23;FINAL;2024-07-16 12:32
-IE;IE14;PARTY;Ind. IE;Independent;IE13;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;;;;;
-IE;IE90;PARTY;Other parties;Other parties;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE90;PARTY;5.58;FINAL;2024-07-16 12:32
-EL;EL01;PARTY;ND/ΝΔ;Néa Dimokratía/Νέα Δημοκρατία;;;;;;;;;;;;;;EL01;PARTY;28.31;OFFICIAL;2024-07-16 09:44
-EL;EL02;PARTY;SYRΙΖΑ/ΣΥΡΙΖΑ;Sinaspismós Rizospastikís Aristerás/Συνασπισμός Ριζοσπαστικής Αριστεράς;;;;;;;;;;;;;;EL02;PARTY;14.92;OFFICIAL;2024-07-16 09:44
-EL;EL03;PARTY;PASOK/ΠΑΣΟΚ;PASOK – Kínima Allagís/ΠΑΣΟΚ – Κίνημα Αλλαγής;;;;;;;;;;;;;;EL03;PARTY;12.79;OFFICIAL;2024-07-16 09:44
-EL;EL04;PARTY;KKE;Kommounistikó Kómma Elládas/Κομμουνιστικό Κόμμα Ελλάδας;;;;;;;;;;;;;;EL04;PARTY;9.25;OFFICIAL;2024-07-16 09:44
-EL;EL05;PARTY;EL/EΛ;Ellinikí Lýsi/Ελληνική Λύση;;;;;;;;;;;;;;EL05;PARTY;9.3;OFFICIAL;2024-07-16 09:44
-EL;EL06;PARTY;MeRA25/ΜέΡΑ25;Μétopo Evropaikís Realistikís Anypakoís/Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής;;;;;;;;;;;;;;EL06;PARTY;2.54;OFFICIAL;2024-07-16 09:44
-EL;EL07;PARTY;PE/ΠE;Plefsi Eleftherias/Πλεύση Ελευθερίας;;;;;;;;;;;;;;EL07;PARTY;3.4;OFFICIAL;2024-07-16 09:44
-EL;EL08;PARTY;NIKI/NIKH;Dimokratikó Patriotikó Kínima “Níki”/Δημοκρατικό Πατριωτικό Κίνημα “Νίκη”;;;;;;;;;;;;;;EL08;PARTY;4.37;OFFICIAL;2024-07-16 09:44
-EL;EL09;PARTY;NE.A.;Néa Aristerá/Νέα Αριστερά ;;;;;;;;;;;;;;EL09;PARTY;2.45;OFFICIAL;2024-07-16 09:44
-EL;EL10;PARTY;Dimokrátes/Δημοκράτες;Dimokrátes/Δημοκράτες;;;;;;;;;;;;;;EL10;PARTY;1.45;OFFICIAL;2024-07-16 09:44
-EL;EL11;PARTY;Foni Logikis/Φωνή λογικής;Foni Logikis/Φωνή λογικής;;;;;;;;;;;;;;EL11;PARTY;3.04;OFFICIAL;2024-07-16 09:44
-EL;EL12;PARTY;Kosmos/Kόσμος;Kosmos/Kόσμος;;;;;;;;;;;;;;EL12;PARTY;1.08;OFFICIAL;2024-07-16 09:44
-EL;EL90;PARTY;Other parties;Other parties;;;;;;;;;;;;;;EL90;PARTY;7.1;OFFICIAL;2024-07-16 09:44
-ES;ES01;COALITION;PSOE ;Partido Socialista Obrero Español ;;ES21|ES22;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES01;COALITION;30.19;FINAL;2024-07-16 12:32
-ES;ES21;PARTY;PSOE;Partido Socialista Obrero Español;ES01;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;;;;;
-ES;ES22;PARTY;PSC- PSOE;Partit dels Socialistes de Catalunya;ES01;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;;;;;
-ES;ES02;PARTY;PP;Partido Popular;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES02;PARTY;34.21;FINAL;2024-07-16 12:32
-ES;ES03;COALITION;Sumar;Coalition Sumar (Movimiento Sumar, Catalunya en Comú, Compromís, Izquierda Unida, Más Madrid, Verdes Equo, Chunta Aragonesista, Iniciativa del Pueblo Andaluz, Nueva Canarias - Bloque Canarista);;ES19|ES20;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES03;COALITION;4.67;FINAL;2024-07-16 12:32
-ES;ES19;PARTY;Compromís;Compromís;ES03;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;;;;;
-ES;ES20;PARTY;SMR;Movimiento Sumar;ES03;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;;;;;
-ES;ES04;PARTY;Podemos;Podemos;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES04;PARTY;3.3;FINAL;2024-07-16 12:32
-ES;ES05;PARTY;Vox;Vox;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES05;PARTY;9.63;FINAL;2024-07-16 12:32
-ES;ES06;PARTY;Junts UE;Coalition Junts i Lliures per Europa (Junts, Demòcrates de Catalunya, Moviment d'Esquerres de Catalunya, et al.);;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES06;PARTY;2.52;FINAL;2024-07-16 12:32
-ES;ES07;COALITION;Ahora Repúblicas;Coalition Ahora Repúblicas (Esquerra Republicana de Catalunya, Euskal Herria Bildu, Bloque Nacionalista Galego, Ara Més, et al.);;ES16|ES18|ES17;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES07;COALITION;4.91;FINAL;2024-07-16 12:32
-ES;ES16;PARTY;BNG;Bloque Nacionalista Galego;ES07;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;;;;;
-ES;ES18;PARTY;ERC;Esquerra Republicana de Catalunya;ES07;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;;;;;
-ES;ES17;PARTY;EH BILDU;Euskal Herria Bildu;ES07;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;;;;;
-ES;ES08;COALITION;CEUS;Coalition CEUS (Euzko Alderdi Jeltzalea - Partido Nacionalista Vasco, Coalición Canaria, El Pi - Proposta per les Illes Balears, Agrupación Atarrabia - Atarrabia Taldea, Geroa Socialverdes de Navarra en Europa - Geroa Nafarroako Sozialberdeak Europan);;ES15;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES08;COALITION;1.63;FINAL;2024-07-16 12:32
-ES;ES15;PARTY;EAJ – PNV;Euzko Alderdi Jeltzalea - Partido Nacionalista Vasco;ES08;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;;;;;
-ES;ES11;PARTY;SALF;Se Acabó la Fiesta;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES11;PARTY;4.58;FINAL;2024-07-16 12:32
-ES;ES90;PARTY;Other parties;Other parties;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES90;PARTY;4.36;FINAL;2024-07-16 12:32
-FR;FR01;PARTY;RN;Rassemblement national;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR01;PARTY;31.37;OFFICIAL;2024-07-16 12:32
-FR;FR02;COALITION;Besoin d'Europe;Coalition Besoin d'Europe (Renaissance, Modem, Horizons, Parti Radical, Union des démocrates et indépendants);;FR17|FR19|FR18|FR20|FR21;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR02;COALITION;14.6;OFFICIAL;2024-07-16 12:32
-FR;FR17;PARTY;Horizons;Horizons;FR02;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR19;PARTY;Ind.;Independant;FR02;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR18;PARTY;MoDem;MoDem;FR02;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR20;PARTY;Renaissance;Renaissance;FR02;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR21;PARTY;UDI;Union des démocrates et indépendants;FR02;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR03;PARTY;LE - EELV;Les Écologistes - Europe Ecologie Les Verts;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR03;PARTY;5.5;OFFICIAL;2024-07-16 12:32
-FR;FR04;PARTY;LR;Les Républicains;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR04;PARTY;7.25;OFFICIAL;2024-07-16 12:32
-FR;FR05;PARTY;LFI;La France Insoumise;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR05;PARTY;9.89;OFFICIAL;2024-07-16 12:32
-FR;FR06;COALITION;Réveiller l'Europe;Coalition Réveiller l'Europe (Parti socialiste, Place publique);;FR24|FR23;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR06;COALITION;13.83;OFFICIAL;2024-07-16 12:32
-FR;FR24;PARTY;PS;Parti socialiste;FR06;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR23;PARTY;Place publique;Place publique;FR06;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR07;PARTY;Gauche Unie;Coalition Gauche Unie (Parti communiste français, Gauche républicaine et socialiste);;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR07;PARTY;2.36;OFFICIAL;2024-07-16 12:32
-FR;FR08;COALITION;La France fière;Coalition La France fière (Reconquête!, Centre national des indépendants et paysans);;FR15|FR22|FR14|FR16;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR08;COALITION;5.47;OFFICIAL;2024-07-16 12:32
-FR;FR15;PARTY;DVD;Divers Droite;FR08;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR22;PARTY;Independent;Independent;FR08;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR14;PARTY;Mouvement conservateur;Mouvement conservateur;FR08;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR16;PARTY;Reconquête!;Reconquête!;FR08;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;;;;;
-FR;FR09;PARTY;AR;Alliance Rurale;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR09;PARTY;2.35;OFFICIAL;2024-07-16 12:32
-FR;FR10;PARTY;PA;Parti Animaliste;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR10;PARTY;2.0;OFFICIAL;2024-07-16 12:32
-FR;FR11;PARTY;UPR;Union Populaire Républicaine;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR11;PARTY;1.02;OFFICIAL;2024-07-16 12:32
-FR;FR12;PARTY;L'Europe ça suffit;Coalition L'Europe ça suffit (Les Patriotes, Via, la voie du peuple);;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR12;PARTY;0.93;OFFICIAL;2024-07-16 12:32
-FR;FR13;PARTY;NPA;Nouveau Parti Anticapitaliste;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR13;PARTY;0.15;OFFICIAL;2024-07-16 12:32
-FR;FR90;PARTY;Other parties;Other parties;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR90;PARTY;3.28;OFFICIAL;2024-07-16 12:32
-IT;IT01;PARTY;Lega Salvini Premier;Lega Salvini Premier;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT01;PARTY;8.97;FINAL;2024-07-16 12:32
-IT;IT02;PARTY;PD;Partito Democratico;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT02;PARTY;24.11;FINAL;2024-07-16 12:32
-IT;IT03;PARTY;M5S;Movimento Cinque Stelle;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT03;PARTY;9.98;FINAL;2024-07-16 12:32
-IT;IT04;COALITION;FI – NM;Coalition Forza italia - Noi Moderati (Forza Italia, Noi Moderati);;IT13;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT04;COALITION;9.58;FINAL;2024-07-16 12:32
-IT;IT13;PARTY;FI;Forza Italia;IT04;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;;;;;
-IT;IT05;PARTY;FdI;Fratelli d'Italia;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT05;PARTY;28.75;FINAL;2024-07-16 12:32
-IT;IT06;COALITION;Alleanza Verdi e Sinistra ;Coalition Alleanza Verdi e Sinistra (Europa Verde, Sinistra Italiana);;IT15|IT14|IT16;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT06;COALITION;6.79;FINAL;2024-07-16 12:32
-IT;IT15;PARTY;AVS;AVS;IT06;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;;;;;
-IT;IT14;PARTY;Europa Verde;Europa Verde;IT06;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;;;;;
-IT;IT16;PARTY;Ind.;Independent;IT06;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;;;;;
-IT;IT07;PARTY;Azione – Siamo Europei ;Coalition Azione – Siamo Europei (Azione, NOS , Popolari Europeisti e Riformatori, Partito Repubblicano Italiano, Movimento Repubblicani Europei,  Team K, et al);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT07;PARTY;3.36;FINAL;2024-07-16 12:32
-IT;IT08;PARTY;SVP;Südtiroler Volkspartei (Popolare Sudtirolese);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT08;PARTY;0.52;FINAL;2024-07-16 12:32
-IT;IT09;PARTY;Democrazia sovrana popolare ;Coalition Democrazia sovrana popolare (Partito Comunista, Ancora Italia sovrana e popolare);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT09;PARTY;0.15;FINAL;2024-07-16 12:32
-IT;IT10;PARTY;Pace Terra Dignità ;Coalition Pace Terra Dignità (MERA25 Italia, Movimento equità territoriale, Partito della Rifondazione Comunista, Lìberos Rispetados Uguales );;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT10;PARTY;2.21;FINAL;2024-07-16 12:32
-IT;IT11;PARTY;Stati Uniti d'Europa;Coalition Stati Uniti d'Europa (+ Europa, Italia Viva, Liberali Democratici Europei, Partito Socialista Italiano,Radicali Italiani, L’Italia c’è);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT11;PARTY;3.78;FINAL;2024-07-16 12:32
-IT;IT12;PARTY;Libertà ;Coalition Libertà (Sud Chiama Nord, Movimento per l'Italexit, Sicilia Vera,  I civici in movimento – con Pirozzi, Grande Nord, Popolo Veneto, Capitano Ultimo,  et al.);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT12;PARTY;1.22;FINAL;2024-07-16 12:32
-IT;IT90;PARTY;Other parties;Other parties;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT90;PARTY;0.58;FINAL;2024-07-16 12:32
-CY;CY01;PARTY;DISY/ΔΗΣΥ;Dimokratikós Sinagermós/Δημοκρατικός Συναγερμός;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY01;PARTY;24.78;OFFICIAL;2024-07-15 17:47
-CY;CY02;PARTY;AKEL/ΑΚΕΛ;Anorthotikó Kómma Ergazómenou Laoú/Ανορθωτικό Κόμμα Εργαζόμενου Λαού;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY02;PARTY;21.49;OFFICIAL;2024-07-15 17:47
-CY;CY03;PARTY;DIKO/ΔΗΚΟ;Dimokratikó Kómma/Δημοκρατικό Κόμμα;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY03;PARTY;9.72;OFFICIAL;2024-07-15 17:47
-CY;CY04;PARTY;EDEK/ΕΔΕΚ;EDEK Sosialistikó Kómma/ΕΔΕΚ Σοσιαλιστικό Κόμμα;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY04;PARTY;5.07;OFFICIAL;2024-07-15 17:47
-CY;CY05;PARTY;ELAM/ΕΛΑΜ;Ethnikó Laikó Métopo/Εθνικό Λαϊκό Μέτωπο;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY05;PARTY;11.19;OFFICIAL;2024-07-15 17:47
-CY;CY10;PARTY;Fidias/Φειδίας;Independent (Fidias Panayiotou/Φειδίας Παναγιώτου);;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY10;PARTY;19.36;OFFICIAL;2024-07-15 17:47
-CY;CY90;PARTY;Other parties;Other parties;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY90;PARTY;8.39;OFFICIAL;2024-07-15 17:47
-LV;LV01;PARTY;JV ;Jaunā Vienotība ;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV01;PARTY;25.09;OFFICIAL;2024-07-16 12:32
-LV;LV02;PARTY;S/SDP;Sociāldemokrātiskā partija 'Saskaņa';;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV02;PARTY;7.13;OFFICIAL;2024-07-16 12:32
-LV;LV03;COALITION;NA ;Nacionālā apvienība 'Visu Latvijai!'-'Tēvzemei un Brīvībai/LNNK';;LV15;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV03;COALITION;22.07;OFFICIAL;2024-07-16 12:32
-LV;LV15;PARTY;TB/LNNK;Tēvzemei un Brīvībai/LNNK;LV03;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;;;;;
-LV;LV05;PARTY;LA;Latvijas attīstībai;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV05;PARTY;9.36;OFFICIAL;2024-07-16 12:32
-LV;LV06;PARTY;ZZS ;Coalition Zaļo un Zemnieku savienība (Latvijas Zemnieku savienība, Latvijas Sociāldemokrātiskā strādnieku partija, Latvijai un Ventspilij);;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV06;PARTY;2.28;OFFICIAL;2024-07-16 12:32
-LV;LV07;PARTY;AS ;Coalition Apvienotais Saraksts (Latvijas Zaļā Partija, Latvijas Reģionu apvienība, Liepājas Partija);;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV07;PARTY;8.18;OFFICIAL;2024-07-16 12:32
-LV;LV08;PARTY;JKP;Jaunā konservatīvā partija;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV08;PARTY;1.5;OFFICIAL;2024-07-16 12:32
-LV;LV09;PARTY;P;Progresīvie ;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV09;PARTY;7.45;OFFICIAL;2024-07-16 12:32
-LV;LV10;PARTY;LPV;Latvija pirmajā vietā ;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV10;PARTY;6.16;OFFICIAL;2024-07-16 12:32
-LV;LV11;PARTY;ST!;Stabilitātei!;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV11;PARTY;1.98;OFFICIAL;2024-07-16 12:32
-LV;LV12;PARTY;SV;Coalition Suverēnā vara (Suverēnā vara, Partija 'Vienoti Latvijai');;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV12;PARTY;2.62;OFFICIAL;2024-07-16 12:32
-LV;LV13;PARTY;AJ;Apvienība Jaunlatvieši;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV13;PARTY;2.13;OFFICIAL;2024-07-16 12:32
-LV;LV14;PARTY;CP;Coalition Centra partija (Centra partija, Latvijas Krievu savienība);;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV14;PARTY;1.72;OFFICIAL;2024-07-16 12:32
-LV;LV90;PARTY;Other parties;Other parties;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV90;PARTY;2.33;OFFICIAL;2024-07-16 12:32
-LT;LT01;PARTY;TS-LKD;Tėvynės Sąjunga – Lietuvos Krikščionys Demokratai;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT01;PARTY;21.33;OFFICIAL;2024-07-15 17:47
-LT;LT02;PARTY;LSDP;Lietuvos Socialdemokratų Partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT02;PARTY;17.98;OFFICIAL;2024-07-15 17:47
-LT;LT03;PARTY;LVŽS;Lietuvos Valstiečių ir Žaliųjų Sąjunga;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT03;PARTY;9.13;OFFICIAL;2024-07-15 17:47
-LT;LT04;PARTY;DP;Darbo Partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT04;PARTY;1.66;OFFICIAL;2024-07-15 17:47
-LT;LT05;PARTY;LS;Liberalų Sąjūdis;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT05;PARTY;5.41;OFFICIAL;2024-07-15 17:47
-LT;LT06;PARTY;LLRA-KŠS;Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT06;PARTY;5.78;OFFICIAL;2024-07-15 17:47
-LT;LT07;PARTY;LP;Laisvės partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT07;PARTY;8.09;OFFICIAL;2024-07-15 17:47
-LT;LT08;PARTY;LRP ;Lietuvos Regionų partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT08;PARTY;5.25;OFFICIAL;2024-07-15 17:47
-LT;LT09;PARTY;DSVL;Demokratų sąjunga „Vardan Lietuvos“;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT09;PARTY;5.95;OFFICIAL;2024-07-15 17:47
-LT;LT10;PARTY;NS;Nacionalinis susivienijimas;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT10;PARTY;3.79;OFFICIAL;2024-07-15 17:47
-LT;LT11;PARTY;LT;Laisvė ir Teisingumas;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT11;PARTY;1.25;OFFICIAL;2024-07-15 17:47
-LT;LT12;PARTY;LCP;Tautos ir Teisingumo Sąjunga (centristai, tautininkai);;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT12;PARTY;5.45;OFFICIAL;2024-07-15 17:47
-LT;LT13;PARTY;LŽP;Lietuvos žaliųjų partija ;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT13;PARTY;4.05;OFFICIAL;2024-07-15 17:47
-LT;LT90;PARTY;Other parties;Other parties;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT90;PARTY;4.88;OFFICIAL;2024-07-15 17:47
-LU;LU01;PARTY;DP/PD;Demokratesch Partei/Parti démocratique/Demokratische Partei;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU01;PARTY;18.29;OFFICIAL;2024-07-16 09:44
-LU;LU02;PARTY;CSV/PCS;Chrëschtlech Sozial Vollekspartei/Parti populaire chrétien-social/Christlich Soziale Volkspartei;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU02;PARTY;22.92;OFFICIAL;2024-07-16 09:44
-LU;LU03;PARTY;Déi Gréng/Les Verts;Déi Gréng/Les Verts/Die Grünen;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU03;PARTY;11.76;OFFICIAL;2024-07-16 09:44
-LU;LU04;PARTY;LSAP/POSL;Lëtzebuerger Sozialistesch Aarbechterpartei/Parti ouvrier socialiste luxembourgeois/Luxemburger Sozialistische Arbeiterpartei;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU04;PARTY;21.72;OFFICIAL;2024-07-16 09:44
-LU;LU05;PARTY;ADR/PADR;Alternativ Demokratesch Reformpartei/Parti réformiste d'alternative démocratique/Alternative Demokratische Reformpartei;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU05;PARTY;11.77;OFFICIAL;2024-07-16 09:44
-LU;LU06;PARTY;Piraten;Piratepartei Lëtzebuerg/Piratenpartei Luxemburg/Parti pirate du Luxembourg;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU06;PARTY;4.92;OFFICIAL;2024-07-16 09:44
-LU;LU07;PARTY;Déi Lénk/La Gauche;Déi Lénk/La Gauche/Die Linke;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU07;PARTY;3.15;OFFICIAL;2024-07-16 09:44
-LU;LU08;PARTY;KPL/PCL;Kommunistesch Partei vu Lëtzebuerg/Parti Communiste Luxembourgeois/Kommunistische Partei Luxemburgs;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU08;PARTY;0.97;OFFICIAL;2024-07-16 09:44
-LU;LU09;PARTY;Volt;Volt Lëtzebuerg/Volt Luxembourg/Volt Luxemburg;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU09;PARTY;1.04;OFFICIAL;2024-07-16 09:44
-LU;LU10;PARTY;Fokus;Fokus ;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU10;PARTY;1.58;OFFICIAL;2024-07-16 09:44
-LU;LU11;PARTY;DK/LC;Déi Konservativ/Les Conservateurs/Die Konservativen;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU11;PARTY;0.58;OFFICIAL;2024-07-16 09:44
-LU;LU90;PARTY;Other parties;Other parties;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU90;PARTY;1.3;OFFICIAL;2024-07-16 09:44
-HU;HU01;COALITION;Fidesz-KDNP;Coalition Fidesz – Magyar Polgári Szövetség - Kereszténydemokrata Néppárt;;HU12|HU13;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU01;COALITION;44.82;FINAL;2024-07-16 13:26
-HU;HU12;PARTY;Fidesz-KDNP;Fidesz-KDNP;HU01;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;;;;;
-HU;HU13;PARTY;KDNP;Kereszténydemokrata Néppárt;HU01;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;;;;;
-HU;HU02;PARTY;Momentum;Momentum Mozgalom;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU02;PARTY;3.7;FINAL;2024-07-16 13:26
-HU;HU03;PARTY;Jobbik;Jobbik - Konzervatívok;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU03;PARTY;0.99;FINAL;2024-07-16 13:26
-HU;HU04;PARTY;Mi Hazánk;Mi Hazánk Mozgalom;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU04;PARTY;6.71;FINAL;2024-07-16 13:26
-HU;HU05;PARTY;MKKP ;Magyar Kétfarkú Kutyapárt;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU05;PARTY;3.59;FINAL;2024-07-16 13:26
-HU;HU06;PARTY;LMP - Zöldek;Magyarország Zöld Pártja;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU06;PARTY;0.87;FINAL;2024-07-16 13:26
-HU;HU07;PARTY;MMN;Mindenki Magyarországa Néppárt;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU07;PARTY;0.64;FINAL;2024-07-16 13:26
-HU;HU08;PARTY;TISZA;Tisztelet és Szabadság Pártja;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU08;PARTY;29.6;FINAL;2024-07-16 13:26
-HU;HU09;COALITION;DK-MSZP-P;Coalition DK-MSZP-P (Demokratikus Koalíció, Magyar Szocialista Párt, Párbeszéd-Zöldek);;HU14;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU09;COALITION;8.03;FINAL;2024-07-16 13:26
-HU;HU14;PARTY;DK;Demokratikus Koalíció;HU09;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;;;;;
-HU;HU10;PARTY;2RK;Második Reformkor;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU10;PARTY;0.68;FINAL;2024-07-16 13:26
-HU;HU11;PARTY;Memo;Megoldás Mozgalom;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU11;PARTY;0.37;FINAL;2024-07-16 13:26
-HU;HU90;PARTY;Other parties;Other parties;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU90;PARTY;0.0;FINAL;2024-07-16 13:26
-MT;MT01;PARTY;PL/LP;Partit Laburista/Labour Party;;;Malta;MT;MLT;470.0;ISO 3166-2:MT;Europe;Southern Europe;;150.0;39.0;;MT01;PARTY;45.26;FINAL;2024-07-15 18:33
-MT;MT02;PARTY;PN/NP;Partit Nazzjonalista/Nationalist Party;;;Malta;MT;MLT;470.0;ISO 3166-2:MT;Europe;Southern Europe;;150.0;39.0;;MT02;PARTY;42.02;FINAL;2024-07-15 18:33
-MT;MT90;PARTY;Other parties;Other parties;;;Malta;MT;MLT;470.0;ISO 3166-2:MT;Europe;Southern Europe;;150.0;39.0;;MT90;PARTY;12.72;FINAL;2024-07-15 18:33
-NL;NL01;COALITION;GL - PvdA;Coalition GL - PvdA (GroenLinks, PvdA) ;;NL16|NL15;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL01;COALITION;21.09;FINAL;2024-07-16 12:32
-NL;NL16;PARTY;GL;GroenLinks;NL01;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;;;;;
-NL;NL15;PARTY;PvdA;Partij van de Arbeid;NL01;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;;;;;
-NL;NL02;PARTY;VVD;Volkspartij voor Vrijheid en Democratie;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL02;PARTY;11.35;FINAL;2024-07-16 12:32
-NL;NL03;PARTY;CDA;Christen-Democratisch Appèl;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL03;PARTY;9.45;FINAL;2024-07-16 12:32
-NL;NL04;PARTY;FvD;Forum voor Democratie;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL04;PARTY;2.49;FINAL;2024-07-16 12:32
-NL;NL05;PARTY;D66;Democraten 66;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL05;PARTY;8.4;FINAL;2024-07-16 12:32
-NL;NL06;PARTY;CU;ChristenUnie;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL06;PARTY;2.89;FINAL;2024-07-16 12:32
-NL;NL07;PARTY;SGP;Staatkundig Gereformeerde Partij;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL07;PARTY;3.66;FINAL;2024-07-16 12:32
-NL;NL08;PARTY;PvdD;Partij voor de Dieren;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL08;PARTY;4.52;FINAL;2024-07-16 12:32
-NL;NL09;PARTY;PVV;Partij voor de Vrijheid;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL09;PARTY;16.97;FINAL;2024-07-16 12:32
-NL;NL10;PARTY;SP;Socialistische Partij;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL10;PARTY;2.2;FINAL;2024-07-16 12:32
-NL;NL11;PARTY;Volt;Volt Nederland;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL11;PARTY;5.13;FINAL;2024-07-16 12:32
-NL;NL12;PARTY;JA21;Juiste Antwoord 2021;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL12;PARTY;0.65;FINAL;2024-07-16 12:32
-NL;NL13;PARTY;NSC;Nieuw Sociaal Contract;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL13;PARTY;3.75;FINAL;2024-07-16 12:32
-NL;NL14;PARTY;BBB;BoerBurgerBeweging;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL14;PARTY;5.41;FINAL;2024-07-16 12:32
-NL;NL90;PARTY;Other parties;Other parties;;;"Netherlands; Kingdom of the";NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL90;PARTY;2.04;FINAL;2024-07-16 12:32
-AT;AT01;PARTY;ÖVP;Österreichische Volkspartei;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT01;PARTY;24.52;OFFICIAL;2024-07-08 12:51
-AT;AT02;PARTY;SPÖ;Sozialdemokratische Partei Österreichs;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT02;PARTY;23.22;OFFICIAL;2024-07-08 12:51
-AT;AT03;PARTY;FPÖ;Die Freiheitliche Partei Österreichs;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT03;PARTY;25.36;OFFICIAL;2024-07-08 12:51
-AT;AT04;PARTY;GRÜNE;Die Grünen – Die Grüne Alternative;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT04;PARTY;11.08;OFFICIAL;2024-07-08 12:51
-AT;AT05;PARTY;NEOS;NEOS – Das neue Europa ;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT05;PARTY;10.14;OFFICIAL;2024-07-08 12:51
-AT;AT06;PARTY;KPÖ;Kommunistische Partei Österreichs – KPÖ Plus;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT06;PARTY;2.96;OFFICIAL;2024-07-08 12:51
-AT;AT90;PARTY;Other parties;Other parties;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT90;PARTY;2.72;OFFICIAL;2024-07-08 12:51
-PL;PL01;COALITION;PiS;Prawo i Sprawiedliwość (Prawo i Sprawiedliwość, Suwerenna Polska);;PL11|PL10;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL01;COALITION;36.16;OFFICIAL;2024-07-16 12:32
-PL;PL11;PARTY;PiS;Prawo i Sprawiedliwość;PL01;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL10;PARTY;SP;Suwerenna Polska;PL01;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL02;COALITION;KO;Koalicja Obywatelska (Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Partia Zieloni);;PL08|PL07|PL09;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL02;COALITION;37.06;OFFICIAL;2024-07-16 12:32
-PL;PL08;PARTY;Ind.;Independent;PL02;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL07;PARTY;iPL;Inicjatywa Polska;PL02;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL09;PARTY;PO;Platforma Obywatelska;PL02;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL03;COALITION;Lewica;Coalition Lewica (Nowa Lewica, Lewica Razem, Unia Pracy);;PL16;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL03;COALITION;6.3;OFFICIAL;2024-07-16 12:32
-PL;PL16;PARTY;NL;Nowa Lewica;PL03;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL04;COALITION;Konfederacja ;Konfederacja Wolność i Niepodległość (Konfederacja Korony Polskiej, Ruch Narodowy, Nowa Nadzieja, Polska Jest Jedna, Wolnościowcy);;PL13|PL12;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL04;COALITION;12.08;OFFICIAL;2024-07-16 12:32
-PL;PL13;PARTY;Konfederacja;Konfederacja;PL04;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL12;PARTY;KKP;Konfederacja Korony Polskiej;PL04;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL05;COALITION;Trzecia Droga;Coalition Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe (Polskie Stronnictwo Ludowe, Polska2050, Unia Europejskich Demokratów, Wolnościowcy);;PL14|PL15;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL05;COALITION;6.91;OFFICIAL;2024-07-16 12:32
-PL;PL14;PARTY;Polska 2050;Polska 2050;PL05;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL15;PARTY;PSL;Polskie Stronnictwo Ludowe;PL05;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;;;;;
-PL;PL06;PARTY;BS;Bezpartyjni Samorządowcy;;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL06;PARTY;0.93;OFFICIAL;2024-07-16 12:32
-PL;PL90;PARTY;Other parties;Other parties;;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL90;PARTY;0.56;OFFICIAL;2024-07-16 12:32
-PT;PT01;PARTY;PS;Partido Socialista;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT01;PARTY;32.75;OFFICIAL;2024-07-16 13:26
-PT;PT02;COALITION;AD;Aliança Democrática (Partido Social Democrata, Centro Democrático Social-Partido Popular, Partido Popular Monárquico);;PT11|PT09|PT10;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT02;COALITION;31.74;OFFICIAL;2024-07-16 13:26
-PT;PT11;PARTY;CDS-PP;Centro Democrático Social-Partido Popular;PT02;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;;;;;
-PT;PT09;PARTY;Ind.;Independent;PT02;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;;;;;
-PT;PT10;PARTY;PSD;Partido Social Democrata;PT02;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;;;;;
-PT;PT03;PARTY;BE;Bloco de Esquerda;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT03;PARTY;4.34;OFFICIAL;2024-07-16 13:26
-PT;PT04;COALITION;CDU;Coligação Democrática Unitária (Partido Comunista Português, Partido Ecologista “Os Verdes”) ;;PT12;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT04;COALITION;4.2;OFFICIAL;2024-07-16 13:26
-PT;PT12;PARTY;PCP;Partido Comunista Português;PT04;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;;;;;
-PT;PT05;PARTY;PAN;Pessoas-Animais-Natureza;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT05;PARTY;1.24;OFFICIAL;2024-07-16 13:26
-PT;PT06;PARTY;L;LIVRE;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT06;PARTY;3.83;OFFICIAL;2024-07-16 13:26
-PT;PT07;PARTY;IL;Iniciativa Liberal;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT07;PARTY;9.26;OFFICIAL;2024-07-16 13:26
-PT;PT08;PARTY;CH;CHEGA;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT08;PARTY;9.99;OFFICIAL;2024-07-16 13:26
-PT;PT90;PARTY;Other parties;Other parties;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT90;PARTY;2.65;OFFICIAL;2024-07-16 13:26
-RO;RO01;COALITION;PSD - PNL;Alianța PSD - PNL (Partidul Social Democrat, Partidul Național Liberal);;RO16|RO15;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO01;COALITION;48.55;OFFICIAL;2024-07-16 13:26
-RO;RO16;PARTY;PNL;Partidul Național Liberal;RO01;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;;;;;
-RO;RO15;PARTY;PSD;Partidul Social Democrat;RO01;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;;;;;
-RO;RO03;PARTY;UDMR/RMDSZ;Uniunea Democrată Maghiară din România/Romániai Magyar Demokrata Szövetség;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO03;PARTY;6.48;OFFICIAL;2024-07-16 13:26
-RO;RO04;COALITION;AUR;Alianța pentru Unirea Românilor (Alianța pentru Unirea Românilor, Partidul Național Conservator Român, Partidul Români Pentru România);;RO18|RO17;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO04;COALITION;14.93;OFFICIAL;2024-07-16 13:26
-RO;RO18;PARTY;AUR;Alianța pentru Unirea Românilor;RO04;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;;;;;
-RO;RO17;PARTY;PNCR;Partidul Național Conservator Român;RO04;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;;;;;
-RO;RO06;PARTY;SOS;SOS România;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO06;PARTY;5.03;OFFICIAL;2024-07-16 13:26
-RO;RO07;COALITION;Alianța Dreapta Unită;Alianța Dreapta Unită (Uniunea Salvați România, Partidul Mișcarea Populară, Forța Dreptei);;RO20|RO19;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO07;COALITION;8.71;OFFICIAL;2024-07-16 13:26
-RO;RO20;PARTY;PMP;Partidul Mișcarea Populară;RO07;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;;;;;
-RO;RO19;PARTY;USR;Uniunea Salvați România;RO07;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;;;;;
-RO;RO08;PARTY;ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL;ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO08;PARTY;3.08;OFFICIAL;2024-07-16 13:26
-RO;RO90;PARTY;Other parties;Other parties;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO90;PARTY;13.22;OFFICIAL;2024-07-16 13:26
-SI;SI01;PARTY;SDS;Slovenska demokratska stranka;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI01;PARTY;30.59;OFFICIAL;2024-07-16 09:44
-SI;SI02;PARTY;SLS ;Slovenska ljudska stranka ;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI02;PARTY;7.21;OFFICIAL;2024-07-16 09:44
-SI;SI03;PARTY;SD;Socialni demokrati;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI03;PARTY;7.76;OFFICIAL;2024-07-16 09:44
-SI;SI04;PARTY;N.Si;Nova Slovenija – Krščanski demokrati;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI04;PARTY;7.68;OFFICIAL;2024-07-16 09:44
-SI;SI05;PARTY;Levica;Stranka Levica;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI05;PARTY;4.81;OFFICIAL;2024-07-16 09:44
-SI;SI06;PARTY;Svoboda!;Gibanje Svoboda;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI06;PARTY;22.11;OFFICIAL;2024-07-16 09:44
-SI;SI07;PARTY;Vesna;Vesna - zelena stranka ;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI07;PARTY;10.53;OFFICIAL;2024-07-16 09:44
-SI;SI08;PARTY;Resni.ca;Državljansko gibanje Resni.ca ;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI08;PARTY;3.97;OFFICIAL;2024-07-16 09:44
-SI;SI09;PARTY;DeSUS - DD;Coalition DeSUS - DD (Demokratična stranka upokojencev Slovenije, Dobra država);;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI09;PARTY;2.22;OFFICIAL;2024-07-16 09:44
-SI;SI10;PARTY;ZS;Zeleni Slovenije;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI10;PARTY;1.61;OFFICIAL;2024-07-16 09:44
-SI;SI90;PARTY;Other parties;Other parties;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI90;PARTY;1.52;OFFICIAL;2024-07-16 09:44
-SK;SK01;PARTY;Smer;Smer – sociálna demokracia;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK01;PARTY;24.76;OFFICIAL;2024-07-16 12:32
-SK;SK02;PARTY;ĽSNS;Kotlebovci - Ľudová strana naše Slovensko;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK02;PARTY;0.48;OFFICIAL;2024-07-16 12:32
-SK;SK03;PARTY;SaS;Sloboda a Solidarita;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK03;PARTY;4.92;OFFICIAL;2024-07-16 12:32
-SK;SK04;COALITION;PS;Progresívne Slovensko;;SK14|SK13;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK04;COALITION;27.81;OFFICIAL;2024-07-16 12:32
-SK;SK14;PARTY;Ind.;Independent;SK04;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;;;;;
-SK;SK13;PARTY;PS;Progresívne Slovensko;SK04;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;;;;;
-SK;SK05;PARTY;SNS;Slovenská národná strana;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK05;PARTY;1.9;OFFICIAL;2024-07-16 12:32
-SK;SK06;PARTY;KDH;Kresťanskodemokratické hnutie;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK06;PARTY;7.14;OFFICIAL;2024-07-16 12:32
-SK;SK07;PARTY;Aliancia;Maďarská Aliancia/Magyar Szövetség;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK07;PARTY;3.88;OFFICIAL;2024-07-16 12:32
-SK;SK08;PARTY;Hlas;Hlas – sociálna demokracia;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK08;PARTY;7.18;OFFICIAL;2024-07-16 12:32
-SK;SK09;PARTY;Republika;Republika;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK09;PARTY;12.53;OFFICIAL;2024-07-16 12:32
-SK;SK10;PARTY;Demokrati;Demokrati;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK10;PARTY;4.68;OFFICIAL;2024-07-16 12:32
-SK;SK11;PARTY;S-ZL;Coalition S-ZL (Slovensko, Za ľudí);;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK11;PARTY;1.98;OFFICIAL;2024-07-16 12:32
-SK;SK12;PARTY;Zdravý rozum;Zdravý rozum;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK12;PARTY;0.93;OFFICIAL;2024-07-16 12:32
-SK;SK90;PARTY;Other parties;Other parties;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK90;PARTY;1.81;OFFICIAL;2024-07-16 12:32
-FI;FI01;PARTY;KOK;Kansallinen Kokoomus/Samlingspartiet;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI01;PARTY;24.8;OFFICIAL;2024-07-16 09:44
-FI;FI02;PARTY;VIHR;Vihreä liitto/Gröna Förbundet;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI02;PARTY;11.3;OFFICIAL;2024-07-16 09:44
-FI;FI03;PARTY;SDP;Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI03;PARTY;14.9;OFFICIAL;2024-07-16 09:44
-FI;FI04;PARTY;PS;Perussuomalaiset/Sannfinländarna;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI04;PARTY;7.6;OFFICIAL;2024-07-16 09:44
-FI;FI05;PARTY;KESK;Suomen Keskusta/Centern i Finland;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI05;PARTY;11.8;OFFICIAL;2024-07-16 09:44
-FI;FI06;PARTY;VAS;Vasemmistoliitto/Vänsterförbundet;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI06;PARTY;17.3;OFFICIAL;2024-07-16 09:44
-FI;FI07;PARTY;SFP/RKP;Svenska folkpartiet i Finland/Suomen ruotsalainen kansanpuolue;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI07;PARTY;6.1;OFFICIAL;2024-07-16 09:44
-FI;FI08;PARTY;KD - LIIK;Suomen Kristillisdemokraatit - Liike Nyt/Finlands Kristdemokrater - Rörelse.nu;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI08;PARTY;4.6;OFFICIAL;2024-07-16 09:44
-FI;FI90;PARTY;Other parties;Other parties;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI90;PARTY;1.6;OFFICIAL;2024-07-16 09:44
-SE;SE01;PARTY;S;Socialdemokraterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE01;PARTY;24.77;OFFICIAL;2024-07-16 09:44
-SE;SE02;PARTY;M;Moderaterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE02;PARTY;17.53;OFFICIAL;2024-07-16 09:44
-SE;SE03;PARTY;SD;Sverigedemokraterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE03;PARTY;13.17;OFFICIAL;2024-07-16 09:44
-SE;SE04;PARTY;MP;Miljöpartiet de gröna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE04;PARTY;13.85;OFFICIAL;2024-07-16 09:44
-SE;SE05;PARTY;C;Centerpartiet;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE05;PARTY;7.29;OFFICIAL;2024-07-16 09:44
-SE;SE06;PARTY;KD;Kristdemokraterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE06;PARTY;5.71;OFFICIAL;2024-07-16 09:44
-SE;SE07;PARTY;V;Vänsterpartiet;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE07;PARTY;11.06;OFFICIAL;2024-07-16 09:44
-SE;SE08;PARTY;L;Liberalerna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE08;PARTY;4.38;OFFICIAL;2024-07-16 09:44
-SE;SE90;PARTY;Other parties;Other parties;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE90;PARTY;2.24;OFFICIAL;2024-07-16 09:44
-HR;HR01;PARTY;HDZ;Hrvatska demokratska zajednica;;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR01;PARTY;34.6;OFFICIAL;2024-07-16 12:32
-HR;HR02;COALITION;Koalicija 'SDP';Koalicija 'SDP' (Socijaldemokratska partija Hrvatske, Centar, Dalija Orešković I Ljudi S Imenom I Prezimenom, Građansko-Liberalni Savez, Hrvatska seljačka stranka) ;;HR08;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR02;COALITION;25.96;OFFICIAL;2024-07-16 12:32
-HR;HR08;PARTY;SDP;SDP;HR02;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;;;;;
-HR;HR03;PARTY;IDS-DDI;Coalition Istarski demokratski sabor - Dieta democratica Istriana (Demokrati, Hrvatska Narodna Stranka - Liberalni Demokrati, Hrvatska socijalno-liberalna stranka, Istarski demokratski sabor - Dieta democratica Istriana, Istarska Stranka Umirovljenika - Partito Istriano Dei Pensionati, Nezavisna Platforma Sjevera, Narodna stranka - Reformisti, Primorsko Goranski Savez , Lista Za Rijeku, Socijaldemokrati, Samostalna demokratska srpska stranka, Unija Kvarnera);;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR03;PARTY;5.61;OFFICIAL;2024-07-16 12:32
-HR;HR05;PARTY;DP;Domovinski pokret;;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR05;PARTY;8.82;OFFICIAL;2024-07-16 12:32
-HR;HR06;PARTY;Možemo!;Možemo! – Politička platforma;;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR06;PARTY;5.92;OFFICIAL;2024-07-16 12:32
-HR;HR90;PARTY;Other parties;Other parties;;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR90;PARTY;19.09;OFFICIAL;2024-07-16 12:32
+DIVISION_ID;ID;TYPE_x;ACRONYM;LABEL;MEMBER_OF_COALITION;COALITION_MEMBERS;name;alpha-2;alpha-3;country-code;iso_3166-2;region;sub-region;intermediate-region;region-code;sub-region-code;intermediate-region-code;PARTY_ID;TYPE_y;VOTES_PERCENT;UPDATE_STATUS;UPDATE_TIME;TEMPERATURE;WEIGHTED_TEMP
+BE;BE01;PARTY;N-VA;Nieuw-Vlaamse Alliantie;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE01;PARTY;13.97;OFFICIAL;2024-07-16 09:44;1.1829448232296094;16.525739180517643
+BE;BE01;PARTY;N-VA;Nieuw-Vlaamse Alliantie;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE01;PARTY;22.09;OFFICIAL;2024-07-16 09:44;1.7851402259495122;39.43374759122472
+BE;BE02;PARTY;VB;Vlaams Belang;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE02;PARTY;14.5;OFFICIAL;2024-07-16 09:44;0.34851926211372364;5.053529300648993
+BE;BE02;PARTY;VB;Vlaams Belang;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE02;PARTY;22.94;OFFICIAL;2024-07-16 09:44;-0.515193416040209;-11.818536963962394
+BE;BE03;PARTY;Open VLD;Open Vlaamse Liberalen en Democraten;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE03;PARTY;5.76;OFFICIAL;2024-07-16 09:44;0.507987285859667;2.926006766551682
+BE;BE03;PARTY;Open VLD;Open Vlaamse Liberalen en Democraten;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE03;PARTY;9.11;OFFICIAL;2024-07-16 09:44;-1.9262455507069287;-17.54809696694012
+BE;BE04;PARTY;CD&V;Christen-Democratisch en Vlaams;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE04;PARTY;8.34;OFFICIAL;2024-07-16 09:44;-0.5289620408411055;-4.41154342061482
+BE;BE04;PARTY;CD&V;Christen-Democratisch en Vlaams;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE04;PARTY;13.2;OFFICIAL;2024-07-16 09:44;0.552743883963144;7.2962192683135
+BE;BE05;PARTY;Groen;Groen;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE05;PARTY;6.32;OFFICIAL;2024-07-16 09:44;-0.42120812241379024;-2.6620353336551545
+BE;BE05;PARTY;Groen;Groen;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE05;PARTY;10.0;OFFICIAL;2024-07-16 09:44;1.7586280206402138;17.586280206402137
+BE;BE06;PARTY;Vooruit;Vooruit;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE06;PARTY;7.99;OFFICIAL;2024-07-16 09:44;-0.4597444185565762;-3.673357904267044
+BE;BE06;PARTY;Vooruit;Vooruit;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE06;PARTY;12.64;OFFICIAL;2024-07-16 09:44;-1.1823109982625772;-14.944411018038977
+BE;BE07;PARTY;PVDA;Partij van de Arbeid van België;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE07;PARTY;5.13;OFFICIAL;2024-07-16 09:44;0.9043707572225825;4.6394219845518485
+BE;BE07;PARTY;PVDA;Partij van de Arbeid van België;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE07;PARTY;8.12;OFFICIAL;2024-07-16 09:44;-1.7956759082541751;-14.5808883750239
+BE;BE08;PARTY;PS;Parti Socialiste;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE08;PARTY;20.52;OFFICIAL;2024-07-16 09:44;-0.8296117560629752;-17.02363323441225
+BE;BE08;PARTY;PS;Parti Socialiste;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE08;PARTY;7.43;OFFICIAL;2024-07-16 09:44;-1.6623424284336923;-12.351204243262334
+BE;BE09;PARTY;ECOLO;Ecologistes Confédérés pour l'Organisation de Luttes Originales;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE09;PARTY;10.06;OFFICIAL;2024-07-16 09:44;1.3081827313590115;13.160318277471657
+BE;BE09;PARTY;ECOLO;Ecologistes Confédérés pour l'Organisation de Luttes Originales;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE09;PARTY;3.64;OFFICIAL;2024-07-16 09:44;-0.6282321342766348;-2.286764968766951
+BE;BE10;PARTY;MR;Mouvement Réformateur;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE10;PARTY;34.88;OFFICIAL;2024-07-16 09:44;1.329873094513331;46.38597353662499
+BE;BE10;PARTY;MR;Mouvement Réformateur;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE10;PARTY;12.62;OFFICIAL;2024-07-16 09:44;-0.27284975455144966;-3.4433639024392946
+BE;BE11;PARTY;Les Engagés;Les Engagés;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE11;PARTY;14.28;OFFICIAL;2024-07-16 09:44;-1.8369009458272814;-26.230945506413576
+BE;BE11;PARTY;Les Engagés;Les Engagés;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE11;PARTY;5.17;OFFICIAL;2024-07-16 09:44;1.8793811998903043;9.716400803432872
+BE;BE12;PARTY;DéFI;Démocrate Fédéraliste Indépendant;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE12;PARTY;2.91;OFFICIAL;2024-07-16 09:44;0.9686888728509295;2.818884619996205
+BE;BE12;PARTY;DéFI;Démocrate Fédéraliste Indépendant;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE12;PARTY;1.05;OFFICIAL;2024-07-16 09:44;0.22848691139104416;0.23991125696059637
+BE;BE13;PARTY;PTB;Parti du Travail de Belgique;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE13;PARTY;15.38;OFFICIAL;2024-07-16 09:44;1.214751898743617;18.68288420267683
+BE;BE13;PARTY;PTB;Parti du Travail de Belgique;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE13;PARTY;5.57;OFFICIAL;2024-07-16 09:44;1.4708721857491174;8.192758074622585
+BE;BE14;PARTY;CSP;Christlich Soziale Partei;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE14;PARTY;0.21;OFFICIAL;2024-07-16 09:44;0.7881177672613808;0.16550473112488998
+BE;BE14;PARTY;CSP;Christlich Soziale Partei;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE14;PARTY;34.93;OFFICIAL;2024-07-16 09:44;0.9738895441178781;34.01796177603748
+BE;BE15;PARTY;SP;Sozialistische Partei;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE15;PARTY;0.07;OFFICIAL;2024-07-16 09:44;-1.0379378596958317;-0.07265565017870823
+BE;BE15;PARTY;SP;Sozialistische Partei;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE15;PARTY;11.82;OFFICIAL;2024-07-16 09:44;-0.3718564092084491;-4.395342756843869
+BE;BE16;PARTY;PFF-MR;Partei für Freiheit und Fortschritt;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE16;PARTY;0.08;OFFICIAL;2024-07-16 09:44;-1.4689608963592646;-0.11751687170874117
+BE;BE16;PARTY;PFF-MR;Partei für Freiheit und Fortschritt;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE16;PARTY;13.57;OFFICIAL;2024-07-16 09:44;0.6822619997887234;9.258295337132976
+BE;BE17;PARTY;ProDG;Pro deutschsprachige Gemeinschaft;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE17;PARTY;0.1;OFFICIAL;2024-07-16 09:44;1.1388702428238946;0.11388702428238946
+BE;BE17;PARTY;ProDG;Pro deutschsprachige Gemeinschaft;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE17;PARTY;16.43;OFFICIAL;2024-07-16 09:44;0.638709730366418;10.494000869920248
+BE;BE18;PARTY;ECOLO (G.);Ecologistes Confédérés pour l'Organisation de Luttes Originales (G.);;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE18;PARTY;0.07;OFFICIAL;2024-07-16 09:44;-0.26626201852728215;-0.018638341296909753
+BE;BE18;PARTY;ECOLO (G.);Ecologistes Confédérés pour l'Organisation de Luttes Originales (G.);;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE18;PARTY;11.1;OFFICIAL;2024-07-16 09:44;1.6049544998110634;17.814994947902804
+BE;BE90;PARTY;Other parties F.;Other parties from Dutch-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE90;PARTY;1.2;OFFICIAL;2024-07-16 09:44;1.7655733327941765;2.118687999353012
+BE;BE90;PARTY;Other parties F.;Other parties from Dutch-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE90;PARTY;1.9;OFFICIAL;2024-07-16 09:44;-1.7931830499414074;-3.407047794888674
+BE;BE91;PARTY;Other parties W.;Other parties from French-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE91;PARTY;1.97;OFFICIAL;2024-07-16 09:44;0.6762070009146659;1.332127791801892
+BE;BE91;PARTY;Other parties W.;Other parties from French-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE91;PARTY;0.71;OFFICIAL;2024-07-16 09:44;0.7289454807351294;0.5175512913219419
+BE;BE92;PARTY;Other parties G.;Other parties from German-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE92;PARTY;0.07;OFFICIAL;2024-07-16 09:44;-1.4012619407716813;-0.0980883358540177
+BE;BE92;PARTY;Other parties G.;Other parties from German-speaking electoral college;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE92;PARTY;12.15;OFFICIAL;2024-07-16 09:44;-0.32752650866504407;-3.9794470802802855
+FBE;BE01;PARTY;N-VA;Nieuw-Vlaamse Alliantie;;;;;;;;;;;;;;BE01;PARTY;13.97;OFFICIAL;2024-07-16 09:44;0.9135700925109491;12.76257419237796
+FBE;BE01;PARTY;N-VA;Nieuw-Vlaamse Alliantie;;;;;;;;;;;;;;BE01;PARTY;22.09;OFFICIAL;2024-07-16 09:44;0.39425350738060905;8.709059978037654
+FBE;BE02;PARTY;VB;Vlaams Belang;;;;;;;;;;;;;;BE02;PARTY;14.5;OFFICIAL;2024-07-16 09:44;-1.0961376053619922;-15.893995277748887
+FBE;BE02;PARTY;VB;Vlaams Belang;;;;;;;;;;;;;;BE02;PARTY;22.94;OFFICIAL;2024-07-16 09:44;0.5294178417445359;12.144845289619655
+FBE;BE03;PARTY;Open VLD;Open Vlaamse Liberalen en Democraten;;;;;;;;;;;;;;BE03;PARTY;5.76;OFFICIAL;2024-07-16 09:44;-0.7614290894981686;-4.3858315555094505
+FBE;BE03;PARTY;Open VLD;Open Vlaamse Liberalen en Democraten;;;;;;;;;;;;;;BE03;PARTY;9.11;OFFICIAL;2024-07-16 09:44;-1.6260278369623187;-14.813113594726723
+FBE;BE04;PARTY;CD&V;Christen-Democratisch en Vlaams;;;;;;;;;;;;;;BE04;PARTY;8.34;OFFICIAL;2024-07-16 09:44;-1.52541932238913;-12.721997148725343
+FBE;BE04;PARTY;CD&V;Christen-Democratisch en Vlaams;;;;;;;;;;;;;;BE04;PARTY;13.2;OFFICIAL;2024-07-16 09:44;0.15226893277775355;2.0099499126663467
+FBE;BE05;PARTY;Groen;Groen;;;;;;;;;;;;;;BE05;PARTY;6.32;OFFICIAL;2024-07-16 09:44;-1.459946189981577;-9.226859920683568
+FBE;BE05;PARTY;Groen;Groen;;;;;;;;;;;;;;BE05;PARTY;10.0;OFFICIAL;2024-07-16 09:44;-0.9851298982124868;-9.851298982124867
+FBE;BE06;PARTY;Vooruit;Vooruit;;;;;;;;;;;;;;BE06;PARTY;7.99;OFFICIAL;2024-07-16 09:44;1.6485244850313827;13.171710635400748
+FBE;BE06;PARTY;Vooruit;Vooruit;;;;;;;;;;;;;;BE06;PARTY;12.64;OFFICIAL;2024-07-16 09:44;-0.280301375322503;-3.543009384076438
+FBE;BE07;PARTY;PVDA;Partij van de Arbeid van België;;;;;;;;;;;;;;BE07;PARTY;5.13;OFFICIAL;2024-07-16 09:44;-0.7321181739199734;-3.755766232209463
+FBE;BE07;PARTY;PVDA;Partij van de Arbeid van België;;;;;;;;;;;;;;BE07;PARTY;8.12;OFFICIAL;2024-07-16 09:44;1.9461922121868698;15.80308076295738
+FBE;BE90;PARTY;Other parties F.;Other parties from Dutch-speaking electoral college;;;;;;;;;;;;;;BE90;PARTY;1.2;OFFICIAL;2024-07-16 09:44;1.5810137954968884;1.897216554596266
+FBE;BE90;PARTY;Other parties F.;Other parties from Dutch-speaking electoral college;;;;;;;;;;;;;;BE90;PARTY;1.9;OFFICIAL;2024-07-16 09:44;-1.1865234973225554;-2.254394644912855
+GBE;BE14;PARTY;CSP;Christlich Soziale Partei ;;;;;;;;;;;;;;BE14;PARTY;0.21;OFFICIAL;2024-07-16 09:44;-0.9627894708852507;-0.20218578888590263
+GBE;BE14;PARTY;CSP;Christlich Soziale Partei ;;;;;;;;;;;;;;BE14;PARTY;34.93;OFFICIAL;2024-07-16 09:44;-1.5641874477652955;-54.63706755044177
+GBE;BE15;PARTY;SP;Sozialistische Partei;;;;;;;;;;;;;;BE15;PARTY;0.07;OFFICIAL;2024-07-16 09:44;-1.5706000690017832;-0.10994200483012483
+GBE;BE15;PARTY;SP;Sozialistische Partei;;;;;;;;;;;;;;BE15;PARTY;11.82;OFFICIAL;2024-07-16 09:44;-1.5980200121380892;-18.888596543472215
+GBE;BE16;PARTY;PFF-MR;Partei für Freiheit und Fortschritt;;;;;;;;;;;;;;BE16;PARTY;0.08;OFFICIAL;2024-07-16 09:44;-0.22485942905422762;-0.01798875432433821
+GBE;BE16;PARTY;PFF-MR;Partei für Freiheit und Fortschritt;;;;;;;;;;;;;;BE16;PARTY;13.57;OFFICIAL;2024-07-16 09:44;1.3938138664464832;18.914054167678778
+GBE;BE17;PARTY;ProDG;Pro deutschsprachige Gemeinschaft ;;;;;;;;;;;;;;BE17;PARTY;0.1;OFFICIAL;2024-07-16 09:44;-1.1295706915525399;-0.112957069155254
+GBE;BE17;PARTY;ProDG;Pro deutschsprachige Gemeinschaft ;;;;;;;;;;;;;;BE17;PARTY;16.43;OFFICIAL;2024-07-16 09:44;-1.2382719814813057;-20.344808655737854
+GBE;BE18;PARTY;ECOLO (G.);Ecologistes Confédérés pour l'Organisation de Luttes Originales ;;;;;;;;;;;;;;BE18;PARTY;0.07;OFFICIAL;2024-07-16 09:44;0.8966753506290046;0.06276727454403033
+GBE;BE18;PARTY;ECOLO (G.);Ecologistes Confédérés pour l'Organisation de Luttes Originales ;;;;;;;;;;;;;;BE18;PARTY;11.1;OFFICIAL;2024-07-16 09:44;1.6086972400092545;17.856539364102723
+GBE;BE92;PARTY;Other parties G.;Other parties from German-speaking electoral college;;;;;;;;;;;;;;BE92;PARTY;0.07;OFFICIAL;2024-07-16 09:44;-1.5682329361202818;-0.10977630552841974
+GBE;BE92;PARTY;Other parties G.;Other parties from German-speaking electoral college;;;;;;;;;;;;;;BE92;PARTY;12.15;OFFICIAL;2024-07-16 09:44;1.6678350466927898;20.264195817317397
+WBE;BE08;PARTY;PS;Parti Socialiste;;;;;;;;;;;;;;BE08;PARTY;20.52;OFFICIAL;2024-07-16 09:44;-0.7842266919514875;-16.092331718844523
+WBE;BE08;PARTY;PS;Parti Socialiste;;;;;;;;;;;;;;BE08;PARTY;7.43;OFFICIAL;2024-07-16 09:44;0.2902825348665057;2.1567992340581372
+WBE;BE09;PARTY;ECOLO;Ecologistes Confédérés pour l'Organisation de Luttes Originales;;;;;;;;;;;;;;BE09;PARTY;10.06;OFFICIAL;2024-07-16 09:44;-1.5316385356804205;-15.408283668945032
+WBE;BE09;PARTY;ECOLO;Ecologistes Confédérés pour l'Organisation de Luttes Originales;;;;;;;;;;;;;;BE09;PARTY;3.64;OFFICIAL;2024-07-16 09:44;1.5144007123521437;5.5124185929618035
+WBE;BE10;PARTY;MR;Mouvement Réformateur;;;;;;;;;;;;;;BE10;PARTY;34.88;OFFICIAL;2024-07-16 09:44;0.5313654508670496;18.53402692624269
+WBE;BE10;PARTY;MR;Mouvement Réformateur;;;;;;;;;;;;;;BE10;PARTY;12.62;OFFICIAL;2024-07-16 09:44;1.207802841445393;15.242471859040858
+WBE;BE11;PARTY;Les Engagés;Les Engagés;;;;;;;;;;;;;;BE11;PARTY;14.28;OFFICIAL;2024-07-16 09:44;-0.7041064814628952;-10.054640555290144
+WBE;BE11;PARTY;Les Engagés;Les Engagés;;;;;;;;;;;;;;BE11;PARTY;5.17;OFFICIAL;2024-07-16 09:44;-1.3249692851236445;-6.850091204089242
+WBE;BE12;PARTY;DéFI;Démocrate Fédéraliste Indépendant;;;;;;;;;;;;;;BE12;PARTY;2.91;OFFICIAL;2024-07-16 09:44;0.34159001015132784;0.9940269295403641
+WBE;BE12;PARTY;DéFI;Démocrate Fédéraliste Indépendant;;;;;;;;;;;;;;BE12;PARTY;1.05;OFFICIAL;2024-07-16 09:44;-0.8753376337108141;-0.9191045153963548
+WBE;BE13;PARTY;PTB;Parti du Travail de Belgique;;;;;;;;;;;;;;BE13;PARTY;15.38;OFFICIAL;2024-07-16 09:44;-0.22737041018469029;-3.496956908640537
+WBE;BE13;PARTY;PTB;Parti du Travail de Belgique;;;;;;;;;;;;;;BE13;PARTY;5.57;OFFICIAL;2024-07-16 09:44;0.44881264400142395;2.4998864270879317
+WBE;BE91;PARTY;Other parties W.;Other parties from French-speaking electoral college;;;;;;;;;;;;;;BE91;PARTY;1.97;OFFICIAL;2024-07-16 09:44;1.0177806335904385;2.005027848173164
+WBE;BE91;PARTY;Other parties W.;Other parties from French-speaking electoral college;;;;;;;;;;;;;;BE91;PARTY;0.71;OFFICIAL;2024-07-16 09:44;-1.0688674518111627;-0.7588958907859255
+BG;BG01;COALITION;GERB - SDS/ГЕРБ - СДС ;Coalition Grazhdani za evropeysko razvitie na Balgariya - Sayuz na demokratichnite sili/Граждани за европейско развитие на България - Съюз на демократичните сили;;BG11|BG12;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG01;COALITION;23.55;OFFICIAL;2024-07-16 12:32;1.9538076500281667;46.01217015816333
+BG;BG02;PARTY;BSP/БСП;Bulgarska sotsialisticheska partiy/Българска социалистическа партия;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG02;PARTY;7.01;OFFICIAL;2024-07-16 12:32;0.42877365669080625;3.005703333402552
+BG;BG03;PARTY;DPS/ДПС;Dvizhenie za prava i svobodi/Движение за права и свободи;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG03;PARTY;14.66;OFFICIAL;2024-07-16 12:32;0.7525500798400571;11.032384170455236
+BG;BG04;COALITION;PP - DB/ПП - ДБ;Coalition Prodalzhavame promyanata – Demokratichna Balgariya/Продължаваме промяната – Демократична България;;BG14|BG13;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG04;COALITION;14.45;OFFICIAL;2024-07-16 12:32;1.6195608620100672;23.40265445604547
+BG;BG05;PARTY;Vazrazhdane/Възраждане;Vazrazhdane/Възраждане;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG05;PARTY;13.98;OFFICIAL;2024-07-16 12:32;0.2692472886021702;3.7640770946583393
+BG;BG06;PARTY;ITN/ИТН;Ima takav narod/Има такъв народ;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG06;PARTY;6.04;OFFICIAL;2024-07-16 12:32;1.0916165033170033;6.5933636800347
+BG;BG90;PARTY;Other parties;Other parties;;;Bulgaria;BG;BGR;100.0;ISO 3166-2:BG;Europe;Eastern Europe;;150.0;151.0;;BG90;PARTY;20.31;OFFICIAL;2024-07-16 12:32;-1.11484027205312;-22.64240592539887
+CZ;CZ01;PARTY;ANO 2011;ANO 2011;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ01;PARTY;26.14;OFFICIAL;2024-07-16 12:32;0.20979681729713162;5.484088804147021
+CZ;CZ02;PARTY;Piráti;Česká pirátská strana;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ02;PARTY;6.2;OFFICIAL;2024-07-16 12:32;1.313459492175168;8.143448851486042
+CZ;CZ03;COALITION;STAN - SLK;Coalition Starostové a osobnosti pro Evropu Starostové a nezávislí, Starostové pro Liberecký kraj;;CZ21;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ03;COALITION;8.7;OFFICIAL;2024-07-16 12:32;1.3002140160181894;11.311861939358247
+CZ;CZ04;COALITION;Stačilo!;Coalition Stačilo! (Komunistická strana Čech a Moravy, Česká strana národně sociální, Spojení demokraté – Sdružení nezávislých);;CZ20|CZ19;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ04;COALITION;9.56;OFFICIAL;2024-07-16 12:32;0.720587095510838;6.888812633083612
+CZ;CZ05;PARTY;SOCDEM ;Sociální Demokracie ;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ05;PARTY;1.86;OFFICIAL;2024-07-16 12:32;-0.4977009968971777;-0.9257238542287506
+CZ;CZ06;PARTY;Svobodní;Strana Svobodných Občanů;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ06;PARTY;1.76;OFFICIAL;2024-07-16 12:32;1.0910077316631397;1.9201736077271259
+CZ;CZ07;COALITION;SPOLU;Coalition SPOLU (Občanská demokratická strana, Křesťanská a demokratická unie – Československá strana lidová, Tradice Odpovědnost Prosperita 09);;CZ14|CZ16|CZ15;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ07;COALITION;22.27;OFFICIAL;2024-07-16 12:32;-1.0600608858433604;-23.607555927731635
+CZ;CZ08;PARTY;Zelení;Strana zelených;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ08;PARTY;1.55;OFFICIAL;2024-07-16 12:32;-1.4501170659443865;-2.2476814522137993
+CZ;CZ09;COALITION;Přísaha a Motoristé;Coalition Přísaha a Motoristé (Přísaha – občanské hnutí Roberta Šlachty, AUTO - Motoristé sobě);;CZ17|CZ18;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ09;COALITION;10.26;OFFICIAL;2024-07-16 12:32;0.3358701536658959;3.446027776612092
+CZ;CZ10;COALITION;SPD a Trikolora;Coalition SPD a Trikolora (Svoboda a přímá demokracie, Trikolóra hnutí občanů);;CZ22;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ10;COALITION;5.73;OFFICIAL;2024-07-16 12:32;0.4163074757809362;2.3854418362247647
+CZ;CZ11;PARTY;PRO ;Právo Respekt Odbornost -  Jindřicha Rajchla;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ11;PARTY;2.15;OFFICIAL;2024-07-16 12:32;1.0447602980492707;2.246234640805932
+CZ;CZ90;PARTY;Other parties;Other parties;;;Czechia;CZ;CZE;203.0;ISO 3166-2:CZ;Europe;Eastern Europe;;150.0;151.0;;CZ90;PARTY;3.82;OFFICIAL;2024-07-16 12:32;-1.6652039623659145;-6.361079136237793
+DK;DK01;PARTY;V;Venstre, Danmarks Liberale Parti;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK01;PARTY;14.72;OFFICIAL;2024-07-15 17:47;1.950222080386284;28.707269023286102
+DK;DK02;PARTY;S (A);Socialdemokratiet ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK02;PARTY;15.57;OFFICIAL;2024-07-15 17:47;-0.3971890333117609;-6.184233248664118
+DK;DK03;PARTY;SF (F);Socialistisk Folkeparti ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK03;PARTY;17.42;OFFICIAL;2024-07-15 17:47;1.1706333789259742;20.392433460890473
+DK;DK04;PARTY;DF (O);Dansk Folkeparti ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK04;PARTY;6.37;OFFICIAL;2024-07-15 17:47;-1.480351195768784;-9.429837117047155
+DK;DK05;PARTY;RV (B);Radikale Venstre ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK05;PARTY;7.08;OFFICIAL;2024-07-15 17:47;-0.6584688334593443;-4.661959340892158
+DK;DK06;PARTY;KF (C)  ;Det Konservative Folkeparti ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK06;PARTY;8.84;OFFICIAL;2024-07-15 17:47;-0.4121680718034493;-3.6435657547424913
+DK;DK07;PARTY;EL (Ø);Enhedslisten - De Rød-Grønne;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK07;PARTY;7.04;OFFICIAL;2024-07-15 17:47;-0.8295602462138221;-5.840104133345307
+DK;DK08;PARTY;ALT (Å);Alternativet ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK08;PARTY;2.66;OFFICIAL;2024-07-15 17:47;-1.372005690931252;-3.6495351378771304
+DK;DK09;PARTY;LA (I);Liberal Alliance ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK09;PARTY;6.95;OFFICIAL;2024-07-15 17:47;-1.2060052882465602;-8.381736753313593
+DK;DK10;PARTY;M;Moderaterne ;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK10;PARTY;5.95;OFFICIAL;2024-07-15 17:47;-0.30574429791422375;-1.8191785725896314
+DK;DK11;PARTY;DD (Æ);Danmarksdemokraterne - Inger Støjberg;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK11;PARTY;7.39;OFFICIAL;2024-07-15 17:47;-0.7557943748796028;-5.585320430360264
+DK;DK90;PARTY;Other parties;Other parties;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK90;PARTY;0.0;OFFICIAL;2024-07-15 17:47;1.9140913783658293;0.0
+DE;DE01;COALITION;CDU/CSU;Christlich Demokratische Union Deutschlands/Christlich-Soziale Union in Bayern ;;DE22|DE21;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE01;COALITION;30.0;OFFICIAL;2024-07-16 13:26;-0.9454706549134824;-28.364119647404472
+DE;DE02;PARTY;SPD;Sozialdemokratische Partei Deutschlands;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE02;PARTY;13.9;OFFICIAL;2024-07-16 13:26;-1.872003821697874;-26.02085312160045
+DE;DE03;PARTY;Die Grünen;Bündnis 90/Die Grünen;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE03;PARTY;11.9;OFFICIAL;2024-07-16 13:26;-0.521861765869629;-6.210155013848585
+DE;DE04;PARTY;AfD;Alternative für Deutschland;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE04;PARTY;15.9;OFFICIAL;2024-07-16 13:26;0.5913954838770477;9.403188193645057
+DE;DE05;COALITION;Die Linke;Die Linke;;DE24|DE23;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE05;COALITION;2.7;OFFICIAL;2024-07-16 13:26;-1.8170654087955564;-4.906076603748002
+DE;DE06;PARTY;FDP;Freie Demokratische Partei;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE06;PARTY;5.2;OFFICIAL;2024-07-16 13:26;-0.43815798090272073;-2.2784215006941477
+DE;DE07;PARTY;FW;Freie Wähler;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE07;PARTY;2.7;OFFICIAL;2024-07-16 13:26;-1.181146360175601;-3.1890951724741226
+DE;DE08;PARTY;Tierschutzpartei;Partei Mensch Umwelt Tierschutz;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE08;PARTY;1.4;OFFICIAL;2024-07-16 13:26;1.5203598731621724;2.128503822427041
+DE;DE09;PARTY;BSW;Bündnis Sahra Wagenknecht - Für Vernunft und Gerechtigkeit;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE09;PARTY;6.2;OFFICIAL;2024-07-16 13:26;-0.3660131440520602;-2.269281493122773
+DE;DE10;PARTY;Piratenpartei;Piratenpartei Deutschland;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE10;PARTY;0.5;OFFICIAL;2024-07-16 13:26;-0.6480163944941619;-0.32400819724708096
+DE;DE11;PARTY;Familie;Familien-Partei Deutschlands                                                               ;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE11;PARTY;0.6;OFFICIAL;2024-07-16 13:26;0.42827519512526413;0.25696511707515846
+DE;DE12;PARTY;ÖDP ;Ökologisch-Demokratische Partei;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE12;PARTY;0.6;OFFICIAL;2024-07-16 13:26;0.37493617087199427;0.22496170252319656
+DE;DE13;PARTY;Die Partei;Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE13;PARTY;1.9;OFFICIAL;2024-07-16 13:26;1.5126891606154849;2.874109405169421
+DE;DE14;PARTY;Volt;Volt Deutschland;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE14;PARTY;2.6;OFFICIAL;2024-07-16 13:26;1.8650010818160339;4.849002812721688
+DE;DE16;PARTY;PdF;Partei des Fortschritts;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE16;PARTY;0.6;OFFICIAL;2024-07-16 13:26;-1.3473264650639645;-0.8083958790383786
+DE;DE90;PARTY;Other parties;Other parties;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE90;PARTY;3.3;OFFICIAL;2024-07-16 13:26;0.8106949058711863;2.675293189374915
+EE;EE01;PARTY;ER;Eesti Reformierakond;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE01;PARTY;17.9;OFFICIAL;2024-07-16 12:32;-0.8207585056240663;-14.691577250670784
+EE;EE02;PARTY;SDE;Sotsiaaldemokraatlik Erakond;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE02;PARTY;19.3;OFFICIAL;2024-07-16 12:32;0.3336141878571883;6.438753825643735
+EE;EE03;PARTY;KE;Eesti Keskerakond;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE03;PARTY;12.4;OFFICIAL;2024-07-16 12:32;0.7888725706375181;9.782019875905226
+EE;EE04;COALITION;EKRE;Eesti Konservatiivne Rahvaerakond;;EE10;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE04;COALITION;14.8;OFFICIAL;2024-07-16 12:32;0.5824177427539463;8.619782592758407
+EE;EE05;PARTY;Isamaa;Isamaa Erakond;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE05;PARTY;21.5;OFFICIAL;2024-07-16 12:32;0.8526609667517824;18.332210785163323
+EE;EE06;PARTY;E200;Erakond Eesti 200;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE06;PARTY;2.6;OFFICIAL;2024-07-16 12:32;-1.0458886075924716;-2.7193103797404263
+EE;EE07;PARTY;EER;Erakond Eestimaa Rohelised;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE07;PARTY;0.6;OFFICIAL;2024-07-16 12:32;1.3587270414175174;0.8152362248505104
+EE;EE08;PARTY;EP;Erakond Parempoolsed;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE08;PARTY;6.8;OFFICIAL;2024-07-16 12:32;1.0951171411917748;7.446796560104069
+EE;EE09;PARTY;KOOS ;KOOS organisatsioon osutab suveräänsusele;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE09;PARTY;3.1;OFFICIAL;2024-07-16 12:32;0.05457849909578716;0.1691933471969402
+EE;EE90;PARTY;Other parties;Other parties;;;Estonia;EE;EST;233.0;ISO 3166-2:EE;Europe;Northern Europe;;150.0;154.0;;EE90;PARTY;1.0;OFFICIAL;2024-07-16 12:32;-0.8221808282704495;-0.8221808282704495
+IE;IE01;PARTY;FG;Fine Gael;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE01;PARTY;20.79;FINAL;2024-07-16 12:32;1.4439900798316168;30.02055375969931
+IE;IE02;PARTY;FF;Fianna Fáil – The Republican Party/Fianna Fáil - An Páirtí Poblachtánach;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE02;PARTY;20.44;FINAL;2024-07-16 12:32;0.9548885497653354;19.51792195720346
+IE;IE03;PARTY;IND/Neamhspleách;Independent/Neamhspleách;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE03;PARTY;13.97;FINAL;2024-07-16 12:32;-0.7138388239274756;-9.972328370266833
+IE;IE04;PARTY;SF;Sinn Féin;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE04;PARTY;11.14;FINAL;2024-07-16 12:32;-0.45839541346912993;-5.106524906046108
+IE;IE05;PARTY;GP/CG;Green Party/An Comhaontas Glas;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE05;PARTY;5.36;FINAL;2024-07-16 12:32;0.6325777971385129;3.3906169926624297
+IE;IE06;PARTY;Lab/LO;The Labour Party/Páirtí an Lucht Oibre;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE06;PARTY;3.38;FINAL;2024-07-16 12:32;-0.2222862736849449;-0.7513276050551138
+IE;IE07;PARTY;PBP-S/D-PSB;People Before Profit–Solidarity/Dlúthpháirtíocht–Pobal Seachas Brabús;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE07;PARTY;1.82;FINAL;2024-07-16 12:32;0.7705843454473071;1.402463508714099
+IE;IE08;PARTY;SD/DS;Social Democrats/Daonlathaithe Sóisialta;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE08;PARTY;2.95;FINAL;2024-07-16 12:32;1.6519126604164591;4.873142348228555
+IE;IE09;PARTY;Aon;Aontú;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE09;PARTY;3.76;FINAL;2024-07-16 12:32;-1.8908151104204975;-7.10946481518107
+IE;IE12;PARTY;I4C;Independents 4 Change/Neamhspleáigh ar son an Athraithe ;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE12;PARTY;4.58;FINAL;2024-07-16 12:32;-0.4029430332134667;-1.8454790921176776
+IE;IE13;COALITION;Independent Ireland ;Independent Ireland ;;IE14;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE13;COALITION;6.23;FINAL;2024-07-16 12:32;-0.8651241741953055;-5.389723605236754
+IE;IE90;PARTY;Other parties;Other parties;;;Ireland;IE;IRL;372.0;ISO 3166-2:IE;Europe;Northern Europe;;150.0;154.0;;IE90;PARTY;5.58;FINAL;2024-07-16 12:32;1.6133635852631776;9.002568805768531
+EL;EL01;PARTY;ND/ΝΔ;Néa Dimokratía/Νέα Δημοκρατία;;;;;;;;;;;;;;EL01;PARTY;28.31;OFFICIAL;2024-07-16 09:44;-0.36560566247834725;-10.35029630476201
+EL;EL02;PARTY;SYRΙΖΑ/ΣΥΡΙΖΑ;Sinaspismós Rizospastikís Aristerás/Συνασπισμός Ριζοσπαστικής Αριστεράς;;;;;;;;;;;;;;EL02;PARTY;14.92;OFFICIAL;2024-07-16 09:44;0.6054976943457517;9.034025599638616
+EL;EL03;PARTY;PASOK/ΠΑΣΟΚ;PASOK – Kínima Allagís/ΠΑΣΟΚ – Κίνημα Αλλαγής;;;;;;;;;;;;;;EL03;PARTY;12.79;OFFICIAL;2024-07-16 09:44;0.44161927276191815;5.648310498624933
+EL;EL04;PARTY;KKE;Kommounistikó Kómma Elládas/Κομμουνιστικό Κόμμα Ελλάδας;;;;;;;;;;;;;;EL04;PARTY;9.25;OFFICIAL;2024-07-16 09:44;1.6252473071402185;15.03353759104702
+EL;EL05;PARTY;EL/EΛ;Ellinikí Lýsi/Ελληνική Λύση;;;;;;;;;;;;;;EL05;PARTY;9.3;OFFICIAL;2024-07-16 09:44;0.8386024978384383;7.799003229897477
+EL;EL06;PARTY;MeRA25/ΜέΡΑ25;Μétopo Evropaikís Realistikís Anypakoís/Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής;;;;;;;;;;;;;;EL06;PARTY;2.54;OFFICIAL;2024-07-16 09:44;1.605587380369145;4.078191946137628
+EL;EL07;PARTY;PE/ΠE;Plefsi Eleftherias/Πλεύση Ελευθερίας;;;;;;;;;;;;;;EL07;PARTY;3.4;OFFICIAL;2024-07-16 09:44;-1.3424285737537067;-4.564257150762603
+EL;EL08;PARTY;NIKI/NIKH;Dimokratikó Patriotikó Kínima “Níki”/Δημοκρατικό Πατριωτικό Κίνημα “Νίκη”;;;;;;;;;;;;;;EL08;PARTY;4.37;OFFICIAL;2024-07-16 09:44;1.4363111553388541;6.276679748830793
+EL;EL09;PARTY;NE.A.;Néa Aristerá/Νέα Αριστερά ;;;;;;;;;;;;;;EL09;PARTY;2.45;OFFICIAL;2024-07-16 09:44;1.0179578294025466;2.4939966820362396
+EL;EL10;PARTY;Dimokrátes/Δημοκράτες;Dimokrátes/Δημοκράτες;;;;;;;;;;;;;;EL10;PARTY;1.45;OFFICIAL;2024-07-16 09:44;1.1754129542251417;1.7043487836264555
+EL;EL11;PARTY;Foni Logikis/Φωνή λογικής;Foni Logikis/Φωνή λογικής;;;;;;;;;;;;;;EL11;PARTY;3.04;OFFICIAL;2024-07-16 09:44;-1.3452091984927592;-4.089435963417988
+EL;EL12;PARTY;Kosmos/Kόσμος;Kosmos/Kόσμος;;;;;;;;;;;;;;EL12;PARTY;1.08;OFFICIAL;2024-07-16 09:44;0.9971094402791176;1.076878195501447
+EL;EL90;PARTY;Other parties;Other parties;;;;;;;;;;;;;;EL90;PARTY;7.1;OFFICIAL;2024-07-16 09:44;0.5382543327595561;3.8216057625928483
+ES;ES01;COALITION;PSOE ;Partido Socialista Obrero Español ;;ES21|ES22;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES01;COALITION;30.19;FINAL;2024-07-16 12:32;-1.8080077325695965;-54.58375344627612
+ES;ES02;PARTY;PP;Partido Popular;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES02;PARTY;34.21;FINAL;2024-07-16 12:32;1.5531628214502016;53.133700121811394
+ES;ES03;COALITION;Sumar;Coalition Sumar (Movimiento Sumar, Catalunya en Comú, Compromís, Izquierda Unida, Más Madrid, Verdes Equo, Chunta Aragonesista, Iniciativa del Pueblo Andaluz, Nueva Canarias - Bloque Canarista);;ES19|ES20;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES03;COALITION;4.67;FINAL;2024-07-16 12:32;1.4788643301889457;6.906296421982376
+ES;ES04;PARTY;Podemos;Podemos;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES04;PARTY;3.3;FINAL;2024-07-16 12:32;-1.264020499969289;-4.171267649898653
+ES;ES05;PARTY;Vox;Vox;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES05;PARTY;9.63;FINAL;2024-07-16 12:32;-0.07186321090766556;-0.6920427210408194
+ES;ES06;PARTY;Junts UE;Coalition Junts i Lliures per Europa (Junts, Demòcrates de Catalunya, Moviment d'Esquerres de Catalunya, et al.);;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES06;PARTY;2.52;FINAL;2024-07-16 12:32;-1.4529515184418225;-3.6614378264733927
+ES;ES07;COALITION;Ahora Repúblicas;Coalition Ahora Repúblicas (Esquerra Republicana de Catalunya, Euskal Herria Bildu, Bloque Nacionalista Galego, Ara Més, et al.);;ES16|ES18|ES17;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES07;COALITION;4.91;FINAL;2024-07-16 12:32;1.6866201765212154;8.281305066719169
+ES;ES08;COALITION;CEUS;Coalition CEUS (Euzko Alderdi Jeltzalea - Partido Nacionalista Vasco, Coalición Canaria, El Pi - Proposta per les Illes Balears, Agrupación Atarrabia - Atarrabia Taldea, Geroa Socialverdes de Navarra en Europa - Geroa Nafarroako Sozialberdeak Europan);;ES15;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES08;COALITION;1.63;FINAL;2024-07-16 12:32;0.5175545690885497;0.843613947614336
+ES;ES11;PARTY;SALF;Se Acabó la Fiesta;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES11;PARTY;4.58;FINAL;2024-07-16 12:32;-1.137986573646896;-5.211978507302783
+ES;ES90;PARTY;Other parties;Other parties;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES90;PARTY;4.36;FINAL;2024-07-16 12:32;-1.197727249110418;-5.2220908061214235
+FR;FR01;PARTY;RN;Rassemblement national;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR01;PARTY;31.37;OFFICIAL;2024-07-16 12:32;-1.2527302984785758;-39.29814946327292
+FR;FR02;COALITION;Besoin d'Europe;Coalition Besoin d'Europe (Renaissance, Modem, Horizons, Parti Radical, Union des démocrates et indépendants);;FR17|FR19|FR18|FR20|FR21;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR02;COALITION;14.6;OFFICIAL;2024-07-16 12:32;-0.309528780258836;-4.519120191779006
+FR;FR03;PARTY;LE - EELV;Les Écologistes - Europe Ecologie Les Verts;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR03;PARTY;5.5;OFFICIAL;2024-07-16 12:32;-0.904643894925786;-4.975541422091823
+FR;FR04;PARTY;LR;Les Républicains;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR04;PARTY;7.25;OFFICIAL;2024-07-16 12:32;0.30583754627597814;2.2173222105008414
+FR;FR05;PARTY;LFI;La France Insoumise;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR05;PARTY;9.89;OFFICIAL;2024-07-16 12:32;-0.37328449938629316;-3.6917836989304393
+FR;FR06;COALITION;Réveiller l'Europe;Coalition Réveiller l'Europe (Parti socialiste, Place publique);;FR24|FR23;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR06;COALITION;13.83;OFFICIAL;2024-07-16 12:32;0.8489073877535049;11.740389172630973
+FR;FR07;PARTY;Gauche Unie;Coalition Gauche Unie (Parti communiste français, Gauche républicaine et socialiste);;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR07;PARTY;2.36;OFFICIAL;2024-07-16 12:32;1.7218508127857275;4.063567918174317
+FR;FR08;COALITION;La France fière;Coalition La France fière (Reconquête!, Centre national des indépendants et paysans);;FR15|FR22|FR14|FR16;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR08;COALITION;5.47;OFFICIAL;2024-07-16 12:32;1.01377280792221;5.545337259334488
+FR;FR09;PARTY;AR;Alliance Rurale;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR09;PARTY;2.35;OFFICIAL;2024-07-16 12:32;0.23541250120609192;0.5532193778343161
+FR;FR10;PARTY;PA;Parti Animaliste;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR10;PARTY;2.0;OFFICIAL;2024-07-16 12:32;0.82749127820045;1.6549825564009
+FR;FR11;PARTY;UPR;Union Populaire Républicaine;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR11;PARTY;1.02;OFFICIAL;2024-07-16 12:32;1.8315752366670481;1.8682067414003891
+FR;FR12;PARTY;L'Europe ça suffit;Coalition L'Europe ça suffit (Les Patriotes, Via, la voie du peuple);;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR12;PARTY;0.93;OFFICIAL;2024-07-16 12:32;-0.5504442642853764;-0.5119131657854001
+FR;FR13;PARTY;NPA;Nouveau Parti Anticapitaliste;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR13;PARTY;0.15;OFFICIAL;2024-07-16 12:32;-0.6850023816423829;-0.10275035724635743
+FR;FR90;PARTY;Other parties;Other parties;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR90;PARTY;3.28;OFFICIAL;2024-07-16 12:32;-1.6922860049231616;-5.55069809614797
+IT;IT01;PARTY;Lega Salvini Premier;Lega Salvini Premier;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT01;PARTY;8.97;FINAL;2024-07-16 12:32;1.304391642877825;11.700393036614091
+IT;IT02;PARTY;PD;Partito Democratico;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT02;PARTY;24.11;FINAL;2024-07-16 12:32;-1.0934551332728661;-26.363203263208803
+IT;IT03;PARTY;M5S;Movimento Cinque Stelle;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT03;PARTY;9.98;FINAL;2024-07-16 12:32;-0.5521472279228945;-5.510429334670487
+IT;IT04;COALITION;FI – NM;Coalition Forza italia - Noi Moderati (Forza Italia, Noi Moderati);;IT13;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT04;COALITION;9.58;FINAL;2024-07-16 12:32;0.6410506320229676;6.14126505478003
+IT;IT05;PARTY;FdI;Fratelli d'Italia;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT05;PARTY;28.75;FINAL;2024-07-16 12:32;-1.2309837842300921;-35.390783796615146
+IT;IT06;COALITION;Alleanza Verdi e Sinistra ;Coalition Alleanza Verdi e Sinistra (Europa Verde, Sinistra Italiana);;IT15|IT14|IT16;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT06;COALITION;6.79;FINAL;2024-07-16 12:32;-0.7058648830576808;-4.792822555961653
+IT;IT07;PARTY;Azione – Siamo Europei ;Coalition Azione – Siamo Europei (Azione, NOS , Popolari Europeisti e Riformatori, Partito Repubblicano Italiano, Movimento Repubblicani Europei,  Team K, et al);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT07;PARTY;3.36;FINAL;2024-07-16 12:32;-1.6831458132172519;-5.655369932409966
+IT;IT08;PARTY;SVP;Südtiroler Volkspartei (Popolare Sudtirolese);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT08;PARTY;0.52;FINAL;2024-07-16 12:32;1.1789005164695388;0.6130282685641602
+IT;IT09;PARTY;Democrazia sovrana popolare ;Coalition Democrazia sovrana popolare (Partito Comunista, Ancora Italia sovrana e popolare);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT09;PARTY;0.15;FINAL;2024-07-16 12:32;1.8436843085548356;0.27655264628322535
+IT;IT10;PARTY;Pace Terra Dignità ;Coalition Pace Terra Dignità (MERA25 Italia, Movimento equità territoriale, Partito della Rifondazione Comunista, Lìberos Rispetados Uguales );;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT10;PARTY;2.21;FINAL;2024-07-16 12:32;1.6000767390225223;3.5361695932397743
+IT;IT11;PARTY;Stati Uniti d'Europa;Coalition Stati Uniti d'Europa (+ Europa, Italia Viva, Liberali Democratici Europei, Partito Socialista Italiano,Radicali Italiani, L’Italia c’è);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT11;PARTY;3.78;FINAL;2024-07-16 12:32;-1.260223263668966;-4.763643936668691
+IT;IT12;PARTY;Libertà ;Coalition Libertà (Sud Chiama Nord, Movimento per l'Italexit, Sicilia Vera,  I civici in movimento – con Pirozzi, Grande Nord, Popolo Veneto, Capitano Ultimo,  et al.);;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT12;PARTY;1.22;FINAL;2024-07-16 12:32;-0.9241638872909763;-1.127479942494991
+IT;IT90;PARTY;Other parties;Other parties;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT90;PARTY;0.58;FINAL;2024-07-16 12:32;1.6152974391259178;0.9368725146930322
+CY;CY01;PARTY;DISY/ΔΗΣΥ;Dimokratikós Sinagermós/Δημοκρατικός Συναγερμός;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY01;PARTY;24.78;OFFICIAL;2024-07-15 17:47;-1.8754370951910637;-46.47333121883456
+CY;CY02;PARTY;AKEL/ΑΚΕΛ;Anorthotikó Kómma Ergazómenou Laoú/Ανορθωτικό Κόμμα Εργαζόμενου Λαού;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY02;PARTY;21.49;OFFICIAL;2024-07-15 17:47;-0.008230466188440033;-0.1768727183895763
+CY;CY03;PARTY;DIKO/ΔΗΚΟ;Dimokratikó Kómma/Δημοκρατικό Κόμμα;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY03;PARTY;9.72;OFFICIAL;2024-07-15 17:47;0.40419736908558823;3.928798427511918
+CY;CY04;PARTY;EDEK/ΕΔΕΚ;EDEK Sosialistikó Kómma/ΕΔΕΚ Σοσιαλιστικό Κόμμα;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY04;PARTY;5.07;OFFICIAL;2024-07-15 17:47;1.288958786812417;6.535021049138955
+CY;CY05;PARTY;ELAM/ΕΛΑΜ;Ethnikó Laikó Métopo/Εθνικό Λαϊκό Μέτωπο;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY05;PARTY;11.19;OFFICIAL;2024-07-15 17:47;-1.359286574719646;-15.21041677111284
+CY;CY10;PARTY;Fidias/Φειδίας;Independent (Fidias Panayiotou/Φειδίας Παναγιώτου);;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY10;PARTY;19.36;OFFICIAL;2024-07-15 17:47;1.1483079125237405;22.231241186459616
+CY;CY90;PARTY;Other parties;Other parties;;;Cyprus;CY;CYP;196.0;ISO 3166-2:CY;Asia;Western Asia;;142.0;145.0;;CY90;PARTY;8.39;OFFICIAL;2024-07-15 17:47;1.402785457811984;11.769369991042547
+LV;LV01;PARTY;JV ;Jaunā Vienotība ;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV01;PARTY;25.09;OFFICIAL;2024-07-16 12:32;0.7262850297842789;18.222491397287556
+LV;LV02;PARTY;S/SDP;Sociāldemokrātiskā partija 'Saskaņa';;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV02;PARTY;7.13;OFFICIAL;2024-07-16 12:32;1.9950643507641481;14.224808820948375
+LV;LV03;COALITION;NA ;Nacionālā apvienība 'Visu Latvijai!'-'Tēvzemei un Brīvībai/LNNK';;LV15;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV03;COALITION;22.07;OFFICIAL;2024-07-16 12:32;0.10158157748468843;2.2419054150870736
+LV;LV05;PARTY;LA;Latvijas attīstībai;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV05;PARTY;9.36;OFFICIAL;2024-07-16 12:32;-0.5376402673132974;-5.032312902052463
+LV;LV06;PARTY;ZZS ;Coalition Zaļo un Zemnieku savienība (Latvijas Zemnieku savienība, Latvijas Sociāldemokrātiskā strādnieku partija, Latvijai un Ventspilij);;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV06;PARTY;2.28;OFFICIAL;2024-07-16 12:32;-0.5608920725350868;-1.2788339253799976
+LV;LV07;PARTY;AS ;Coalition Apvienotais Saraksts (Latvijas Zaļā Partija, Latvijas Reģionu apvienība, Liepājas Partija);;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV07;PARTY;8.18;OFFICIAL;2024-07-16 12:32;-0.918689653208089;-7.514881363242168
+LV;LV08;PARTY;JKP;Jaunā konservatīvā partija;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV08;PARTY;1.5;OFFICIAL;2024-07-16 12:32;1.6587965066996002;2.4881947600494003
+LV;LV09;PARTY;P;Progresīvie ;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV09;PARTY;7.45;OFFICIAL;2024-07-16 12:32;-0.32879067012317353;-2.449490492417643
+LV;LV10;PARTY;LPV;Latvija pirmajā vietā ;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV10;PARTY;6.16;OFFICIAL;2024-07-16 12:32;1.0506144070843608;6.471784747639663
+LV;LV11;PARTY;ST!;Stabilitātei!;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV11;PARTY;1.98;OFFICIAL;2024-07-16 12:32;-0.24500470844485367;-0.48510932272081025
+LV;LV12;PARTY;SV;Coalition Suverēnā vara (Suverēnā vara, Partija 'Vienoti Latvijai');;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV12;PARTY;2.62;OFFICIAL;2024-07-16 12:32;-0.7458149278302391;-1.9540351109152265
+LV;LV13;PARTY;AJ;Apvienība Jaunlatvieši;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV13;PARTY;2.13;OFFICIAL;2024-07-16 12:32;-0.06773468499889423;-0.14427487904764472
+LV;LV14;PARTY;CP;Coalition Centra partija (Centra partija, Latvijas Krievu savienība);;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV14;PARTY;1.72;OFFICIAL;2024-07-16 12:32;0.19636905286588036;0.3377547709293142
+LV;LV90;PARTY;Other parties;Other parties;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV90;PARTY;2.33;OFFICIAL;2024-07-16 12:32;-0.8551554546425293;-1.9925122093170933
+LT;LT01;PARTY;TS-LKD;Tėvynės Sąjunga – Lietuvos Krikščionys Demokratai;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT01;PARTY;21.33;OFFICIAL;2024-07-15 17:47;1.498225547868346;31.957150936031816
+LT;LT02;PARTY;LSDP;Lietuvos Socialdemokratų Partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT02;PARTY;17.98;OFFICIAL;2024-07-15 17:47;1.4272263143488289;25.661529131991944
+LT;LT03;PARTY;LVŽS;Lietuvos Valstiečių ir Žaliųjų Sąjunga;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT03;PARTY;9.13;OFFICIAL;2024-07-15 17:47;0.9534274509454477;8.704792627131939
+LT;LT04;PARTY;DP;Darbo Partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT04;PARTY;1.66;OFFICIAL;2024-07-15 17:47;-0.49773760522956145;-0.826244424681072
+LT;LT05;PARTY;LS;Liberalų Sąjūdis;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT05;PARTY;5.41;OFFICIAL;2024-07-15 17:47;-0.3023259842473647;-1.635583574778243
+LT;LT06;PARTY;LLRA-KŠS;Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT06;PARTY;5.78;OFFICIAL;2024-07-15 17:47;1.4304414552467533;8.267951611326234
+LT;LT07;PARTY;LP;Laisvės partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT07;PARTY;8.09;OFFICIAL;2024-07-15 17:47;1.9766172132872364;15.990833255493742
+LT;LT08;PARTY;LRP ;Lietuvos Regionų partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT08;PARTY;5.25;OFFICIAL;2024-07-15 17:47;1.2580532981998984;6.604779815549467
+LT;LT09;PARTY;DSVL;Demokratų sąjunga „Vardan Lietuvos“;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT09;PARTY;5.95;OFFICIAL;2024-07-15 17:47;0.6905272984665509;4.108637425875978
+LT;LT10;PARTY;NS;Nacionalinis susivienijimas;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT10;PARTY;3.79;OFFICIAL;2024-07-15 17:47;-1.6301017842507601;-6.178085762310381
+LT;LT11;PARTY;LT;Laisvė ir Teisingumas;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT11;PARTY;1.25;OFFICIAL;2024-07-15 17:47;0.23492661521254155;0.29365826901567693
+LT;LT12;PARTY;LCP;Tautos ir Teisingumo Sąjunga (centristai, tautininkai);;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT12;PARTY;5.45;OFFICIAL;2024-07-15 17:47;0.47475894241107897;2.5874362361403804
+LT;LT13;PARTY;LŽP;Lietuvos žaliųjų partija ;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT13;PARTY;4.05;OFFICIAL;2024-07-15 17:47;-1.789864938478622;-7.248953000838419
+LT;LT90;PARTY;Other parties;Other parties;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT90;PARTY;4.88;OFFICIAL;2024-07-15 17:47;0.9543333724757765;4.65714685768179
+LU;LU01;PARTY;DP/PD;Demokratesch Partei/Parti démocratique/Demokratische Partei;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU01;PARTY;18.29;OFFICIAL;2024-07-16 09:44;1.978033017104448;36.17822388284035
+LU;LU02;PARTY;CSV/PCS;Chrëschtlech Sozial Vollekspartei/Parti populaire chrétien-social/Christlich Soziale Volkspartei;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU02;PARTY;22.92;OFFICIAL;2024-07-16 09:44;-0.31790386832531325;-7.28635666201618
+LU;LU03;PARTY;Déi Gréng/Les Verts;Déi Gréng/Les Verts/Die Grünen;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU03;PARTY;11.76;OFFICIAL;2024-07-16 09:44;1.7043180271419276;20.04277999918907
+LU;LU04;PARTY;LSAP/POSL;Lëtzebuerger Sozialistesch Aarbechterpartei/Parti ouvrier socialiste luxembourgeois/Luxemburger Sozialistische Arbeiterpartei;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU04;PARTY;21.72;OFFICIAL;2024-07-16 09:44;-1.7884873435032858;-38.84594510089136
+LU;LU05;PARTY;ADR/PADR;Alternativ Demokratesch Reformpartei/Parti réformiste d'alternative démocratique/Alternative Demokratische Reformpartei;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU05;PARTY;11.77;OFFICIAL;2024-07-16 09:44;-0.2471303653750665;-2.9087244004645325
+LU;LU06;PARTY;Piraten;Piratepartei Lëtzebuerg/Piratenpartei Luxemburg/Parti pirate du Luxembourg;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU06;PARTY;4.92;OFFICIAL;2024-07-16 09:44;-0.9502205293612556;-4.675085004457378
+LU;LU07;PARTY;Déi Lénk/La Gauche;Déi Lénk/La Gauche/Die Linke;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU07;PARTY;3.15;OFFICIAL;2024-07-16 09:44;1.0638593035365624;3.3511568061401715
+LU;LU08;PARTY;KPL/PCL;Kommunistesch Partei vu Lëtzebuerg/Parti Communiste Luxembourgeois/Kommunistische Partei Luxemburgs;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU08;PARTY;0.97;OFFICIAL;2024-07-16 09:44;0.858878542974213;0.8331121866849865
+LU;LU09;PARTY;Volt;Volt Lëtzebuerg/Volt Luxembourg/Volt Luxemburg;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU09;PARTY;1.04;OFFICIAL;2024-07-16 09:44;1.5129572419660784;1.5734755316447215
+LU;LU10;PARTY;Fokus;Fokus ;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU10;PARTY;1.58;OFFICIAL;2024-07-16 09:44;0.9126874151333708;1.4420461159107258
+LU;LU11;PARTY;DK/LC;Déi Konservativ/Les Conservateurs/Die Konservativen;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU11;PARTY;0.58;OFFICIAL;2024-07-16 09:44;-1.0104736426077445;-0.5860747127124918
+LU;LU90;PARTY;Other parties;Other parties;;;Luxembourg;LU;LUX;442.0;ISO 3166-2:LU;Europe;Western Europe;;150.0;155.0;;LU90;PARTY;1.3;OFFICIAL;2024-07-16 09:44;1.7565760052439248;2.283548806817102
+HU;HU01;COALITION;Fidesz-KDNP;Coalition Fidesz – Magyar Polgári Szövetség - Kereszténydemokrata Néppárt;;HU12|HU13;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU01;COALITION;44.82;FINAL;2024-07-16 13:26;0.2986249624089896;13.384370815170914
+HU;HU02;PARTY;Momentum;Momentum Mozgalom;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU02;PARTY;3.7;FINAL;2024-07-16 13:26;-1.8535553156001843;-6.858154667720682
+HU;HU03;PARTY;Jobbik;Jobbik - Konzervatívok;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU03;PARTY;0.99;FINAL;2024-07-16 13:26;0.5386393550318895;0.5332529614815706
+HU;HU04;PARTY;Mi Hazánk;Mi Hazánk Mozgalom;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU04;PARTY;6.71;FINAL;2024-07-16 13:26;-1.038616680898821;-6.969117928831089
+HU;HU05;PARTY;MKKP ;Magyar Kétfarkú Kutyapárt;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU05;PARTY;3.59;FINAL;2024-07-16 13:26;-0.6069338174181;-2.178892404530979
+HU;HU06;PARTY;LMP - Zöldek;Magyarország Zöld Pártja;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU06;PARTY;0.87;FINAL;2024-07-16 13:26;-1.2611682274861322;-1.097216357912935
+HU;HU07;PARTY;MMN;Mindenki Magyarországa Néppárt;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU07;PARTY;0.64;FINAL;2024-07-16 13:26;0.3198412617867725;0.2046984075435344
+HU;HU08;PARTY;TISZA;Tisztelet és Szabadság Pártja;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU08;PARTY;29.6;FINAL;2024-07-16 13:26;0.6589006185285586;19.503458308445335
+HU;HU09;COALITION;DK-MSZP-P;Coalition DK-MSZP-P (Demokratikus Koalíció, Magyar Szocialista Párt, Párbeszéd-Zöldek);;HU14;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU09;COALITION;8.03;FINAL;2024-07-16 13:26;0.41133152804483686;3.3029921702000395
+HU;HU10;PARTY;2RK;Második Reformkor;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU10;PARTY;0.68;FINAL;2024-07-16 13:26;-1.0720540156029745;-0.7289967306100227
+HU;HU11;PARTY;Memo;Megoldás Mozgalom;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU11;PARTY;0.37;FINAL;2024-07-16 13:26;1.086655564328027;0.40206255880136993
+HU;HU90;PARTY;Other parties;Other parties;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU90;PARTY;0.0;FINAL;2024-07-16 13:26;0.2737533690231184;0.0
+MT;MT01;PARTY;PL/LP;Partit Laburista/Labour Party;;;Malta;MT;MLT;470.0;ISO 3166-2:MT;Europe;Southern Europe;;150.0;39.0;;MT01;PARTY;45.26;FINAL;2024-07-15 18:33;-1.6096949254816164;-72.85479232729796
+MT;MT02;PARTY;PN/NP;Partit Nazzjonalista/Nationalist Party;;;Malta;MT;MLT;470.0;ISO 3166-2:MT;Europe;Southern Europe;;150.0;39.0;;MT02;PARTY;42.02;FINAL;2024-07-15 18:33;-1.80625216256961;-75.89871587117501
+MT;MT90;PARTY;Other parties;Other parties;;;Malta;MT;MLT;470.0;ISO 3166-2:MT;Europe;Southern Europe;;150.0;39.0;;MT90;PARTY;12.72;FINAL;2024-07-15 18:33;0.6223253924241079;7.915978991634653
+NL;NL01;COALITION;GL - PvdA;Coalition GL - PvdA (GroenLinks, PvdA) ;;NL16|NL15;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL01;COALITION;21.09;FINAL;2024-07-16 12:32;-1.0016245853393846;-21.12426250480762
+NL;NL02;PARTY;VVD;Volkspartij voor Vrijheid en Democratie;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL02;PARTY;11.35;FINAL;2024-07-16 12:32;-0.1534090008612461;-1.7411921597751432
+NL;NL03;PARTY;CDA;Christen-Democratisch Appèl;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL03;PARTY;9.45;FINAL;2024-07-16 12:32;-0.976415705643173;-9.227128418327984
+NL;NL04;PARTY;FvD;Forum voor Democratie;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL04;PARTY;2.49;FINAL;2024-07-16 12:32;1.2921924444340607;3.2175591866408113
+NL;NL05;PARTY;D66;Democraten 66;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL05;PARTY;8.4;FINAL;2024-07-16 12:32;1.2828468346561976;10.775913411112061
+NL;NL06;PARTY;CU;ChristenUnie;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL06;PARTY;2.89;FINAL;2024-07-16 12:32;1.4993627782895715;4.333158429256862
+NL;NL07;PARTY;SGP;Staatkundig Gereformeerde Partij;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL07;PARTY;3.66;FINAL;2024-07-16 12:32;-0.4134871240265694;-1.513362873937244
+NL;NL08;PARTY;PvdD;Partij voor de Dieren;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL08;PARTY;4.52;FINAL;2024-07-16 12:32;0.18821948895326024;0.8507520900687362
+NL;NL09;PARTY;PVV;Partij voor de Vrijheid;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL09;PARTY;16.97;FINAL;2024-07-16 12:32;-1.7083784053941837;-28.991181539539294
+NL;NL10;PARTY;SP;Socialistische Partij;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL10;PARTY;2.2;FINAL;2024-07-16 12:32;-0.8169062700119731;-1.797193794026341
+NL;NL11;PARTY;Volt;Volt Nederland;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL11;PARTY;5.13;FINAL;2024-07-16 12:32;-0.5978925749357482;-3.067188909420388
+NL;NL12;PARTY;JA21;Juiste Antwoord 2021;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL12;PARTY;0.65;FINAL;2024-07-16 12:32;0.7781526707339741;0.5057992359770832
+NL;NL13;PARTY;NSC;Nieuw Sociaal Contract;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL13;PARTY;3.75;FINAL;2024-07-16 12:32;0.007884524875297672;0.02956696828236627
+NL;NL14;PARTY;BBB;BoerBurgerBeweging;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL14;PARTY;5.41;FINAL;2024-07-16 12:32;0.3969467338664612;2.147481830217555
+NL;NL90;PARTY;Other parties;Other parties;;;Netherlands;NL;NLD;528.0;ISO 3166-2:NL;Europe;Western Europe;;150.0;155.0;;NL90;PARTY;2.04;FINAL;2024-07-16 12:32;1.1506624165683497;2.3473513297994333
+AT;AT01;PARTY;ÖVP;Österreichische Volkspartei;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT01;PARTY;24.52;OFFICIAL;2024-07-08 12:51;0.4267793555994066;10.46462979929745
+AT;AT02;PARTY;SPÖ;Sozialdemokratische Partei Österreichs;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT02;PARTY;23.22;OFFICIAL;2024-07-08 12:51;1.4126200574195393;32.8010377332817
+AT;AT03;PARTY;FPÖ;Die Freiheitliche Partei Österreichs;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT03;PARTY;25.36;OFFICIAL;2024-07-08 12:51;1.25471805509836;31.81964987729441
+AT;AT04;PARTY;GRÜNE;Die Grünen – Die Grüne Alternative;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT04;PARTY;11.08;OFFICIAL;2024-07-08 12:51;0.14519700597963237;1.6087828262543267
+AT;AT05;PARTY;NEOS;NEOS – Das neue Europa ;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT05;PARTY;10.14;OFFICIAL;2024-07-08 12:51;-1.154361300106614;-11.705223583081066
+AT;AT06;PARTY;KPÖ;Kommunistische Partei Österreichs – KPÖ Plus;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT06;PARTY;2.96;OFFICIAL;2024-07-08 12:51;0.6464153343774828;1.913389389757349
+AT;AT90;PARTY;Other parties;Other parties;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT90;PARTY;2.72;OFFICIAL;2024-07-08 12:51;1.1682899476009707;3.1777486574746407
+PL;PL01;COALITION;PiS;Prawo i Sprawiedliwość (Prawo i Sprawiedliwość, Suwerenna Polska);;PL11|PL10;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL01;COALITION;36.16;OFFICIAL;2024-07-16 12:32;1.5068966603292595;54.48938323750602
+PL;PL02;COALITION;KO;Koalicja Obywatelska (Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Partia Zieloni);;PL08|PL07|PL09;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL02;COALITION;37.06;OFFICIAL;2024-07-16 12:32;-0.12433401443601833;-4.60781857499884
+PL;PL03;COALITION;Lewica;Coalition Lewica (Nowa Lewica, Lewica Razem, Unia Pracy);;PL16;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL03;COALITION;6.3;OFFICIAL;2024-07-16 12:32;1.3720455079155163;8.643886699867751
+PL;PL04;COALITION;Konfederacja ;Konfederacja Wolność i Niepodległość (Konfederacja Korony Polskiej, Ruch Narodowy, Nowa Nadzieja, Polska Jest Jedna, Wolnościowcy);;PL13|PL12;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL04;COALITION;12.08;OFFICIAL;2024-07-16 12:32;1.080002963734049;13.046435801907311
+PL;PL05;COALITION;Trzecia Droga;Coalition Trzecia Droga Polska 2050 Szymona Hołowni - Polskie Stronnictwo Ludowe (Polskie Stronnictwo Ludowe, Polska2050, Unia Europejskich Demokratów, Wolnościowcy);;PL14|PL15;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL05;COALITION;6.91;OFFICIAL;2024-07-16 12:32;0.7692438239969177;5.315474823818701
+PL;PL06;PARTY;BS;Bezpartyjni Samorządowcy;;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL06;PARTY;0.93;OFFICIAL;2024-07-16 12:32;1.1240267687516314;1.0453448949390174
+PL;PL90;PARTY;Other parties;Other parties;;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL90;PARTY;0.56;OFFICIAL;2024-07-16 12:32;1.4418579944752765;0.807440476906155
+PT;PT01;PARTY;PS;Partido Socialista;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT01;PARTY;32.75;OFFICIAL;2024-07-16 13:26;-0.488809980697666;-16.008526867848563
+PT;PT02;COALITION;AD;Aliança Democrática (Partido Social Democrata, Centro Democrático Social-Partido Popular, Partido Popular Monárquico);;PT11|PT09|PT10;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT02;COALITION;31.74;OFFICIAL;2024-07-16 13:26;1.7267543022334624;54.80718155289009
+PT;PT03;PARTY;BE;Bloco de Esquerda;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT03;PARTY;4.34;OFFICIAL;2024-07-16 13:26;0.738651625454176;3.2057480544711234
+PT;PT04;COALITION;CDU;Coligação Democrática Unitária (Partido Comunista Português, Partido Ecologista “Os Verdes”) ;;PT12;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT04;COALITION;4.2;OFFICIAL;2024-07-16 13:26;-0.45506704019079613;-1.9112815688013438
+PT;PT05;PARTY;PAN;Pessoas-Animais-Natureza;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT05;PARTY;1.24;OFFICIAL;2024-07-16 13:26;-0.10238741233968751;-0.1269603913012125
+PT;PT06;PARTY;L;LIVRE;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT06;PARTY;3.83;OFFICIAL;2024-07-16 13:26;1.5249175016874288;5.840434031462852
+PT;PT07;PARTY;IL;Iniciativa Liberal;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT07;PARTY;9.26;OFFICIAL;2024-07-16 13:26;-0.40257840296037317;-3.7278760114130556
+PT;PT08;PARTY;CH;CHEGA;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT08;PARTY;9.99;OFFICIAL;2024-07-16 13:26;-1.7820606308794713;-17.80278570248592
+PT;PT90;PARTY;Other parties;Other parties;;;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT90;PARTY;2.65;OFFICIAL;2024-07-16 13:26;-1.026114054734407;-2.7192022450461786
+RO;RO01;COALITION;PSD - PNL;Alianța PSD - PNL (Partidul Social Democrat, Partidul Național Liberal);;RO16|RO15;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO01;COALITION;48.55;OFFICIAL;2024-07-16 13:26;0.1254190599018612;6.089095358235361
+RO;RO03;PARTY;UDMR/RMDSZ;Uniunea Democrată Maghiară din România/Romániai Magyar Demokrata Szövetség;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO03;PARTY;6.48;OFFICIAL;2024-07-16 13:26;0.8783967012385108;5.69201062402555
+RO;RO04;COALITION;AUR;Alianța pentru Unirea Românilor (Alianța pentru Unirea Românilor, Partidul Național Conservator Român, Partidul Români Pentru România);;RO18|RO17;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO04;COALITION;14.93;OFFICIAL;2024-07-16 13:26;0.7066264829347566;10.549933390215916
+RO;RO06;PARTY;SOS;SOS România;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO06;PARTY;5.03;OFFICIAL;2024-07-16 13:26;0.008806254585770112;0.04429546056642367
+RO;RO07;COALITION;Alianța Dreapta Unită;Alianța Dreapta Unită (Uniunea Salvați România, Partidul Mișcarea Populară, Forța Dreptei);;RO20|RO19;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO07;COALITION;8.71;OFFICIAL;2024-07-16 13:26;-0.9700586468254868;-8.44921081384999
+RO;RO08;PARTY;ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL;ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO08;PARTY;3.08;OFFICIAL;2024-07-16 13:26;1.659192672874874;5.110313432454612
+RO;RO90;PARTY;Other parties;Other parties;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO90;PARTY;13.22;OFFICIAL;2024-07-16 13:26;-0.8768749121686072;-11.592286338868988
+SI;SI01;PARTY;SDS;Slovenska demokratska stranka;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI01;PARTY;30.59;OFFICIAL;2024-07-16 09:44;1.7695331535341512;54.130019166609685
+SI;SI02;PARTY;SLS ;Slovenska ljudska stranka ;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI02;PARTY;7.21;OFFICIAL;2024-07-16 09:44;0.011882794205962721;0.08567494622499122
+SI;SI03;PARTY;SD;Socialni demokrati;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI03;PARTY;7.76;OFFICIAL;2024-07-16 09:44;0.9815794605408161;7.617056613796733
+SI;SI04;PARTY;N.Si;Nova Slovenija – Krščanski demokrati;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI04;PARTY;7.68;OFFICIAL;2024-07-16 09:44;-0.9904679229236266;-7.606793648053452
+SI;SI05;PARTY;Levica;Stranka Levica;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI05;PARTY;4.81;OFFICIAL;2024-07-16 09:44;1.6373773271937702;7.875784943802034
+SI;SI06;PARTY;Svoboda!;Gibanje Svoboda;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI06;PARTY;22.11;OFFICIAL;2024-07-16 09:44;-0.1403302944784528;-3.1027028109185912
+SI;SI07;PARTY;Vesna;Vesna - zelena stranka ;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI07;PARTY;10.53;OFFICIAL;2024-07-16 09:44;0.5766838261345701;6.0724806891970236
+SI;SI08;PARTY;Resni.ca;Državljansko gibanje Resni.ca ;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI08;PARTY;3.97;OFFICIAL;2024-07-16 09:44;-0.8529357674112448;-3.386154996622642
+SI;SI09;PARTY;DeSUS - DD;Coalition DeSUS - DD (Demokratična stranka upokojencev Slovenije, Dobra država);;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI09;PARTY;2.22;OFFICIAL;2024-07-16 09:44;-0.10982081051587667;-0.24380219934524622
+SI;SI10;PARTY;ZS;Zeleni Slovenije;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI10;PARTY;1.61;OFFICIAL;2024-07-16 09:44;1.8047500416192936;2.9056475670070627
+SI;SI90;PARTY;Other parties;Other parties;;;Slovenia;SI;SVN;705.0;ISO 3166-2:SI;Europe;Southern Europe;;150.0;39.0;;SI90;PARTY;1.52;OFFICIAL;2024-07-16 09:44;-0.8388653046575549;-1.2750752630794835
+SK;SK01;PARTY;Smer;Smer – sociálna demokracia;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK01;PARTY;24.76;OFFICIAL;2024-07-16 12:32;-0.09707874433127373;-2.4036697096423376
+SK;SK02;PARTY;ĽSNS;Kotlebovci - Ľudová strana naše Slovensko;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK02;PARTY;0.48;OFFICIAL;2024-07-16 12:32;-1.6298416523846928;-0.7823239931446525
+SK;SK03;PARTY;SaS;Sloboda a Solidarita;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK03;PARTY;4.92;OFFICIAL;2024-07-16 12:32;1.9960172553712279;9.82040489642644
+SK;SK04;COALITION;PS;Progresívne Slovensko;;SK14|SK13;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK04;COALITION;27.81;OFFICIAL;2024-07-16 12:32;-0.2660704903761322;-7.399420337360236
+SK;SK05;PARTY;SNS;Slovenská národná strana;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK05;PARTY;1.9;OFFICIAL;2024-07-16 12:32;-1.1508027872564508;-2.1865252957872565
+SK;SK06;PARTY;KDH;Kresťanskodemokratické hnutie;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK06;PARTY;7.14;OFFICIAL;2024-07-16 12:32;0.5866098717692934;4.188394484432754
+SK;SK07;PARTY;Aliancia;Maďarská Aliancia/Magyar Szövetség;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK07;PARTY;3.88;OFFICIAL;2024-07-16 12:32;0.8754724824334796;3.396833231841901
+SK;SK08;PARTY;Hlas;Hlas – sociálna demokracia;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK08;PARTY;7.18;OFFICIAL;2024-07-16 12:32;-0.9117077993700469;-6.546061999476937
+SK;SK09;PARTY;Republika;Republika;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK09;PARTY;12.53;OFFICIAL;2024-07-16 12:32;-0.4971223472694195;-6.228943011285826
+SK;SK10;PARTY;Demokrati;Demokrati;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK10;PARTY;4.68;OFFICIAL;2024-07-16 12:32;-0.773462691847389;-3.6198053978457803
+SK;SK11;PARTY;S-ZL;Coalition S-ZL (Slovensko, Za ľudí);;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK11;PARTY;1.98;OFFICIAL;2024-07-16 12:32;1.2811931931263256;2.536762522390125
+SK;SK12;PARTY;Zdravý rozum;Zdravý rozum;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK12;PARTY;0.93;OFFICIAL;2024-07-16 12:32;-0.737844652090303;-0.6861955264439819
+SK;SK90;PARTY;Other parties;Other parties;;;Slovakia;SK;SVK;703.0;ISO 3166-2:SK;Europe;Eastern Europe;;150.0;151.0;;SK90;PARTY;1.81;OFFICIAL;2024-07-16 12:32;0.6466257346745756;1.170392579760982
+FI;FI01;PARTY;KOK;Kansallinen Kokoomus/Samlingspartiet;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI01;PARTY;24.8;OFFICIAL;2024-07-16 09:44;-1.7799366342978629;-44.142428530587
+FI;FI02;PARTY;VIHR;Vihreä liitto/Gröna Förbundet;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI02;PARTY;11.3;OFFICIAL;2024-07-16 09:44;-0.4917604002000755;-5.556892522260854
+FI;FI03;PARTY;SDP;Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI03;PARTY;14.9;OFFICIAL;2024-07-16 09:44;-0.6677003207042072;-9.948734778492687
+FI;FI04;PARTY;PS;Perussuomalaiset/Sannfinländarna;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI04;PARTY;7.6;OFFICIAL;2024-07-16 09:44;-1.446984816690541;-10.99708460684811
+FI;FI05;PARTY;KESK;Suomen Keskusta/Centern i Finland;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI05;PARTY;11.8;OFFICIAL;2024-07-16 09:44;-0.18602261120529962;-2.1950668122225356
+FI;FI06;PARTY;VAS;Vasemmistoliitto/Vänsterförbundet;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI06;PARTY;17.3;OFFICIAL;2024-07-16 09:44;0.4895648469976903;8.469471853060043
+FI;FI07;PARTY;SFP/RKP;Svenska folkpartiet i Finland/Suomen ruotsalainen kansanpuolue;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI07;PARTY;6.1;OFFICIAL;2024-07-16 09:44;-1.0424355459009176;-6.358856829995597
+FI;FI08;PARTY;KD - LIIK;Suomen Kristillisdemokraatit - Liike Nyt/Finlands Kristdemokrater - Rörelse.nu;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI08;PARTY;4.6;OFFICIAL;2024-07-16 09:44;1.7390604087544763;7.999677880270591
+FI;FI90;PARTY;Other parties;Other parties;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI90;PARTY;1.6;OFFICIAL;2024-07-16 09:44;-0.9016342509108131;-1.442614801457301
+SE;SE01;PARTY;S;Socialdemokraterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE01;PARTY;24.77;OFFICIAL;2024-07-16 09:44;1.1299368449671725;27.988535649836862
+SE;SE02;PARTY;M;Moderaterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE02;PARTY;17.53;OFFICIAL;2024-07-16 09:44;-0.7499638119472345;-13.146865623435021
+SE;SE03;PARTY;SD;Sverigedemokraterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE03;PARTY;13.17;OFFICIAL;2024-07-16 09:44;-0.005202270243914953;-0.06851389911235993
+SE;SE04;PARTY;MP;Miljöpartiet de gröna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE04;PARTY;13.85;OFFICIAL;2024-07-16 09:44;-1.552764487847107;-21.50578815668243
+SE;SE05;PARTY;C;Centerpartiet;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE05;PARTY;7.29;OFFICIAL;2024-07-16 09:44;-0.7332820990200419;-5.345626501856105
+SE;SE06;PARTY;KD;Kristdemokraterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE06;PARTY;5.71;OFFICIAL;2024-07-16 09:44;1.7537368153667017;10.013837215743866
+SE;SE07;PARTY;V;Vänsterpartiet;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE07;PARTY;11.06;OFFICIAL;2024-07-16 09:44;0.4312959124997011;4.770132792246694
+SE;SE08;PARTY;L;Liberalerna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE08;PARTY;4.38;OFFICIAL;2024-07-16 09:44;-0.5277395538331047;-2.3114992457889985
+SE;SE90;PARTY;Other parties;Other parties;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE90;PARTY;2.24;OFFICIAL;2024-07-16 09:44;0.20981696349123036;0.46998999822035603
+HR;HR01;PARTY;HDZ;Hrvatska demokratska zajednica;;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR01;PARTY;34.6;OFFICIAL;2024-07-16 12:32;-1.4124422159146022;-48.870500670645235
+HR;HR02;COALITION;Koalicija 'SDP';Koalicija 'SDP' (Socijaldemokratska partija Hrvatske, Centar, Dalija Orešković I Ljudi S Imenom I Prezimenom, Građansko-Liberalni Savez, Hrvatska seljačka stranka) ;;HR08;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR02;COALITION;25.96;OFFICIAL;2024-07-16 12:32;0.9047209584989044;23.48655608263156
+HR;HR03;PARTY;IDS-DDI;Coalition Istarski demokratski sabor - Dieta democratica Istriana (Demokrati, Hrvatska Narodna Stranka - Liberalni Demokrati, Hrvatska socijalno-liberalna stranka, Istarski demokratski sabor - Dieta democratica Istriana, Istarska Stranka Umirovljenika - Partito Istriano Dei Pensionati, Nezavisna Platforma Sjevera, Narodna stranka - Reformisti, Primorsko Goranski Savez , Lista Za Rijeku, Socijaldemokrati, Samostalna demokratska srpska stranka, Unija Kvarnera);;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR03;PARTY;5.61;OFFICIAL;2024-07-16 12:32;-1.592412095968856;-8.933431858385282
+HR;HR05;PARTY;DP;Domovinski pokret;;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR05;PARTY;8.82;OFFICIAL;2024-07-16 12:32;0.2511549658623946;2.2151867989063203
+HR;HR06;PARTY;Možemo!;Možemo! – Politička platforma;;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR06;PARTY;5.92;OFFICIAL;2024-07-16 12:32;-0.36677241781482195;-2.171292713463746
+HR;HR90;PARTY;Other parties;Other parties;;;Croatia;HR;HRV;191.0;ISO 3166-2:HR;Europe;Southern Europe;;150.0;39.0;;HR90;PARTY;19.09;OFFICIAL;2024-07-16 12:32;-1.6537768714602556;-31.57060047617628

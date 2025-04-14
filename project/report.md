@@ -2,6 +2,8 @@
 
 ### Problems
 
+#### Data before 2004
+
 Unfortunately data before 2004 is not usable, since there is no way to get votes for the single state and also merging parties with the general result is not possible since we miss the `ACRONYM` field in the single state results, which only report the whole group result.\
 Moreover, the percentages relate to the whole assembly seats, not the in-state vote, meaning we cannot use it to gauge party's popularity in their respective state.
 
@@ -18,6 +20,17 @@ We will need to calculate votes percentage based in the seats assigned to the wh
 - total 100% = 15 seats 
 - so parties are like 75% and 25%
  
+#### Temperature grading
+
+Since the objective is the visualization first and foremost i tried, and i could have done it, to let gpt do the grading. Unfortunately i would need to have GPT4 premium to actually complete the whole thing, here follows the link to the chat: [gpt chat - grading political temperature](https://chatgpt.com/share/67fd142c-cdc4-800b-99f6-71a2ebfa03fe). 
+
+Two things to notice:
+1. doing it by hand would require an inordinate amount of time
+2. in the chat we see parties taken from datasets from 2024, so the total quantity is even bigger
+
+I could do it with microsoft copilot with the uni account but i need to manually divide the list of parties since it exceed greatly the max number of characters allowed, as it can be seen at the [prompt link](https://www.microsoft365.com/chat/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429/eyJpZCI6IlZYTmxjbFl4ZkdoMGRIQnpPaTh2YzNWaWMzUnlZWFJsTFdsdWRDNXZabVpwWTJVdVkyOXRMM3hQU1VRNk0yRmpaamsyT1RrdE5EQTFOQzAwWkRCbUxUZzNOVFV0T0dOa01EUXhOVFkwTUdNeWZHUTFOelEwT1daa0xUTTBOVEl0TkRVeE1DMWhNREk1TFdJME16QTBZVEU0TVRneE5ud3lNREkxTFRBMExURTBWREUwT2pFeE9qVXlMakUzTWpReE5qZGEiLCJzY2VuYXJpbyI6InNoYXJlTGluayIsInByb3BlcnRpZXMiOnsicHJvbXB0U291cmNlIjoidXNlciIsImNsaWNrVGltZXN0YW1wIjoiMjAyNS0wNC0xNFQxNDoxMTo1Mi4zMjZaIn0sImNoYXRUeXBlIjoid2ViIiwidmVyc2lvbiI6MS4xfQ)
+
+For these reasons, i decided for now to assign a random grading to the various parties which makes it just for demonstration purposes. If time will allow it i will try to get the full result from AIs.
 
 ### Build Political Dataset
 
