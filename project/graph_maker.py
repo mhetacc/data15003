@@ -10,26 +10,40 @@ app = Dash()
 ####### discrete colors usa map ########
 
 choropleth_discrete = plotly.express.choropleth(
-    data_frame=countries_temp_df
-    locations='COUNTRY_CODE',
-    locationmode='USA-states',  #TODO
-    scope='usa',                #TODO
+    data_frame=countries_temp_df,
+    locations='COUNTRY_NAME',
+    locationmode='country names',  
+    scope='europe',        
     color='TEMPERATURE',
-    #color_discrete_map=color_scale,
+    color_continuous_scale="RdBu",
+    animation_frame='YEAR',
     labels={
-        'TEMPERATURE',:'Political Temperature',
+        'TEMPERATURE':'Temp',
     },
     title='Political temperature per country',
-    #category_orders={"TEMPERATURE',": [-1, 0, 1, 2]}
 ).update_layout(
-    margin={"r":0,"t":30,"l":0,"b":0}
+    margin = dict(
+                l=0,
+                r=0,
+                b=0,
+                t=0,
+                #autoexpand=True
+            ),
+            #width=1500,
+            height=800,
+    coloraxis_colorbar=dict(
+        title='',
+        tickvals=[0, 25, 50, 75, 100],
+        ticktext=['Far Left', 'Left', 'Center', 'Right', 'Far Right']
+    )
 )
+
 
 
 # Place element in the page
 app.layout = [
     html.H1(
-        children='Grade retentions over gender, age and states', 
+        children='Political Temperature Throughout the Years', 
         style={'textAlign':'center',
                'fontFamily':'Arial'}),
     # dash_table.DataTable(data=df_transformed.to_dict('records'), page_size=20),
@@ -40,8 +54,6 @@ app.layout = [
     dcc.Graph(figure=choropleth_discrete),
     dash_table.DataTable(
         data=countries_temp_df
-        .query('Ageyears <= 20')
-        .sort_values(by='Ageyears')
         .to_dict('records'))
 ]
 
