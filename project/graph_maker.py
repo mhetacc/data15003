@@ -7,7 +7,7 @@ countries_temp_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/pro
 
 app = Dash()
 
-####### political temperature UE map ########
+####### political temperature EU map ########
 
 choropleth_discrete = plotly.express.choropleth(
     data_frame=countries_temp_df,
