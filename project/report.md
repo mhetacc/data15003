@@ -55,3 +55,10 @@ I need the `alpha-2` column for each country.
 
 Changed dataset with: [Persistent at-risk-of-poverty rate by sex and age](https://ec.europa.eu/eurostat/databrowser/view/ilc_li21/default/bar?lang=en&category=livcon.ilc.ilc_ip.ilc_li)
 
+### Net Earnings
+
+Many different options to choose from, taken the following:
+- estruct: Net earning
+- ecase: Single person without children earning 100% of the average earning
+- currency: Euro
+

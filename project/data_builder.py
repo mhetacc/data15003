@@ -41,8 +41,18 @@ def build_data(year, transformed=False):
     # with parties with countries
     parties_countries_percentage = pandas.merge(parties_with_countries, parties_merged, left_on='ID', right_on='PARTY_ID', how='left')
 
+
+
     # add random political temperature to each one
-    parties_countries_percentage['TEMPERATURE'] = numpy.random.uniform(-2, 2, size=len(parties_countries_percentage))
+    # parties_countries_percentage['TEMPERATURE'] = numpy.random.uniform(-2, 2, size=len(parties_countries_percentage))
+
+    # take parties with their scores 
+    parties_scored = pandas.read_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/Ai/parties_scored_{year}.csv', sep=';')
+    # parties_scored['YEAR'] = year # probably wont need
+
+    # join on LABEL 
+    parties_countries_percentage = pandas.merge(parties_countries_percentage, parties_scored, left_on='LABEL', right_on='LABEL', how='left')
+
 
     # drop useless rows
     parties_countries_percentage.dropna(subset=['VOTES_PERCENT'], inplace=True)
@@ -84,7 +94,10 @@ def build_data(year, transformed=False):
     parties_countries_percentage.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/parties_countries_percentage_{year}.csv', index=False, sep=';')
 
 
-    
+    # Get unique, non-null LABEL values
+    list_of_parties = parties_countries_percentage['LABEL'].dropna().unique()
+    list_of_parties_df = pandas.DataFrame(list_of_parties, columns=['LABEL'])
+    list_of_parties_df.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/list_of_parties_{year}.csv', index=False, sep=';')
 
 
 
@@ -101,11 +114,12 @@ def build_data(year, transformed=False):
   
     ##  # Save to CSV
     ##  list_of_parties_df.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/list_of_parties_{year}.csv', index=False, sep=';')
+
+
 def merge_all():
     """
     Merge all data from all years into one dataframe
     """
-
 
     # Get all files with results for each country
     countries_temp = glob.glob('/home/mhetac/Documents/GitHub/data15003/project/data/build/country_temps_*.csv', recursive=True)
@@ -120,9 +134,9 @@ def merge_all():
     # save to csv for debugging
     countries_temp_all_merged.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/countries_temp_all_merged.csv', index=False, sep=';')
 
-build_data(2024)
-build_data(2019)
-build_data(2014)
-build_data(2009)
-
-merge_all()
+# build_data(2024)
+# build_data(2019)
+# build_data(2014)
+# build_data(2009)
+# 
+# merge_all()
