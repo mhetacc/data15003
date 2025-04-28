@@ -43,12 +43,13 @@ def build_data(year, transformed=False):
 
 
 
-    # add random political temperature to each one
-    # parties_countries_percentage['TEMPERATURE'] = numpy.random.uniform(-2, 2, size=len(parties_countries_percentage))
+    # OSS: this wont work before having output at line circa 101
+
+    ## add random political temperature to each one
+    ## parties_countries_percentage['TEMPERATURE'] = numpy.random.uniform(-2, 2, size=len(parties_countries_percentage))
 
     # take parties with their scores 
     parties_scored = pandas.read_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/Ai/parties_scored_{year}.csv', sep=';')
-    # parties_scored['YEAR'] = year # probably wont need
 
     # join on LABEL 
     parties_countries_percentage = pandas.merge(parties_countries_percentage, parties_scored, left_on='LABEL', right_on='LABEL', how='left')
