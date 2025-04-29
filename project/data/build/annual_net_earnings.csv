@@ -1,0 +1,833 @@
+COUNTRY_NAME;CURRENCY;YEAR;NET_EARNINGS
+Austria;Euro;2000;20525.86
+Austria;Euro;2001;20773.99
+Austria;Euro;2002;21179.51
+Austria;Euro;2003;21956.82
+Austria;Euro;2004;22004.46
+Austria;Euro;2005;22783.76
+Austria;Euro;2006;23391.46
+Austria;Euro;2007;23970.23
+Austria;Euro;2008;24492.09
+Austria;Euro;2009;25427.88
+Austria;Euro;2010;25770.16
+Austria;Euro;2011;26375.67
+Austria;Euro;2012;26893.06
+Austria;Euro;2013;27520.54
+Austria;Euro;2014;27965.34
+Austria;Euro;2015;28524.14
+Austria;Euro;2016;30601.53
+Austria;Euro;2017;31083.14
+Austria;Euro;2018;31640.93
+Austria;Euro;2019;32325.12
+Austria;Euro;2020;33032.37
+Austria;Euro;2021;33712.2
+Austria;Euro;2022;36075.61
+Austria;Euro;2023;38457.15
+Belgium;Euro;2000;18034.69
+Belgium;Euro;2001;18884.08
+Belgium;Euro;2002;19686.29
+Belgium;Euro;2003;20097.88
+Belgium;Euro;2004;20739.41
+Belgium;Euro;2005;21273.34
+Belgium;Euro;2006;21880.46
+Belgium;Euro;2007;22396.96
+Belgium;Euro;2008;23405.3
+Belgium;Euro;2009;24323.59
+Belgium;Euro;2010;24873.45
+Belgium;Euro;2011;25519.86
+Belgium;Euro;2012;26287.51
+Belgium;Euro;2013;26609.37
+Belgium;Euro;2014;26775.94
+Belgium;Euro;2015;26953.59
+Belgium;Euro;2016;27574.37
+Belgium;Euro;2017;28238.77
+Belgium;Euro;2018;29240.96
+Belgium;Euro;2019;30188.71
+Belgium;Euro;2020;30539.81
+Belgium;Euro;2021;31063.95
+Belgium;Euro;2022;32889.21
+Belgium;Euro;2023;35604.37
+Bulgaria;Euro;2008;2605.86
+Bulgaria;Euro;2009;2951.37
+Bulgaria;Euro;2010;3202.34
+Bulgaria;Euro;2011;3396.45
+Bulgaria;Euro;2012;3598.45
+Bulgaria;Euro;2013;3798.06
+Bulgaria;Euro;2014;4033.73
+Bulgaria;Euro;2015;4339.15
+Bulgaria;Euro;2016;4689.05
+Bulgaria;Euro;2017;5132.74
+Bulgaria;Euro;2018;5447.1
+Bulgaria;Euro;2019;6093.02
+Bulgaria;Euro;2020;6612.77
+Bulgaria;Euro;2021;7272.19
+Bulgaria;Euro;2022;8321.77
+Bulgaria;Euro;2023;9355.23
+Switzerland;Euro;2000;38460.45
+Switzerland;Euro;2001;40721.56
+Switzerland;Euro;2002;42844.4
+Switzerland;Euro;2003;42012.65
+Switzerland;Euro;2004;42110.35
+Switzerland;Euro;2005;42419.78
+Switzerland;Euro;2006;42394.06
+Switzerland;Euro;2007;41779.66
+Switzerland;Euro;2008;43376.3
+Switzerland;Euro;2009;45933.26
+Switzerland;Euro;2010;50916.25
+Switzerland;Euro;2011;57375.13
+Switzerland;Euro;2012;61358.26
+Switzerland;Euro;2013;60644.02
+Switzerland;Euro;2014;59338.83
+Switzerland;Euro;2015;67278.99
+Switzerland;Euro;2016;67704.82
+Switzerland;Euro;2017;66716.49
+Switzerland;Euro;2018;64808.97
+Switzerland;Euro;2019;68311.31
+Switzerland;Euro;2020;72035.35
+Switzerland;Euro;2021;73742.44
+Switzerland;Euro;2022;82173.02
+Switzerland;Euro;2023;85582.07
+Cyprus;Euro;2005;15591.75
+Cyprus;Euro;2006;16657.98
+Cyprus;Euro;2007;17572.13
+Cyprus;Euro;2014;19096.46
+Cyprus;Euro;2017;19531.22
+Cyprus;Euro;2018;20026.89
+Cyprus;Euro;2019;20282.76
+Cyprus;Euro;2020;20056.8
+Cyprus;Euro;2021;20459.03
+Cyprus;Euro;2022;22006.36
+Cyprus;Euro;2023;22913.46
+Czechia;Euro;2000;3503.73
+Czechia;Euro;2001;3960.76
+Czechia;Euro;2002;4676.61
+Czechia;Euro;2003;4721.51
+Czechia;Euro;2004;4999.03
+Czechia;Euro;2005;5587.37
+Czechia;Euro;2006;6394.53
+Czechia;Euro;2007;6962.34
+Czechia;Euro;2008;8345.91
+Czechia;Euro;2009;8240.09
+Czechia;Euro;2010;8832.96
+Czechia;Euro;2011;9257.22
+Czechia;Euro;2012;9311.44
+Czechia;Euro;2013;8973.79
+Czechia;Euro;2014;8694.95
+Czechia;Euro;2015;9017.25
+Czechia;Euro;2016;9446.75
+Czechia;Euro;2017;10263.3
+Czechia;Euro;2018;11256.33
+Czechia;Euro;2019;11992.68
+Czechia;Euro;2020;11974.4
+Czechia;Euro;2021;13969.74
+Czechia;Euro;2022;15703.05
+Czechia;Euro;2023;17168.06
+Germany;Euro;2000;19538.92
+Germany;Euro;2001;20406.53
+Germany;Euro;2002;20871.73
+Germany;Euro;2003;21067.21
+Germany;Euro;2004;21992.56
+Germany;Euro;2005;22363.1
+Germany;Euro;2006;22504.85
+Germany;Euro;2007;23194.68
+Germany;Euro;2008;23841.5
+Germany;Euro;2009;23870.65
+Germany;Euro;2010;25374.06
+Germany;Euro;2011;26088.04
+Germany;Euro;2012;26729.62
+Germany;Euro;2013;27171.02
+Germany;Euro;2014;27791.42
+Germany;Euro;2015;28410.71
+Germany;Euro;2016;28986.32
+Germany;Euro;2017;29468.63
+Germany;Euro;2018;30419.87
+Germany;Euro;2019;31486.26
+Germany;Euro;2020;31292.95
+Germany;Euro;2021;32850.2
+Germany;Euro;2022;35740.18
+Germany;Euro;2023;38086.35
+Denmark;Euro;2000;22125.95
+Denmark;Euro;2001;23268.35
+Denmark;Euro;2002;24439.83
+Denmark;Euro;2003;25154.0
+Denmark;Euro;2004;26117.61
+Denmark;Euro;2005;26440.34
+Denmark;Euro;2006;27243.49
+Denmark;Euro;2007;28469.57
+Denmark;Euro;2008;29595.89
+Denmark;Euro;2009;30962.07
+Denmark;Euro;2010;32349.16
+Denmark;Euro;2011;33153.43
+Denmark;Euro;2012;33617.32
+Denmark;Euro;2013;33873.44
+Denmark;Euro;2014;34330.38
+Denmark;Euro;2015;34689.46
+Denmark;Euro;2016;35021.65
+Denmark;Euro;2017;35558.92
+Denmark;Euro;2018;36307.24
+Denmark;Euro;2019;37133.59
+Denmark;Euro;2020;37878.85
+Denmark;Euro;2021;38938.24
+Denmark;Euro;2022;40436.73
+Denmark;Euro;2023;41930.66
+Euro area - 19 countries  (2015-2022);Euro;2005;19736.9
+Euro area - 19 countries  (2015-2022);Euro;2006;20296.52
+Euro area - 19 countries  (2015-2022);Euro;2007;20944.89
+Euro area - 19 countries  (2015-2022);Euro;2008;21732.66
+Euro area - 19 countries  (2015-2022);Euro;2009;22159.43
+Euro area - 19 countries  (2015-2022);Euro;2010;22845.73
+Euro area - 19 countries  (2015-2022);Euro;2011;23337.63
+Euro area - 19 countries  (2015-2022);Euro;2012;23810.65
+Euro area - 19 countries  (2015-2022);Euro;2013;24085.19
+Euro area - 19 countries  (2015-2022);Euro;2014;24480.2
+Euro area - 19 countries  (2015-2022);Euro;2015;24949.38
+Euro area - 19 countries  (2015-2022);Euro;2016;25246.67
+Euro area - 19 countries  (2015-2022);Euro;2017;25529.81
+Euro area - 19 countries  (2015-2022);Euro;2018;26116.1
+Euro area - 19 countries  (2015-2022);Euro;2019;26810.26
+Euro area - 19 countries  (2015-2022);Euro;2020;26865.73
+Euro area - 19 countries  (2015-2022);Euro;2021;27963.39
+Euro area - 19 countries  (2015-2022);Euro;2022;29249.31
+Euro area – 20 countries (from 2023);Euro;2013;23916.2
+Euro area – 20 countries (from 2023);Euro;2014;24299.62
+Euro area – 20 countries (from 2023);Euro;2015;24767.39
+Euro area – 20 countries (from 2023);Euro;2016;25062.39
+Euro area – 20 countries (from 2023);Euro;2017;25342.28
+Euro area – 20 countries (from 2023);Euro;2018;25932.34
+Euro area – 20 countries (from 2023);Euro;2019;26653.4
+Euro area – 20 countries (from 2023);Euro;2020;26673.55
+Euro area – 20 countries (from 2023);Euro;2021;27766.97
+Euro area – 20 countries (from 2023);Euro;2022;29043.9
+Euro area – 20 countries (from 2023);Euro;2023;31149.82
+Estonia;Euro;2000;3068.14
+Estonia;Euro;2001;3465.43
+Estonia;Euro;2002;3804.81
+Estonia;Euro;2003;4105.69
+Estonia;Euro;2004;4470.88
+Estonia;Euro;2005;5056.23
+Estonia;Euro;2006;6059.12
+Estonia;Euro;2007;7268.34
+Estonia;Euro;2008;8249.98
+Estonia;Euro;2009;7729.45
+Estonia;Euro;2010;7820.19
+Estonia;Euro;2011;8324.26
+Estonia;Euro;2012;8812.65
+Estonia;Euro;2013;9445.7
+Estonia;Euro;2014;9914.95
+Estonia;Euro;2015;10638.42
+Estonia;Euro;2016;11454.71
+Estonia;Euro;2017;12233.44
+Estonia;Euro;2018;13437.69
+Estonia;Euro;2019;14169.6
+Estonia;Euro;2020;14444.62
+Estonia;Euro;2021;15300.44
+Estonia;Euro;2022;16472.09
+Estonia;Euro;2023;17523.61
+Greece;Euro;2000;12120.3
+Greece;Euro;2001;12441.43
+Greece;Euro;2002;13516.7
+Greece;Euro;2003;14856.55
+Greece;Euro;2004;16167.67
+Greece;Euro;2005;16572.52
+Greece;Euro;2006;17630.26
+Greece;Euro;2007;17790.0
+Greece;Euro;2008;17896.82
+Greece;Euro;2009;18510.86
+Greece;Euro;2010;18567.36
+Greece;Euro;2011;17573.29
+Greece;Euro;2012;17136.8
+Greece;Euro;2013;15845.09
+Greece;Euro;2014;16069.85
+Greece;Euro;2015;15627.52
+Greece;Euro;2016;15006.72
+Greece;Euro;2017;14898.2
+Greece;Euro;2018;14850.01
+Greece;Euro;2019;15075.5
+Greece;Euro;2020;14325.38
+Greece;Euro;2021;15567.87
+Greece;Euro;2022;16811.66
+Greece;Euro;2023;17706.98
+Spain;Euro;2000;13881.61
+Spain;Euro;2001;14308.82
+Spain;Euro;2002;14793.85
+Spain;Euro;2003;15548.87
+Spain;Euro;2004;16019.09
+Spain;Euro;2005;16432.64
+Spain;Euro;2006;16832.53
+Spain;Euro;2007;17461.33
+Spain;Euro;2008;18765.37
+Spain;Euro;2009;19380.5
+Spain;Euro;2010;19399.72
+Spain;Euro;2011;19891.57
+Spain;Euro;2012;19975.06
+Spain;Euro;2013;20061.89
+Spain;Euro;2014;20169.47
+Spain;Euro;2015;20844.88
+Spain;Euro;2016;20827.52
+Spain;Euro;2017;20948.65
+Spain;Euro;2018;21198.42
+Spain;Euro;2019;21481.84
+Spain;Euro;2020;20632.83
+Spain;Euro;2021;21668.52
+Spain;Euro;2022;22577.6
+Spain;Euro;2023;23567.74
+European Union - 15 countries (1995-2004);Euro;2000;20075.74
+European Union - 15 countries (1995-2004);Euro;2001;20802.69
+European Union - 15 countries (1995-2004);Euro;2002;21400.23
+European Union - 15 countries (1995-2004);Euro;2003;21396.55
+European Union - 15 countries (1995-2004);Euro;2004;22227.8
+European Union - 15 countries (1995-2004);Euro;2005;22757.35
+European Union - 15 countries (1995-2004);Euro;2006;23433.81
+European Union - 15 countries (1995-2004);Euro;2007;24283.06
+European Union - 15 countries (1995-2004);Euro;2008;24198.57
+European Union - 15 countries (1995-2004);Euro;2009;23953.18
+European Union - 15 countries (1995-2004);Euro;2010;24936.32
+European Union - 15 countries (1995-2004);Euro;2011;25345.02
+European Union - 15 countries (1995-2004);Euro;2012;26321.38
+European Union - 15 countries (1995-2004);Euro;2013;26427.76
+European Union - 15 countries (1995-2004);Euro;2014;27065.04
+European Union - 15 countries (1995-2004);Euro;2015;28266.82
+European Union - 15 countries (1995-2004);Euro;2016;27907.82
+European Union - 15 countries (1995-2004);Euro;2017;27946.01
+European Union - 15 countries (1995-2004);Euro;2018;28497.21
+European Union - 15 countries (1995-2004);Euro;2019;29294.3
+European Union - 27 countries (from 2020);Euro;2013;21207.11
+European Union - 27 countries (from 2020);Euro;2014;21517.52
+European Union - 27 countries (from 2020);Euro;2015;21903.5
+European Union - 27 countries (from 2020);Euro;2016;22187.55
+European Union - 27 countries (from 2020);Euro;2017;22537.06
+European Union - 27 countries (from 2020);Euro;2018;23103.97
+European Union - 27 countries (from 2020);Euro;2019;23794.88
+European Union - 27 countries (from 2020);Euro;2020;23909.45
+European Union - 27 countries (from 2020);Euro;2021;24913.31
+European Union - 27 countries (from 2020);Euro;2022;26135.5
+European Union - 27 countries (from 2020);Euro;2023;28217.34
+European Union - 28 countries (2013-2020);Euro;2013;22653.09
+European Union - 28 countries (2013-2020);Euro;2014;23189.8
+European Union - 28 countries (2013-2020);Euro;2015;24195.99
+European Union - 28 countries (2013-2020);Euro;2016;23952.78
+European Union - 28 countries (2013-2020);Euro;2017;24096.67
+European Union - 28 countries (2013-2020);Euro;2018;24674.01
+European Union - 28 countries (2013-2020);Euro;2019;25452.22
+Finland;Euro;2000;17430.51
+Finland;Euro;2001;18511.05
+Finland;Euro;2002;19585.21
+Finland;Euro;2003;20290.01
+Finland;Euro;2004;21262.64
+Finland;Euro;2005;22124.75
+Finland;Euro;2006;23282.87
+Finland;Euro;2007;24744.36
+Finland;Euro;2008;26026.18
+Finland;Euro;2009;27191.47
+Finland;Euro;2010;27803.54
+Finland;Euro;2011;28421.92
+Finland;Euro;2012;29246.92
+Finland;Euro;2013;29654.15
+Finland;Euro;2014;29641.38
+Finland;Euro;2015;29918.29
+Finland;Euro;2016;30306.38
+Finland;Euro;2017;30805.85
+Finland;Euro;2018;31400.22
+Finland;Euro;2019;32135.14
+Finland;Euro;2020;33191.98
+Finland;Euro;2021;33906.14
+Finland;Euro;2022;34958.63
+Finland;Euro;2023;36475.01
+France;Euro;2000;18923.39
+France;Euro;2001;19510.12
+France;Euro;2002;20169.96
+France;Euro;2003;20612.84
+France;Euro;2004;21131.59
+France;Euro;2005;21709.55
+France;Euro;2006;22675.17
+France;Euro;2007;23415.09
+France;Euro;2008;24249.73
+France;Euro;2009;24627.9
+France;Euro;2010;25031.8
+France;Euro;2011;25576.25
+France;Euro;2012;25978.92
+France;Euro;2013;26269.14
+France;Euro;2014;26578.46
+France;Euro;2015;26958.75
+France;Euro;2016;26880.7
+France;Euro;2017;27022.48
+France;Euro;2018;27662.94
+France;Euro;2019;28153.78
+France;Euro;2020;27472.33
+France;Euro;2021;28649.83
+France;Euro;2022;30042.11
+France;Euro;2023;31481.01
+Croatia;Euro;2013;7937.17
+Croatia;Euro;2014;7970.4
+Croatia;Euro;2015;8296.67
+Croatia;Euro;2016;8443.99
+Croatia;Euro;2017;8788.64
+Croatia;Euro;2018;9168.35
+Croatia;Euro;2019;9428.49
+Croatia;Euro;2020;9815.98
+Croatia;Euro;2021;10382.66
+Croatia;Euro;2022;11224.52
+Croatia;Euro;2023;12330.12
+Hungary;Euro;2000;2684.84
+Hungary;Euro;2001;3024.35
+Hungary;Euro;2002;3723.71
+Hungary;Euro;2003;4112.51
+Hungary;Euro;2004;4418.69
+Hungary;Euro;2005;4857.23
+Hungary;Euro;2006;4865.34
+Hungary;Euro;2007;5249.28
+Hungary;Euro;2008;5734.59
+Hungary;Euro;2009;5409.39
+Hungary;Euro;2010;6256.57
+Hungary;Euro;2011;6146.32
+Hungary;Euro;2012;6369.22
+Hungary;Euro;2013;6475.08
+Hungary;Euro;2014;6478.42
+Hungary;Euro;2015;6703.57
+Hungary;Euro;2016;7138.72
+Hungary;Euro;2017;8023.72
+Hungary;Euro;2018;8586.94
+Hungary;Euro;2019;9390.54
+Hungary;Euro;2020;9549.21
+Hungary;Euro;2021;10074.96
+Hungary;Euro;2022;10667.45
+Hungary;Euro;2023;12455.66
+Ireland;Euro;2000;20955.6
+Ireland;Euro;2001;24226.45
+Ireland;Euro;2002;25751.62
+Ireland;Euro;2003;26885.98
+Ireland;Euro;2004;28094.38
+Ireland;Euro;2005;29375.79
+Ireland;Euro;2006;30879.33
+Ireland;Euro;2007;32646.18
+Ireland;Euro;2008;34033.21
+Ireland;Euro;2009;32441.06
+Ireland;Euro;2010;32138.69
+Ireland;Euro;2011;31159.23
+Ireland;Euro;2012;31541.73
+Ireland;Euro;2013;31531.28
+Ireland;Euro;2014;31687.39
+Ireland;Euro;2015;32344.52
+Ireland;Euro;2016;33346.95
+Ireland;Euro;2017;33976.58
+Ireland;Euro;2018;35126.52
+Ireland;Euro;2019;38252.2
+Ireland;Euro;2020;38842.71
+Ireland;Euro;2021;39930.32
+Ireland;Euro;2022;41062.91
+Ireland;Euro;2023;43151.3
+Iceland;Euro;2000;27860.32
+Iceland;Euro;2001;25313.39
+Iceland;Euro;2002;26541.59
+Iceland;Euro;2003;28076.81
+Iceland;Euro;2004;29732.44
+Iceland;Euro;2005;38019.05
+Iceland;Euro;2006;37806.34
+Iceland;Euro;2007;42383.61
+Iceland;Euro;2008;27556.77
+Iceland;Euro;2009;21683.7
+Iceland;Euro;2010;23506.13
+Iceland;Euro;2011;24971.24
+Iceland;Euro;2012;27158.87
+Iceland;Euro;2013;29098.7
+Iceland;Euro;2014;32941.08
+Iceland;Euro;2015;37027.37
+Iceland;Euro;2016;44042.96
+Iceland;Euro;2017;50456.07
+Iceland;Euro;2018;48794.28
+Iceland;Euro;2019;47254.37
+Iceland;Euro;2020;44185.83
+Iceland;Euro;2021;47374.82
+Iceland;Euro;2022;53055.48
+Iceland;Euro;2023;53885.04
+Italy;Euro;2000;15290.8
+Italy;Euro;2001;15866.15
+Italy;Euro;2002;16104.1
+Italy;Euro;2003;16617.85
+Italy;Euro;2004;16958.72
+Italy;Euro;2005;17601.62
+Italy;Euro;2006;17984.55
+Italy;Euro;2007;18272.59
+Italy;Euro;2008;18917.81
+Italy;Euro;2009;19269.56
+Italy;Euro;2010;19705.17
+Italy;Euro;2011;19983.62
+Italy;Euro;2012;20327.68
+Italy;Euro;2013;20656.6
+Italy;Euro;2014;20930.61
+Italy;Euro;2015;21051.62
+Italy;Euro;2016;21092.75
+Italy;Euro;2017;21138.65
+Italy;Euro;2018;21294.82
+Italy;Euro;2019;21500.18
+Italy;Euro;2020;22507.69
+Italy;Euro;2021;22995.01
+Italy;Euro;2022;23286.8
+Italy;Euro;2023;24206.84
+Japan;Euro;2000;40238.07
+Japan;Euro;2001;37236.06
+Japan;Euro;2002;33721.18
+Japan;Euro;2003;30622.42
+Japan;Euro;2004;29935.37
+Japan;Euro;2005;29652.05
+Japan;Euro;2006;27470.38
+Japan;Euro;2007;24701.87
+Japan;Euro;2008;26075.19
+Japan;Euro;2009;29616.95
+Japan;Euro;2010;32591.39
+Japan;Euro;2011;34313.42
+Japan;Euro;2012;37554.86
+Japan;Euro;2013;29267.53
+Japan;Euro;2014;27698.05
+Japan;Euro;2015;29484.1
+Japan;Euro;2016;33249.13
+Japan;Euro;2017;31566.35
+Japan;Euro;2018;31002.4
+Japan;Euro;2019;33222.15
+Japan;Euro;2020;32440.76
+Japan;Euro;2021;30461.6
+Japan;Euro;2022;29072.64
+Japan;Euro;2023;26756.18
+Lithuania;Euro;2000;2270.4
+Lithuania;Euro;2001;2343.04
+Lithuania;Euro;2002;2510.39
+Lithuania;Euro;2003;2694.34
+Lithuania;Euro;2004;2871.84
+Lithuania;Euro;2005;3137.2
+Lithuania;Euro;2006;3751.73
+Lithuania;Euro;2007;4714.12
+Lithuania;Euro;2008;5667.32
+Lithuania;Euro;2009;5361.47
+Lithuania;Euro;2010;5245.02
+Lithuania;Euro;2011;5401.3
+Lithuania;Euro;2012;5635.73
+Lithuania;Euro;2013;5954.89
+Lithuania;Euro;2014;6284.47
+Lithuania;Euro;2015;6651.85
+Lithuania;Euro;2016;7217.25
+Lithuania;Euro;2017;7897.69
+Lithuania;Euro;2018;8690.66
+Lithuania;Euro;2019;9794.92
+Lithuania;Euro;2020;10787.57
+Lithuania;Euro;2021;11798.21
+Lithuania;Euro;2022;13297.64
+Lithuania;Euro;2023;14557.22
+Luxembourg;Euro;2000;25591.03
+Luxembourg;Euro;2001;27493.08
+Luxembourg;Euro;2002;29222.58
+Luxembourg;Euro;2003;29859.4
+Luxembourg;Euro;2004;30419.68
+Luxembourg;Euro;2005;31176.33
+Luxembourg;Euro;2006;31969.4
+Luxembourg;Euro;2007;32727.56
+Luxembourg;Euro;2008;34156.3
+Luxembourg;Euro;2009;35539.77
+Luxembourg;Euro;2010;36167.09
+Luxembourg;Euro;2011;36278.25
+Luxembourg;Euro;2012;37354.34
+Luxembourg;Euro;2013;37792.02
+Luxembourg;Euro;2014;38443.48
+Luxembourg;Euro;2015;38630.79
+Luxembourg;Euro;2016;38935.73
+Luxembourg;Euro;2017;41340.39
+Luxembourg;Euro;2018;42063.48
+Luxembourg;Euro;2019;42650.77
+Luxembourg;Euro;2020;44374.32
+Luxembourg;Euro;2021;44934.82
+Luxembourg;Euro;2022;46884.89
+Luxembourg;Euro;2023;49034.61
+Latvia;Euro;2000;1670.31
+Latvia;Euro;2001;1784.97
+Latvia;Euro;2002;1891.44
+Latvia;Euro;2003;2096.19
+Latvia;Euro;2004;2333.7
+Latvia;Euro;2005;2702.25
+Latvia;Euro;2006;3371.65
+Latvia;Euro;2007;4431.28
+Latvia;Euro;2008;5443.86
+Latvia;Euro;2009;5424.98
+Latvia;Euro;2010;5068.61
+Latvia;Euro;2011;5286.45
+Latvia;Euro;2012;5462.67
+Latvia;Euro;2013;5776.88
+Latvia;Euro;2014;6264.34
+Latvia;Euro;2015;6814.57
+Latvia;Euro;2016;7212.23
+Latvia;Euro;2017;7772.59
+Latvia;Euro;2018;8474.82
+Latvia;Euro;2019;9144.05
+Latvia;Euro;2020;9786.84
+Latvia;Euro;2021;11229.49
+Latvia;Euro;2022;12147.46
+Latvia;Euro;2023;13521.9
+Malta;Euro;2005;11624.5
+Malta;Euro;2006;11950.15
+Malta;Euro;2007;12514.21
+Malta;Euro;2008;13542.87
+Malta;Euro;2009;13883.84
+Malta;Euro;2010;14473.93
+Malta;Euro;2011;15642.97
+Malta;Euro;2012;15999.95
+Malta;Euro;2013;16306.0
+Malta;Euro;2014;16010.0
+Malta;Euro;2015;16337.95
+Malta;Euro;2016;16926.2
+Malta;Euro;2017;17305.15
+Malta;Euro;2018;17890.15
+Malta;Euro;2019;19107.19
+Malta;Euro;2020;19652.9
+Malta;Euro;2021;18292.5
+Malta;Euro;2022;19784.81
+Malta;Euro;2023;20465.58
+Netherlands;Euro;2000;21176.15
+Netherlands;Euro;2001;23516.66
+Netherlands;Euro;2002;24412.39
+Netherlands;Euro;2003;25207.28
+Netherlands;Euro;2004;25562.89
+Netherlands;Euro;2005;26118.14
+Netherlands;Euro;2006;27543.04
+Netherlands;Euro;2007;28361.73
+Netherlands;Euro;2008;28976.84
+Netherlands;Euro;2009;30291.69
+Netherlands;Euro;2010;30901.41
+Netherlands;Euro;2011;31612.2
+Netherlands;Euro;2012;31732.71
+Netherlands;Euro;2013;31241.89
+Netherlands;Euro;2014;32675.67
+Netherlands;Euro;2015;34551.5
+Netherlands;Euro;2016;34975.7
+Netherlands;Euro;2017;35426.38
+Netherlands;Euro;2018;35838.18
+Netherlands;Euro;2019;37402.24
+Netherlands;Euro;2020;39142.87
+Netherlands;Euro;2021;40660.61
+Netherlands;Euro;2022;42267.66
+Netherlands;Euro;2023;45249.35
+Norway;Euro;2000;25488.81
+Norway;Euro;2001;27841.12
+Norway;Euro;2002;31706.91
+Norway;Euro;2003;30841.86
+Norway;Euro;2004;30584.86
+Norway;Euro;2005;33541.89
+Norway;Euro;2006;35049.0
+Norway;Euro;2007;36994.97
+Norway;Euro;2008;37977.11
+Norway;Euro;2009;36967.18
+Norway;Euro;2010;41684.47
+Norway;Euro;2011;44490.18
+Norway;Euro;2012;47783.08
+Norway;Euro;2013;47595.99
+Norway;Euro;2014;45903.97
+Norway;Euro;2015;44264.42
+Norway;Euro;2016;43663.67
+Norway;Euro;2017;44445.05
+Norway;Euro;2018;44694.01
+Norway;Euro;2019;45219.17
+Norway;Euro;2020;42534.88
+Norway;Euro;2021;46940.29
+Norway;Euro;2022;49211.43
+Norway;Euro;2023;45797.85
+Poland;Euro;2000;4153.75
+Poland;Euro;2001;4882.23
+Poland;Euro;2002;4750.55
+Poland;Euro;2003;4338.05
+Poland;Euro;2004;4289.22
+Poland;Euro;2005;4965.12
+Poland;Euro;2006;5356.19
+Poland;Euro;2007;6163.2
+Poland;Euro;2008;7195.04
+Poland;Euro;2009;6093.94
+Poland;Euro;2010;6896.23
+Poland;Euro;2011;7085.75
+Poland;Euro;2012;7235.5
+Poland;Euro;2013;7466.23
+Poland;Euro;2014;7991.17
+Poland;Euro;2015;8275.99
+Poland;Euro;2016;8200.43
+Poland;Euro;2017;8975.57
+Poland;Euro;2018;9618.59
+Poland;Euro;2019;10225.78
+Poland;Euro;2020;11376.35
+Poland;Euro;2021;11134.57
+Poland;Euro;2022;12503.72
+Poland;Euro;2023;14425.3
+Portugal;Euro;2000;8469.85
+Portugal;Euro;2001;9080.6
+Portugal;Euro;2002;10291.56
+Portugal;Euro;2003;10347.01
+Portugal;Euro;2004;10612.7
+Portugal;Euro;2005;10982.77
+Portugal;Euro;2006;11996.8
+Portugal;Euro;2007;12059.7
+Portugal;Euro;2008;12157.52
+Portugal;Euro;2009;12261.74
+Portugal;Euro;2010;12869.63
+Portugal;Euro;2011;12435.4
+Portugal;Euro;2012;13158.03
+Portugal;Euro;2013;12795.86
+Portugal;Euro;2014;12613.06
+Portugal;Euro;2015;12441.12
+Portugal;Euro;2016;12724.81
+Portugal;Euro;2017;13040.67
+Portugal;Euro;2018;13662.54
+Portugal;Euro;2019;14202.25
+Portugal;Euro;2020;14384.35
+Portugal;Euro;2021;14995.64
+Portugal;Euro;2022;15808.8
+Portugal;Euro;2023;16943.49
+Romania;Euro;2008;3957.79
+Romania;Euro;2009;3575.08
+Romania;Euro;2010;3872.44
+Romania;Euro;2011;4081.39
+Romania;Euro;2012;4000.73
+Romania;Euro;2013;4340.64
+Romania;Euro;2014;4610.25
+Romania;Euro;2015;5117.82
+Romania;Euro;2016;5518.93
+Romania;Euro;2017;6049.96
+Romania;Euro;2018;6669.59
+Romania;Euro;2019;7230.37
+Romania;Euro;2020;7629.63
+Romania;Euro;2021;8069.82
+Romania;Euro;2022;9083.98
+Romania;Euro;2023;11105.12
+Sweden;Euro;2000;20684.65
+Sweden;Euro;2001;20321.66
+Sweden;Euro;2002;21700.56
+Sweden;Euro;2003;22139.37
+Sweden;Euro;2004;22945.65
+Sweden;Euro;2005;23388.42
+Sweden;Euro;2006;24243.82
+Sweden;Euro;2007;26364.04
+Sweden;Euro;2008;26789.77
+Sweden;Euro;2009;25451.97
+Sweden;Euro;2010;29043.96
+Sweden;Euro;2011;31319.63
+Sweden;Euro;2012;33473.42
+Sweden;Euro;2013;34473.44
+Sweden;Euro;2014;33923.28
+Sweden;Euro;2015;33389.85
+Sweden;Euro;2016;33711.94
+Sweden;Euro;2017;33923.05
+Sweden;Euro;2018;32688.36
+Sweden;Euro;2019;32427.59
+Sweden;Euro;2020;33366.68
+Sweden;Euro;2021;35485.73
+Sweden;Euro;2022;35188.72
+Sweden;Euro;2023;33926.03
+Slovenia;Euro;2000;5731.72
+Slovenia;Euro;2001;6372.14
+Slovenia;Euro;2002;6948.28
+Slovenia;Euro;2003;7517.19
+Slovenia;Euro;2004;8011.04
+Slovenia;Euro;2005;8474.72
+Slovenia;Euro;2006;8915.99
+Slovenia;Euro;2007;9820.88
+Slovenia;Euro;2008;10556.93
+Slovenia;Euro;2009;10782.68
+Slovenia;Euro;2010;11284.13
+Slovenia;Euro;2011;11567.85
+Slovenia;Euro;2012;11707.47
+Slovenia;Euro;2013;11824.18
+Slovenia;Euro;2014;11980.57
+Slovenia;Euro;2015;12062.45
+Slovenia;Euro;2016;12202.35
+Slovenia;Euro;2017;12487.25
+Slovenia;Euro;2018;12902.38
+Slovenia;Euro;2019;13298.17
+Slovenia;Euro;2020;13896.79
+Slovenia;Euro;2021;14601.22
+Slovenia;Euro;2022;15668.4
+Slovenia;Euro;2023;17547.68
+Slovakia;Euro;2000;4196.64
+Slovakia;Euro;2001;4333.99
+Slovakia;Euro;2002;4549.97
+Slovakia;Euro;2003;4804.77
+Slovakia;Euro;2004;5247.64
+Slovakia;Euro;2005;5644.51
+Slovakia;Euro;2006;6018.99
+Slovakia;Euro;2007;6408.4
+Slovakia;Euro;2008;7023.15
+Slovakia;Euro;2009;7264.52
+Slovakia;Euro;2010;7493.69
+Slovakia;Euro;2011;7642.75
+Slovakia;Euro;2012;7797.27
+Slovakia;Euro;2013;7936.58
+Slovakia;Euro;2014;8250.32
+Slovakia;Euro;2015;8426.75
+Slovakia;Euro;2016;8654.34
+Slovakia;Euro;2017;8961.03
+Slovakia;Euro;2018;9464.61
+Slovakia;Euro;2019;9975.02
+Slovakia;Euro;2020;10250.84
+Slovakia;Euro;2021;10984.68
+Slovakia;Euro;2022;11601.59
+Slovakia;Euro;2023;12744.11
+Türkiye;Euro;2000;6874930772.44
+Türkiye;Euro;2001;4857838258.35
+Türkiye;Euro;2002;5126309581.16
+Türkiye;Euro;2003;5235964722.4
+Türkiye;Euro;2004;5463.04
+Türkiye;Euro;2005;6521.22
+Türkiye;Euro;2006;6022.52
+Türkiye;Euro;2007;5256.32
+Türkiye;Euro;2008;5764.23
+Türkiye;Euro;2009;5594.82
+Türkiye;Euro;2010;6629.01
+Türkiye;Euro;2011;6184.54
+Türkiye;Euro;2012;6956.76
+Türkiye;Euro;2013;7107.48
+Türkiye;Euro;2014;6879.9
+Türkiye;Euro;2015;7487.85
+Türkiye;Euro;2016;8108.39
+Türkiye;Euro;2017;7214.91
+Türkiye;Euro;2018;6129.16
+Türkiye;Euro;2019;6905.8
+Türkiye;Euro;2020;6440.97
+Türkiye;Euro;2021;5845.76
+Türkiye;Euro;2022;6288.12
+Türkiye;Euro;2023;8968.18
+United Kingdom;Euro;2000;30322.73
+United Kingdom;Euro;2001;31007.99
+United Kingdom;Euro;2002;31745.34
+United Kingdom;Euro;2003;29671.4
+United Kingdom;Euro;2004;31602.41
+United Kingdom;Euro;2005;32449.78
+United Kingdom;Euro;2006;33695.55
+United Kingdom;Euro;2007;35426.57
+United Kingdom;Euro;2008;31196.54
+United Kingdom;Euro;2009;28019.83
+United Kingdom;Euro;2010;29829.08
+United Kingdom;Euro;2011;29426.23
+United Kingdom;Euro;2012;32361.69
+United Kingdom;Euro;2013;31413.75
+United Kingdom;Euro;2014;33290.73
+United Kingdom;Euro;2015;37959.11
+United Kingdom;Euro;2016;34651.93
+United Kingdom;Euro;2017;33620.36
+United Kingdom;Euro;2018;34278.53
+United Kingdom;Euro;2019;35782.77
+United States;Euro;2000;26934.48
+United States;Euro;2001;28537.22
+United States;Euro;2002;27907.19
+United States;Euro;2003;24109.63
+United States;Euro;2004;22336.92
+United States;Euro;2005;22909.51
+United States;Euro;2006;23705.76
+United States;Euro;2007;23068.07
+United States;Euro;2008;22339.29
+United States;Euro;2009;24080.76
+United States;Euro;2010;25970.44
+United States;Euro;2011;25726.08
+United States;Euro;2012;28377.81
+United States;Euro;2013;27376.96
+United States;Euro;2014;28056.9
+United States;Euro;2015;34159.7
+United States;Euro;2016;34810.07
+United States;Euro;2017;34916.19
+United States;Euro;2018;35528.34
+United States;Euro;2019;38469.36
+United States;Euro;2020;41031.88
+United States;Euro;2021;40787.2
+United States;Euro;2022;46310.59
+United States;Euro;2023;47123.35

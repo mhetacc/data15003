@@ -135,9 +135,23 @@ def merge_all():
     # save to csv for debugging
     countries_temp_all_merged.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/countries_temp_all_merged.csv', index=False, sep=';')
 
+def build_net_earnings():
+    earnings_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/annual_net_earnings.csv', sep=',')
+
+    filtered_earnings= earnings_df[(earnings_df['estruct']=='Net earning') & (earnings_df['currency']=='Euro') & (earnings_df['ecase']=='Single person without children earning 100% of the average earning')]
+
+    filtered_earnings = filtered_earnings[['geo', 'currency', 'TIME_PERIOD', 'OBS_VALUE']]
+
+    filtered_earnings.rename(columns={'geo': 'COUNTRY_NAME', 'currency': 'CURRENCY', 'TIME_PERIOD': 'YEAR', 'OBS_VALUE': 'NET_EARNINGS'}, inplace=True)
+
+    filtered_earnings.to_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_net_earnings.csv', index=False, sep=';')
+
+
 # build_data(2024)
 # build_data(2019)
 # build_data(2014)
 # build_data(2009)
 # 
 # merge_all()
+
+build_net_earnings()
