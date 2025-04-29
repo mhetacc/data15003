@@ -51,8 +51,8 @@ def build_data(year, transformed=False):
     # take parties with their scores 
     parties_scored = pandas.read_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/Ai/parties_scored_{year}.csv', sep=';')
 
-    # join on LABEL 
-    parties_countries_percentage = pandas.merge(parties_countries_percentage, parties_scored, left_on='LABEL', right_on='LABEL', how='left')
+    # join on LABEL the whole thing plus temperatures df 
+    parties_countries_percentage = pandas.merge(parties_countries_percentage, parties_scored, left_on='LABEL', right_on='LABEL', how='inner')
 
 
     # drop useless rows
@@ -93,6 +93,7 @@ def build_data(year, transformed=False):
 
     # save to csv for debugging
     parties_countries_percentage.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/parties_countries_percentage_{year}.csv', index=False, sep=';')
+    parties_countries_percentage[['LABEL', 'name', 'VOTES_PERCENT', 'TEMPERATURE', 'WEIGHTED_TEMP']].to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/debug_for_votes_{year}_parties.csv', index=False, sep=';')
 
 
     # Get unique, non-null LABEL values
@@ -133,11 +134,11 @@ def build_net_earnings():
     filtered_earnings.to_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_net_earnings.csv', index=False, sep=';')
 
 
-# build_data(2024)
-# build_data(2019)
-# build_data(2014)
-# build_data(2009)
-# 
-# merge_all()
+build_data(2024)
+build_data(2019)
+build_data(2014)
+build_data(2009)
+
+merge_all()
 
 build_net_earnings()
