@@ -101,22 +101,6 @@ def build_data(year, transformed=False):
     list_of_parties_df.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/list_of_parties_{year}.csv', index=False, sep=';')
 
 
-
-    ##  # OSS: none of this is needed since we are not using AIs to do a correct grading
-    ##  # Get a list of all parties, save it to dataframe
-    ##  # Get unique, non-null LABEL values
-    ##  list_of_parties = parties_countries_percentage['LABEL'].dropna().unique()
-  
-    ##  # Convert to a DataFrame
-    ##  list_of_parties_df = pandas.DataFrame(list_of_parties, columns=['LABEL'])
-  
-    ##  # add random political temperature to each one
-    ##  list_of_parties_df['TEMPERATURE'] = numpy.random.uniform(-2, 2, size=len(list_of_parties_df))
-  
-    ##  # Save to CSV
-    ##  list_of_parties_df.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/list_of_parties_{year}.csv', index=False, sep=';')
-
-
 def merge_all():
     """
     Merge all data from all years into one dataframe
@@ -134,6 +118,8 @@ def merge_all():
 
     # save to csv for debugging
     countries_temp_all_merged.to_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/build/countries_temp_all_merged.csv', index=False, sep=';')
+
+
 
 def build_net_earnings():
     earnings_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/annual_net_earnings.csv', sep=',')
