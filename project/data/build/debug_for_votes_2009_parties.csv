@@ -1,263 +1,285 @@
 LABEL;name;VOTES_PERCENT;TEMPERATURE;WEIGHTED_TEMP
-Christen-Democratisch en Vlaams;Belgium;14.43;0.5;7.215
-Christen-Democratisch en Vlaams;Belgium;23.26;0.5;11.63
-Centre Démocrate Humaniste;Belgium;13.34;-0.5;-6.67
-Centre Démocrate Humaniste;Belgium;4.99;-0.5;-2.495
-Parti Socialiste;Belgium;29.1;-1.5;-43.650000000000006
-Parti Socialiste;Belgium;10.88;-1.5;-16.32
-Socialistische Partij - Anders;Belgium;8.21;-1.5;-12.315000000000001
-Socialistische Partij - Anders;Belgium;13.23;-1.5;-19.845
-Vlaamse Liberalen en Democraten;Belgium;12.75;1.0;12.75
-Vlaamse Liberalen en Democraten;Belgium;20.56;1.0;20.56
-Mouvement des Citoyens pour le Changement;Belgium;26.05;1.0;26.05
-Mouvement des Citoyens pour le Changement;Belgium;9.74;1.0;9.74
-Ecologistes Confédérés pour I’organisation de luttes originales;Belgium;22.88;-1.0;-22.88
-Ecologistes Confédérés pour I’organisation de luttes originales;Belgium;8.55;-1.0;-8.55
-Groen!;Belgium;4.9;-1.0;-4.9
-Groen!;Belgium;7.9;-1.0;-7.9
-Nieuw-Vlaamse Alliantie;Belgium;6.13;1.5;9.195
-Nieuw-Vlaamse Alliantie;Belgium;9.88;1.5;14.82
-Lijst Dedecker;Belgium;4.51;1.5;6.765
-Lijst Dedecker;Belgium;7.28;1.5;10.92
-Vlaams Belang;Belgium;9.85;2.0;19.7
-Vlaams Belang;Belgium;15.88;2.0;31.76
-ecolo (G);Belgium;0.09;-1.0;-0.09
-ecolo (G);Belgium;15.58;-1.0;-15.58
-Sozialdemokratischen Partei Ostbelgiëns;Belgium;0.09;-1.5;-0.135
-Sozialdemokratischen Partei Ostbelgiëns;Belgium;14.63;-1.5;-21.945
-Other parties from French-speaking electoral college;Belgium;8.63;0.0;0.0
-Other parties from French-speaking electoral college;Belgium;2.29;0.0;0.0
-Other parties from German-speaking electoral college;Belgium;0.1;0.0;0.0
-Other parties from German-speaking electoral college;Belgium;17.17;0.0;0.0
-Other parties from Dutch-speaking electoral college;Belgium;2.18;0.0;0.0
-Other parties from Dutch-speaking electoral college;Belgium;2.01;0.0;0.0
-Socialistische Partij - Anders;;8.21;-1.5;-12.315000000000001
-Socialistische Partij - Anders;;13.23;-1.5;-19.845
-Groen!;;4.9;-1.0;-4.9
-Groen!;;7.9;-1.0;-7.9
-Nieuw-Vlaamse Alliantie;;6.13;1.5;9.195
-Nieuw-Vlaamse Alliantie;;9.88;1.5;14.82
-Christen-Democratisch en Vlaams;;14.43;0.5;7.215
-Christen-Democratisch en Vlaams;;23.26;0.5;11.63
-Vlaamse Liberalen en Democraten;;12.75;1.0;12.75
-Vlaamse Liberalen en Democraten;;20.56;1.0;20.56
-Lijst Dedecker;;4.51;1.5;6.765
-Lijst Dedecker;;7.28;1.5;10.92
-Vlaams Belang;;9.85;2.0;19.7
-Vlaams Belang;;15.88;2.0;31.76
-Other parties from Dutch-speaking electoral college;;2.18;0.0;0.0
-Other parties from Dutch-speaking electoral college;;2.01;0.0;0.0
-ecolo (G);;0.09;-1.0;-0.09
-ecolo (G);;15.58;-1.0;-15.58
-Sozialdemokratischen Partei Ostbelgiëns;;0.09;-1.5;-0.135
-Sozialdemokratischen Partei Ostbelgiëns;;14.63;-1.5;-21.945
-Other parties from German-speaking electoral college;;0.1;0.0;0.0
-Other parties from German-speaking electoral college;;17.17;0.0;0.0
-Parti Socialiste;;29.1;-1.5;-43.650000000000006
-Parti Socialiste;;10.88;-1.5;-16.32
-Ecologistes Confédérés pour I’organisation de luttes originales;;22.88;-1.0;-22.88
-Ecologistes Confédérés pour I’organisation de luttes originales;;8.55;-1.0;-8.55
-Centre Démocrate Humaniste;;13.34;-0.5;-6.67
-Centre Démocrate Humaniste;;4.99;-0.5;-2.495
-Mouvement des Citoyens pour le Changement;;26.05;1.0;26.05
-Mouvement des Citoyens pour le Changement;;9.74;1.0;9.74
-Other parties from French-speaking electoral college;;8.63;0.0;0.0
-Other parties from French-speaking electoral college;;2.29;0.0;0.0
-Grazhdani za evropeysko razvitie na Balgariya;Bulgaria;24.36;1.0;24.36
-Săjuz na Demokratičnite Sili;Bulgaria;7.95;1.0;7.95
-Bulgarska sotsialisticheska partiya;Bulgaria;18.5;-1.5;-27.75
-Dvizhenie za prava i svobodi;Bulgaria;14.14;-0.5;-7.07
-Nacionalno dviženie za stabilnost i vazhod;Bulgaria;7.96;1.0;7.96
-Natsionalen Sayuz Ataka;Bulgaria;11.96;2.0;23.92
-Other parties;Bulgaria;15.13;0.0;0.0
-Krest.demokr.unie-Cs.str.lid;Czechia;7.64;0.5;3.82
-Ceská str.sociálne demokrat.;Czechia;22.38;-1.5;-33.57
-Občanská Demokratická Strana;Czechia;31.45;1.0;31.45
-Komunistická str.Cech a Moravy;Czechia;14.18;-2.0;-28.36
-Other parties;Czechia;24.35;0.0;0.0
-Konservative Folkeparti;Denmark;12.3;1.0;12.3
-Socialdemokraterna;Denmark;20.9;-1.5;-31.349999999999998
-Venstre;Denmark;19.6;1.0;19.6
-Socialistisk Folkeparti;Denmark;15.4;-1.5;-23.1
-Folkebevægelsen mod EU;Denmark;7.0;-1.0;-7.0
-Dansk Folkeparti;Denmark;14.8;2.0;29.6
-Other parties;Denmark;10.0;0.0;0.0
-Christlich-Demokratische Union;Germany;30.7;1.0;30.7
-Christlich-Soziale Union;Germany;7.2;1.0;7.2
-Sozialdemokratische Partei Deutschlands;Germany;20.8;-1.5;-31.200000000000003
-Freie Demokratische Partei;Germany;11.0;1.0;11.0
-Bündnis 90/Die Grünen;Germany;12.1;-1.0;-12.1
-Die Linkspartei/ Die Linke;Germany;7.5;-2.0;-15.0
-Other parties;Germany;10.7;0.0;0.0
-Fine Gael - The United Ireland Party;Ireland;29.13;1.0;29.13
-Páirtí an Lucht Oibre;Ireland;13.92;-1.5;-20.88
-M. Harkin (Ind);Ireland;4.63;0.0;0.0
-Fianna Fáil - An Páirtí Poblachtánach;Ireland;24.08;0.5;12.04
-Socialist Party;Ireland;2.76;-2.0;-5.52
-Other parties;Ireland;25.48;0.0;0.0
-Isamaa ja Res Publica Liit;Estonia;12.21;1.0;12.21
-Sotsiaaldemokraatlik Erakond;Estonia;8.7;-1.5;-13.049999999999999
-Eesti Keskerakond;Estonia;26.07;-0.5;-13.035
-Eesti Reformierakond;Estonia;15.34;1.0;15.34
-I. Tarand (Ind);Estonia;25.81;0.0;0.0
-Other parties;Estonia;11.87;0.0;0.0
-Nea Dhimokratia;;32.29;1.0;32.29
-Panellinio Sosialistiko Kinima;;36.65;-1.5;-54.974999999999994
-Oikologoi Prasinoi;;3.49;-1.0;-3.49
-Kommunistiko Komma Elladas;;8.35;-2.0;-16.7
-Synaspismós Rizospastikís Aristerás;;4.7;-2.0;-9.4
-Laïkós Orthódoxos Synagermós;;7.15;2.0;14.3
-Other parties;;7.37;0.0;0.0
-Partido Popular;Spain;42.23;1.5;63.345
-Partido Socialista Obrero Español;Spain;38.51;-1.5;-57.765
-Coalición por Europa;Spain;5.12;0.5;2.56
-Izquierda Unida-Iniciativa per Catalunya Verdes-Esquerra Unida i Alternativa-bloque por Asturies: la Izquierda;Spain;3.73;-2.0;-7.46
-Europa de los Pueblos - Los Verdes;Spain;2.5;-1.0;-2.5
-Unión, Progreso y Democracia;Spain;2.87;0.5;1.435
-Other parties;Spain;5.04;0.0;0.0
-Union pour un Mouvement Populaire;France;27.8;1.0;27.8
-Parti Socialiste;France;16.48;-1.5;-24.72
-Mouvement démocrate;France;8.4;0.5;4.2
-Europe Écologie;France;16.28;-1.0;-16.28
-Front de gauche pour changer d'Europe;France;6.0;-2.0;-12.0
-Libertas (Mouvement pour la France, Chasse Pêche Nature et Tradition);France;4.6;1.5;6.8999999999999995
-Other parties;France;13.72;0.0;0.0
-Il Popolo della Libertà;Italy;35.26;1.5;52.89
-Unione dei Democratici Cristiani e di Centro;Italy;6.51;0.5;3.255
-Südtiroler Volkspartei;Italy;0.46;0.5;0.23
-Partito Democratico;Italy;26.13;-0.5;-13.065
-Lega Nord;Italy;10.2;2.0;20.4
-Other parties;Italy;13.44;0.0;0.0
-Dimokratikós Sinayermós;Cyprus;35.65;1.0;35.65
-Kinima Sosialdimokraton Eniaia Dimokratiki Enosi Kentrou;Cyprus;9.85;-1.5;-14.774999999999999
-Dimokratikon Komma;Cyprus;12.28;1.0;12.28
-Anorthotikon Komma Ergazomenou Laou;Cyprus;34.9;-1.5;-52.349999999999994
-Other parties;Cyprus;7.32;0.0;0.0
-Jaunais laiks;Latvia;6.66;1.0;6.66
-Pilsoniska savieniba;Latvia;24.32;1.0;24.32
-Saskaņas Centrs;Latvia;19.57;-1.0;-19.57
-Latvijas Pirma- Partija/Latvijas Cels;Latvia;7.49;1.0;7.49
-Politisko organizáciju apvieníba 'Par cilvéka tiesíbám vienotá Latvijá';Latvia;9.66;-0.5;-4.83
-Other parties;Latvia;24.85;0.0;0.0
-Tevynes sajunga - Lietuvos krikšcionys demokratai;Lithuania;26.86;1.0;26.86
-Lietuvos socialdemokratu partija;Lithuania;18.61;-1.5;-27.915
-Darbo partija;Lithuania;8.79;-0.5;-4.395
-Lietuvos Respublikos liberalu sajudis;Lithuania;7.36;1.0;7.36
-Lietuvos lenku rinkimu akcija;Lithuania;8.42;0.5;4.21
-Partija Tvarka ir teisingumas;Lithuania;12.22;1.5;18.330000000000002
-Other parties;Lithuania;17.74;0.0;0.0
-Parti Chrétien Social/Chrëschtlech-Sozial Vollekspartei;Luxembourg;31.33;0.5;15.665
-Parti Ouvrier Socialiste Luxembourgeois/Letzeburger Socialistesch Arbeiterpartei;Luxembourg;19.2;-1.5;-28.799999999999997
-Parti Démocratique/Demokratesch Partei;Luxembourg;18.71;1.0;18.71
-Déi Gréng;Luxembourg;16.84;-1.0;-16.84
-Other parties;Luxembourg;13.92;0.0;0.0
-Fidesz - Magyar Polgári Szövetség, Kereszténydemokrata Néppárt;Hungary;56.36;1.5;84.53999999999999
-Magyar Szocialista Párt;Hungary;17.37;-1.5;-26.055
-Magyar Demokrata Fórum;Hungary;5.31;1.0;5.31
-Jobbik Magyarországért Mozgalom;Hungary;14.77;2.0;29.54
-Other parties;Hungary;6.19;0.0;0.0
-Partit Nazzjonalista;Malta;40.49;1.0;40.49
-Partit Laburista;Malta;54.77;-1.0;-54.77
-Other parties;Malta;4.74;0.0;0.0
-Christen Democratisch Appèl;Netherlands;20.05;0.5;10.025
-Partij van de Arbeid (Europese Sociaaldemocraten);Netherlands;12.05;-1.5;-18.075000000000003
-Volkspartij voor Vrijheid en Democratie;Netherlands;11.39;1.0;11.39
-Demokraten 66;Netherlands;11.32;-0.5;-5.66
-Groenlinks;Netherlands;8.87;-1.5;-13.305
-ChristenUnie-Staatkundig Gereformeerde Partij;Netherlands;6.82;0.5;3.41
-Socialistische Partij;Netherlands;7.1;-2.0;-14.2
-Partij voor de Vrijheid;Netherlands;16.97;2.0;33.94
-Other parties;Netherlands;5.43;0.0;0.0
-Österreichische Volkspartei;Austria;29.98;1.0;29.98
-Sozialdemokratische Partei Österreichs;Austria;23.74;-1.5;-35.61
-Die Grünen - Dei Grüne Alternative;Austria;9.93;-1.0;-9.93
-Liste 'Dr. Hans-Peter Martin - für echte Kontrolle in Brüssel';Austria;17.67;0.0;0.0
-Freiheitliche Partei Österreichs;Austria;12.71;2.0;25.42
-Other parties;Austria;5.97;0.0;0.0
-Platforma Obywatelska;Poland;44.43;1.0;44.43
-Polskie Stronnictwo Ludowe;Poland;7.01;-0.5;-3.505
-Sojusz Lewicy Demokratycznej - Unia Pracy;Poland;12.34;-1.5;-18.509999999999998
-Prawo i Sprawiedliwość;Poland;27.4;1.5;41.099999999999994
-Other parties;Poland;8.82;0.0;0.0
-Partido Social Democrata;Portugal;31.71;1.0;31.71
-Centro Democrático e Social - Partido Popular;Portugal;8.36;1.0;8.36
-Bloco de Esquerda;Portugal;10.72;-2.0;-21.44
-CDU - COLIGACÃO DEMOCRÁTICA UNITÁRIA - PCP - PEV;Portugal;10.64;-2.0;-21.28
-Other parties;Portugal;12.04;0.0;0.0
-Partidul Democrat Liberal;Romania;29.71;1.0;29.71
-Uniunea Democrată Maghiară din România;Romania;8.92;0.5;4.46
+ Alliance des Outre-mers;France;0.42;;
+ Partei für Freiheit und Fortschritt;Belgium;0.12;;
+ Partei für Freiheit und Fortschritt;Belgium;20.37;;
+ Partei für Freiheit und Fortschritt;;0.12;;
+ Partei für Freiheit und Fortschritt;;20.37;;
 Alianţa Electorală PSD+PC;Romania;31.07;-1.5;-46.605000000000004
-Partidul România Mare;Romania;8.65;2.0;17.3
-Băsescu Elena;Romania;4.22;0.5;2.11
-Other parties;Romania;7.13;0.0;0.0
-Slovenska Demokratska Stranka;Slovenia;26.92;1.0;26.92
-Nova Slovenija - Kršcanska Ljudska Stranka;Slovenia;16.33;0.5;8.165
-Socialni Demokrati;Slovenia;18.45;-1.5;-27.674999999999997
-Liberalna Demokracija Slovenije;Slovenia;11.52;1.0;11.52
-ZARES;Slovenia;9.82;-0.5;-4.91
-Other parties;Slovenia;16.96;0.0;0.0
-Krestanskodemokratické hnutie;Slovakia;10.87;0.5;5.435
-Slovenská demokratická a krest(anská únia - Demokratická strana;Slovakia;16.99;1.0;16.99
-Magyar Koalíció Pártja/Strana mad(arskej koalície;Slovakia;11.34;0.5;5.67
-Smer - sociálna demokracia;Slovakia;32.02;-1.5;-48.03
-Ludová strana - Hnutie za demokratické Slovensko;Slovakia;8.98;1.5;13.47
-Slovenská národná strana;Slovakia;5.56;2.0;11.12
-Other parties;Slovakia;14.24;0.0;0.0
-Kansallinen Kokoomus/Samlingspartiet;Finland;23.2;1.0;23.2
-VAALILIITOSSA - I VALFÖRBUND;Finland;14.0;0.0;0.0
-Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti;Finland;17.5;-1.5;-26.25
-Suomen Keskusta/Centern i Finland;Finland;19.0;-0.5;-9.5
-Svenska folkpartiet i Finland;Finland;6.1;1.0;6.1
-Vihreä Liitto/Gröna Förbundet;Finland;12.4;-1.0;-12.4
-Other parties;Finland;7.8;0.0;0.0
-Moderaterna;Sweden;18.83;1.0;18.83
-Kristdemokraterna;Sweden;4.68;0.5;2.34
-Sveriges Socialdemokratiska arbetarparti - Socialdemokraterna;Sweden;24.41;-1.5;-36.615
-Folkepartiet Liberalerna;Sweden;13.58;1.0;13.58
-Centerpartiet;Sweden;5.47;0.5;2.735
-Miljöpartiet de Gröna;Sweden;11.02;-1.0;-11.02
-Piratpartiet;Sweden;7.13;-0.5;-3.565
-Vänsterpartiet;Sweden;5.66;-2.0;-11.32
-Other parties;Sweden;9.22;0.0;0.0
-Labour Party;;15.31;-1.0;-15.31
-Labour Party;;15.7;-1.0;-15.7
-Scottish National Party;;2.05;-0.5;-1.025
-Scottish National Party;;2.1;-0.5;-1.05
-Green Party of England and Wales;;8.38;-1.0;-8.38
-Green Party of England and Wales;;8.38;-1.0;-8.38
-Plaid Cymru;;0.78;-0.5;-0.39
-Plaid Cymru;;0.78;-0.5;-0.39
-Ulster Conservatives and Unionists - New Force;;0.43;1.5;0.645
-Ulster Conservatives and Unionists - New Force;;17.11;1.5;25.665
-Sinn Fein;;0.65;-1.5;-0.9750000000000001
-Sinn Fein;;26.04;-1.5;-39.06
-UK Independence Party;;16.09;2.0;32.18
-UK Independence Party;;16.5;2.0;33.0
+Anorthotikon Komma Ergazomenou Laou;Cyprus;34.9;-1.5;-52.349999999999994
+Apvieníba 'Tévzemei un Brívíbai'/LNNK ;Latvia;7.45;;
+Bloco de Esquerda;Portugal;10.72;-2.0;-21.44
 British National Party;;6.04;2.0;12.08
-Democratic Unionist Party;;0.46;1.5;0.6900000000000001
-Democratic Unionist Party;;6.2;1.5;9.3
-Other parties Northern Ireland;;0.56;0.0;0.0
-Other parties Northern Ireland;;38.62;0.0;0.0
-Other parties Great Britain;;8.89;0.0;0.0
-Other parties Great Britain;;8.94;0.0;0.0
-Sinn Fein;Nicaragua;0.65;-1.5;-0.9750000000000001
-Sinn Fein;Nicaragua;26.04;-1.5;-39.06
-Ulster Conservatives and Unionists - New Force;Nicaragua;0.43;1.5;0.645
-Ulster Conservatives and Unionists - New Force;Nicaragua;17.11;1.5;25.665
-Democratic Unionist Party;Nicaragua;18.23;1.5;27.345
-Other parties Northern Ireland;Nicaragua;0.56;0.0;0.0
-Other parties Northern Ireland;Nicaragua;38.62;0.0;0.0
-Labour Party;United Kingdom of Great Britain and Northern Ireland;15.31;-1.0;-15.31
-Labour Party;United Kingdom of Great Britain and Northern Ireland;15.7;-1.0;-15.7
-UK Independence Party;United Kingdom of Great Britain and Northern Ireland;16.09;2.0;32.18
-UK Independence Party;United Kingdom of Great Britain and Northern Ireland;16.5;2.0;33.0
 British National Party;United Kingdom of Great Britain and Northern Ireland;0.46;2.0;0.92
 British National Party;United Kingdom of Great Britain and Northern Ireland;6.2;2.0;12.4
-Scottish National Party;United Kingdom of Great Britain and Northern Ireland;2.05;-0.5;-1.025
-Scottish National Party;United Kingdom of Great Britain and Northern Ireland;2.1;-0.5;-1.05
+Bulgarska sotsialisticheska partiya;Bulgaria;18.5;-1.5;-27.75
+Bündnis 90/Die Grünen;Germany;12.1;-1.0;-12.1
+Băsescu Elena;Romania;4.22;0.5;2.11
+CDU - COLIGACÃO DEMOCRÁTICA UNITÁRIA - PCP - PEV;Portugal;10.64;-2.0;-21.28
+Centerpartiet;Sweden;5.47;0.5;2.735
+Centre Démocrate Humaniste;Belgium;13.34;-0.5;-6.67
+Centre Démocrate Humaniste;Belgium;4.99;-0.5;-2.495
+Centre Démocrate Humaniste;;13.34;-0.5;-6.67
+Centre Démocrate Humaniste;;4.99;-0.5;-2.495
+Centro Democrático e Social - Partido Popular;Portugal;8.36;1.0;8.36
+Ceská str.sociálne demokrat.;Czechia;22.38;-1.5;-33.57
+Christeliche soziale Partei ;Belgium;0.19;;
+Christeliche soziale Partei ;Belgium;32.25;;
+Christeliche soziale Partei ;;0.19;;
+Christeliche soziale Partei ;;32.25;;
+Christen Democratisch Appèl;Netherlands;20.05;0.5;10.025
+Christen-Democratisch en Vlaams;Belgium;14.43;0.5;7.215
+Christen-Democratisch en Vlaams;Belgium;23.26;0.5;11.63
+Christen-Democratisch en Vlaams;;14.43;0.5;7.215
+Christen-Democratisch en Vlaams;;23.26;0.5;11.63
+ChristenUnie-Staatkundig Gereformeerde Partij;Netherlands;6.82;0.5;3.41
+Christlich-Demokratische Union;Germany;30.7;1.0;30.7
+Christlich-Soziale Union;Germany;7.2;1.0;7.2
+Coalición por Europa;Spain;5.12;0.5;2.56
+Conservative Party ;;27.0;;
+Conservative Party ;;27.7;;
+Conservative Party ;United Kingdom of Great Britain and Northern Ireland;27.0;;
+Conservative Party ;United Kingdom of Great Britain and Northern Ireland;27.7;;
+Dansk Folkeparti;Denmark;14.8;2.0;29.6
+Darbo partija;Lithuania;8.79;-0.5;-4.395
+Democratic Unionist Party;;0.46;1.5;0.6900000000000001
+Democratic Unionist Party;;6.2;1.5;9.3
+Democratic Unionist Party;Nicaragua;18.23;1.5;27.345
+Demokraten 66;Netherlands;11.32;-0.5;-5.66
+Die Grünen - Dei Grüne Alternative;Austria;9.93;-1.0;-9.93
+Die Linkspartei/ Die Linke;Germany;7.5;-2.0;-15.0
+Dimokratikon Komma;Cyprus;12.28;1.0;12.28
+Dimokratikós Sinayermós;Cyprus;35.65;1.0;35.65
+Dvizhenie za prava i svobodi;Bulgaria;14.14;-0.5;-7.07
+Déi Gréng;Luxembourg;16.84;-1.0;-16.84
+Ecologistes Confédérés pour I’organisation de luttes originales;Belgium;22.88;-1.0;-22.88
+Ecologistes Confédérés pour I’organisation de luttes originales;Belgium;8.55;-1.0;-8.55
+Ecologistes Confédérés pour I’organisation de luttes originales;;22.88;-1.0;-22.88
+Ecologistes Confédérés pour I’organisation de luttes originales;;8.55;-1.0;-8.55
+Eesti Keskerakond;Estonia;26.07;-0.5;-13.035
+Eesti Reformierakond;Estonia;15.34;1.0;15.34
+Europa de los Pueblos - Los Verdes;Spain;2.5;-1.0;-2.5
+Europe Écologie;France;16.28;-1.0;-16.28
+Fianna Fáil - An Páirtí Poblachtánach;Ireland;24.08;0.5;12.04
+Fidesz - Magyar Polgári Szövetség, Kereszténydemokrata Néppárt;Hungary;56.36;1.5;84.53999999999999
+Fine Gael - The United Ireland Party;Ireland;29.13;1.0;29.13
+Folkebevægelsen mod EU;Denmark;7.0;-1.0;-7.0
+Folkepartiet Liberalerna;Sweden;13.58;1.0;13.58
+Freie Demokratische Partei;Germany;11.0;1.0;11.0
+Freiheitliche Partei Österreichs;Austria;12.71;2.0;25.42
+Front National ;France;6.3;;
+Front de gauche pour changer d'Europe;France;6.0;-2.0;-12.0
+Grazhdani za evropeysko razvitie na Balgariya;Bulgaria;24.36;1.0;24.36
+Green Party of England and Wales;;8.38;-1.0;-8.38
+Green Party of England and Wales;;8.38;-1.0;-8.38
 Green Party of England and Wales;United Kingdom of Great Britain and Northern Ireland;8.38;-1.0;-8.38
 Green Party of England and Wales;United Kingdom of Great Britain and Northern Ireland;8.38;-1.0;-8.38
-Plaid Cymru;United Kingdom of Great Britain and Northern Ireland;0.78;-0.5;-0.39
-Plaid Cymru;United Kingdom of Great Britain and Northern Ireland;0.78;-0.5;-0.39
+Groen!;Belgium;4.9;-1.0;-4.9
+Groen!;Belgium;7.9;-1.0;-7.9
+Groen!;;4.9;-1.0;-4.9
+Groen!;;7.9;-1.0;-7.9
+Groenlinks;Netherlands;8.87;-1.5;-13.305
+I. Tarand (Ind);Estonia;25.81;0.0;0.0
+Il Popolo della Libertà;Italy;35.26;1.5;52.89
+Isamaa ja Res Publica Liit;Estonia;12.21;1.0;12.21
+Izquierda Unida-Iniciativa per Catalunya Verdes-Esquerra Unida i Alternativa-bloque por Asturies: la Izquierda;Spain;3.73;-2.0;-7.46
+Jaunais laiks;Latvia;6.66;1.0;6.66
+Jobbik Magyarországért Mozgalom;Hungary;14.77;2.0;29.54
+Kansallinen Kokoomus/Samlingspartiet;Finland;23.2;1.0;23.2
+Kinima Sosialdimokraton Eniaia Dimokratiki Enosi Kentrou;Cyprus;9.85;-1.5;-14.774999999999999
+Kommunistiko Komma Elladas;;8.35;-2.0;-16.7
+Komunistická str.Cech a Moravy;Czechia;14.18;-2.0;-28.36
+Konservative Folkeparti;Denmark;12.3;1.0;12.3
+Krest.demokr.unie-Cs.str.lid;Czechia;7.64;0.5;3.82
+Krestanskodemokratické hnutie;Slovakia;10.87;0.5;5.435
+Kristdemokraterna;Sweden;4.68;0.5;2.34
+Labour Party;;15.31;-1.0;-15.31
+Labour Party;;15.7;-1.0;-15.7
+Labour Party;United Kingdom of Great Britain and Northern Ireland;15.31;-1.0;-15.31
+Labour Party;United Kingdom of Great Britain and Northern Ireland;15.7;-1.0;-15.7
+Latvijas Pirma- Partija/Latvijas Cels;Latvia;7.49;1.0;7.49
+Laïkós Orthódoxos Synagermós;;7.15;2.0;14.3
+Lega Nord;Italy;10.2;2.0;20.4
+Liberal Democrats ;;13.36;;
+Liberal Democrats ;;13.7;;
+Liberal Democrats ;United Kingdom of Great Britain and Northern Ireland;13.36;;
+Liberal Democrats ;United Kingdom of Great Britain and Northern Ireland;13.7;;
+Liberalna Demokracija Slovenije;Slovenia;11.52;1.0;11.52
+Libertas (Mouvement pour la France, Chasse Pêche Nature et Tradition);France;4.6;1.5;6.8999999999999995
+Lietuvos Respublikos liberalu sajudis;Lithuania;7.36;1.0;7.36
+Lietuvos lenku rinkimu akcija;Lithuania;8.42;0.5;4.21
+Lietuvos socialdemokratu partija;Lithuania;18.61;-1.5;-27.915
+Lijst Dedecker;Belgium;4.51;1.5;6.765
+Lijst Dedecker;Belgium;7.28;1.5;10.92
+Lijst Dedecker;;4.51;1.5;6.765
+Lijst Dedecker;;7.28;1.5;10.92
+Liste 'Dr. Hans-Peter Martin - für echte Kontrolle in Brüssel';Austria;17.67;0.0;0.0
+Ludová strana - Hnutie za demokratické Slovensko;Slovakia;8.98;1.5;13.47
+M. Harkin (Ind);Ireland;4.63;0.0;0.0
+Magyar Demokrata Fórum;Hungary;5.31;1.0;5.31
+Magyar Koalíció Pártja/Strana mad(arskej koalície;Slovakia;11.34;0.5;5.67
+Magyar Szocialista Párt;Hungary;17.37;-1.5;-26.055
+Miljöpartiet de Gröna;Sweden;11.02;-1.0;-11.02
+Moderaterna;Sweden;18.83;1.0;18.83
+Mouvement des Citoyens pour le Changement;Belgium;26.05;1.0;26.05
+Mouvement des Citoyens pour le Changement;Belgium;9.74;1.0;9.74
+Mouvement des Citoyens pour le Changement;;26.05;1.0;26.05
+Mouvement des Citoyens pour le Changement;;9.74;1.0;9.74
+Mouvement démocrate;France;8.4;0.5;4.2
+Nacionalno dviženie za stabilnost i vazhod;Bulgaria;7.96;1.0;7.96
+Natsionalen Sayuz Ataka;Bulgaria;11.96;2.0;23.92
+Nea Dhimokratia;;32.29;1.0;32.29
+Nieuw-Vlaamse Alliantie;Belgium;6.13;1.5;9.195
+Nieuw-Vlaamse Alliantie;Belgium;9.88;1.5;14.82
+Nieuw-Vlaamse Alliantie;;6.13;1.5;9.195
+Nieuw-Vlaamse Alliantie;;9.88;1.5;14.82
+Nova Slovenija - Kršcanska Ljudska Stranka;Slovenia;16.33;0.5;8.165
+Občanská Demokratická Strana;Czechia;31.45;1.0;31.45
+Oikologoi Prasinoi;;3.49;-1.0;-3.49
+Other parties;Bulgaria;15.13;0.0;0.0
+Other parties;Czechia;24.35;0.0;0.0
+Other parties;Denmark;10.0;0.0;0.0
+Other parties;Germany;10.7;0.0;0.0
+Other parties;Ireland;25.48;0.0;0.0
+Other parties;Estonia;11.87;0.0;0.0
+Other parties;;7.37;0.0;0.0
+Other parties;Spain;5.04;0.0;0.0
+Other parties;France;13.72;0.0;0.0
+Other parties;Italy;13.44;0.0;0.0
+Other parties;Cyprus;7.32;0.0;0.0
+Other parties;Latvia;24.85;0.0;0.0
+Other parties;Lithuania;17.74;0.0;0.0
+Other parties;Luxembourg;13.92;0.0;0.0
+Other parties;Hungary;6.19;0.0;0.0
+Other parties;Malta;4.74;0.0;0.0
+Other parties;Netherlands;5.43;0.0;0.0
+Other parties;Austria;5.97;0.0;0.0
+Other parties;Poland;8.82;0.0;0.0
+Other parties;Portugal;12.04;0.0;0.0
+Other parties;Romania;7.13;0.0;0.0
+Other parties;Slovenia;16.96;0.0;0.0
+Other parties;Slovakia;14.24;0.0;0.0
+Other parties;Finland;7.8;0.0;0.0
+Other parties;Sweden;9.22;0.0;0.0
+Other parties Great Britain;;8.89;0.0;0.0
+Other parties Great Britain;;8.94;0.0;0.0
 Other parties Great Britain;United Kingdom of Great Britain and Northern Ireland;8.89;0.0;0.0
 Other parties Great Britain;United Kingdom of Great Britain and Northern Ireland;8.94;0.0;0.0
+Other parties Northern Ireland;;0.56;0.0;0.0
+Other parties Northern Ireland;;38.62;0.0;0.0
+Other parties Northern Ireland;Nicaragua;0.56;0.0;0.0
+Other parties Northern Ireland;Nicaragua;38.62;0.0;0.0
+Other parties from Dutch-speaking electoral college;Belgium;2.18;0.0;0.0
+Other parties from Dutch-speaking electoral college;Belgium;2.01;0.0;0.0
+Other parties from Dutch-speaking electoral college;;2.18;0.0;0.0
+Other parties from Dutch-speaking electoral college;;2.01;0.0;0.0
+Other parties from French-speaking electoral college;Belgium;8.63;0.0;0.0
+Other parties from French-speaking electoral college;Belgium;2.29;0.0;0.0
+Other parties from French-speaking electoral college;;8.63;0.0;0.0
+Other parties from French-speaking electoral college;;2.29;0.0;0.0
+Other parties from German-speaking electoral college;Belgium;0.1;0.0;0.0
+Other parties from German-speaking electoral college;Belgium;17.17;0.0;0.0
+Other parties from German-speaking electoral college;;0.1;0.0;0.0
+Other parties from German-speaking electoral college;;17.17;0.0;0.0
+Panellinio Sosialistiko Kinima;;36.65;-1.5;-54.974999999999994
+Parti Chrétien Social/Chrëschtlech-Sozial Vollekspartei;Luxembourg;31.33;0.5;15.665
+Parti Démocratique/Demokratesch Partei;Luxembourg;18.71;1.0;18.71
+Parti Ouvrier Socialiste Luxembourgeois/Letzeburger Socialistesch Arbeiterpartei;Luxembourg;19.2;-1.5;-28.799999999999997
+Parti Socialiste;Belgium;29.1;-1.5;-43.650000000000006
+Parti Socialiste;Belgium;10.88;-1.5;-16.32
+Parti Socialiste;;29.1;-1.5;-43.650000000000006
+Parti Socialiste;;10.88;-1.5;-16.32
+Parti Socialiste;France;16.48;-1.5;-24.72
+Partido Popular;Spain;42.23;1.5;63.345
+Partido Social Democrata;Portugal;31.71;1.0;31.71
+Partido Socialista Obrero Español;Spain;38.51;-1.5;-57.765
+Partido Socialista ;Portugal;26.53;;
+Partidul Democrat Liberal;Romania;29.71;1.0;29.71
+Partidul Național Liberal ;Romania;14.52;;
+Partidul România Mare;Romania;8.65;2.0;17.3
+Partij van de Arbeid (Europese Sociaaldemocraten);Netherlands;12.05;-1.5;-18.075000000000003
+Partij voor de Vrijheid;Netherlands;16.97;2.0;33.94
+Partija Tvarka ir teisingumas;Lithuania;12.22;1.5;18.330000000000002
+Partit Laburista;Malta;54.77;-1.0;-54.77
+Partit Nazzjonalista;Malta;40.49;1.0;40.49
+Partito Democratico;Italy;26.13;-0.5;-13.065
+Pilsoniska savieniba;Latvia;24.32;1.0;24.32
+Piratpartiet;Sweden;7.13;-0.5;-3.565
+Plaid Cymru;;0.78;-0.5;-0.39
+Plaid Cymru;;0.78;-0.5;-0.39
+Plaid Cymru;United Kingdom of Great Britain and Northern Ireland;0.78;-0.5;-0.39
+Plaid Cymru;United Kingdom of Great Britain and Northern Ireland;0.78;-0.5;-0.39
+Platforma Obywatelska;Poland;44.43;1.0;44.43
+Politisko organizáciju apvieníba 'Par cilvéka tiesíbám vienotá Latvijá';Latvia;9.66;-0.5;-4.83
+Polskie Stronnictwo Ludowe;Poland;7.01;-0.5;-3.505
+Prawo i Sprawiedliwość;Poland;27.4;1.5;41.099999999999994
+Páirtí an Lucht Oibre;Ireland;13.92;-1.5;-20.88
+Saskaņas Centrs;Latvia;19.57;-1.0;-19.57
+Scottish National Party;;2.05;-0.5;-1.025
+Scottish National Party;;2.1;-0.5;-1.05
+Scottish National Party;United Kingdom of Great Britain and Northern Ireland;2.05;-0.5;-1.025
+Scottish National Party;United Kingdom of Great Britain and Northern Ireland;2.1;-0.5;-1.05
+Sinn Fein;;0.65;-1.5;-0.9750000000000001
+Sinn Fein;;26.04;-1.5;-39.06
+Sinn Fein;Nicaragua;0.65;-1.5;-0.9750000000000001
+Sinn Fein;Nicaragua;26.04;-1.5;-39.06
+Slovenska Demokratska Stranka;Slovenia;26.92;1.0;26.92
+Slovenská demokratická a krest(anská únia - Demokratická strana;Slovakia;16.99;1.0;16.99
+Slovenská národná strana;Slovakia;5.56;2.0;11.12
+Smer - sociálna demokracia;Slovakia;32.02;-1.5;-48.03
+Socialdemokraterna;Denmark;20.9;-1.5;-31.349999999999998
+Socialist Party;Ireland;2.76;-2.0;-5.52
+Socialistische Partij;Netherlands;7.1;-2.0;-14.2
+Socialistische Partij - Anders;Belgium;8.21;-1.5;-12.315000000000001
+Socialistische Partij - Anders;Belgium;13.23;-1.5;-19.845
+Socialistische Partij - Anders;;8.21;-1.5;-12.315000000000001
+Socialistische Partij - Anders;;13.23;-1.5;-19.845
+Socialistisk Folkeparti;Denmark;15.4;-1.5;-23.1
+Socialni Demokrati;Slovenia;18.45;-1.5;-27.674999999999997
+Sojusz Lewicy Demokratycznej - Unia Pracy;Poland;12.34;-1.5;-18.509999999999998
+Sotsiaaldemokraatlik Erakond;Estonia;8.7;-1.5;-13.049999999999999
+Sozialdemokratische Partei Deutschlands;Germany;20.8;-1.5;-31.200000000000003
+Sozialdemokratische Partei Österreichs;Austria;23.74;-1.5;-35.61
+Sozialdemokratischen Partei Ostbelgiëns;Belgium;0.09;-1.5;-0.135
+Sozialdemokratischen Partei Ostbelgiëns;Belgium;14.63;-1.5;-21.945
+Sozialdemokratischen Partei Ostbelgiëns;;0.09;-1.5;-0.135
+Sozialdemokratischen Partei Ostbelgiëns;;14.63;-1.5;-21.945
+Suomen Keskusta/Centern i Finland;Finland;19.0;-0.5;-9.5
+Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti;Finland;17.5;-1.5;-26.25
+Svenska folkpartiet i Finland;Finland;6.1;1.0;6.1
+Sveriges Socialdemokratiska arbetarparti - Socialdemokraterna;Sweden;24.41;-1.5;-36.615
+Synaspismós Rizospastikís Aristerás;;4.7;-2.0;-9.4
+Südtiroler Volkspartei;Italy;0.46;0.5;0.23
+Săjuz na Demokratičnite Sili;Bulgaria;7.95;1.0;7.95
+Tevynes sajunga - Lietuvos krikšcionys demokratai;Lithuania;26.86;1.0;26.86
+UK Independence Party;;16.09;2.0;32.18
+UK Independence Party;;16.5;2.0;33.0
+UK Independence Party;United Kingdom of Great Britain and Northern Ireland;16.09;2.0;32.18
+UK Independence Party;United Kingdom of Great Britain and Northern Ireland;16.5;2.0;33.0
+Ulster Conservatives and Unionists - New Force;;0.43;1.5;0.645
+Ulster Conservatives and Unionists - New Force;;17.11;1.5;25.665
+Ulster Conservatives and Unionists - New Force;Nicaragua;0.43;1.5;0.645
+Ulster Conservatives and Unionists - New Force;Nicaragua;17.11;1.5;25.665
+Union pour un Mouvement Populaire;France;27.8;1.0;27.8
+Unione dei Democratici Cristiani e di Centro;Italy;6.51;0.5;3.255
+Uniunea Democrată Maghiară din România;Romania;8.92;0.5;4.46
+Unión, Progreso y Democracia;Spain;2.87;0.5;1.435
+VAALILIITOSSA - I VALFÖRBUND;Finland;14.0;0.0;0.0
+Venstre;Denmark;19.6;1.0;19.6
+Vihreä Liitto/Gröna Förbundet;Finland;12.4;-1.0;-12.4
+Vlaams Belang;Belgium;9.85;2.0;19.7
+Vlaams Belang;Belgium;15.88;2.0;31.76
+Vlaams Belang;;9.85;2.0;19.7
+Vlaams Belang;;15.88;2.0;31.76
+Vlaamse Liberalen en Democraten;Belgium;12.75;1.0;12.75
+Vlaamse Liberalen en Democraten;Belgium;20.56;1.0;20.56
+Vlaamse Liberalen en Democraten;;12.75;1.0;12.75
+Vlaamse Liberalen en Democraten;;20.56;1.0;20.56
+Volkspartij voor Vrijheid en Democratie;Netherlands;11.39;1.0;11.39
+Vänsterpartiet;Sweden;5.66;-2.0;-11.32
+ZARES;Slovenia;9.82;-0.5;-4.91
+ecolo (G);Belgium;0.09;-1.0;-0.09
+ecolo (G);Belgium;15.58;-1.0;-15.58
+ecolo (G);;0.09;-1.0;-0.09
+ecolo (G);;15.58;-1.0;-15.58
+ Italia dei Valori - Lista Di Pietro;Italy;8.0;;
+Österreichische Volkspartei;Austria;29.98;1.0;29.98

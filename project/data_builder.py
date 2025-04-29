@@ -52,7 +52,7 @@ def build_data(year, transformed=False):
     parties_scored = pandas.read_csv(f'/home/mhetac/Documents/GitHub/data15003/project/data/Ai/parties_scored_{year}.csv', sep=';')
 
     # join on LABEL the whole thing plus temperatures df 
-    parties_countries_percentage = pandas.merge(parties_countries_percentage, parties_scored, left_on='LABEL', right_on='LABEL', how='inner')
+    parties_countries_percentage = pandas.merge(parties_countries_percentage, parties_scored, left_on='LABEL', right_on='LABEL', how='outer')
 
 
     # drop useless rows
@@ -133,12 +133,23 @@ def build_net_earnings():
 
     filtered_earnings.to_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_net_earnings.csv', index=False, sep=';')
 
+def build_immigration():
+    migri_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/immigration.csv', sep=',')
 
-build_data(2024)
-build_data(2019)
-build_data(2014)
-build_data(2009)
+    filtered_migri = migri_df[(migri_df['age']=='Total') & (migri_df['sex']=='Total') & (migri_df['agedef']=='Age reached during the year')]
 
-merge_all()
+    filtered_migri = filtered_migri[['geo', 'TIME_PERIOD', 'OBS_VALUE']]
+    filtered_migri.rename(columns={'geo': 'COUNTRY_NAME', 'TIME_PERIOD': 'YEAR', 'OBS_VALUE': 'IMMIGRATION'}, inplace=True)
 
-build_net_earnings()
+    filtered_migri.to_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_immigration.csv', index=False, sep=';')
+
+# build_data(2024)
+# build_data(2019)
+# build_data(2014)
+# build_data(2009)
+# 
+# merge_all()
+# 
+# build_net_earnings()
+
+build_immigration()
