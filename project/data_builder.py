@@ -141,6 +141,22 @@ def build_immigration():
     filtered_migri = filtered_migri[['geo', 'TIME_PERIOD', 'OBS_VALUE']]
     filtered_migri.rename(columns={'geo': 'COUNTRY_NAME', 'TIME_PERIOD': 'YEAR', 'OBS_VALUE': 'IMMIGRATION'}, inplace=True)
 
+    # remove useless rows
+    filtered_migri = filtered_migri[filtered_migri['COUNTRY_NAME'] != 'European Union - 27 countries (from 2020)']
+
+
+    # Calculate average immigration per year
+    avg_df = filtered_migri.groupby('YEAR', as_index=False)['IMMIGRATION'].mean()
+
+    # Add a placeholder country name
+    avg_df['COUNTRY_NAME'] = 'Europe Average'
+
+    # Reorder columns to match original DataFrame
+    avg_df = avg_df[['COUNTRY_NAME', 'YEAR', 'IMMIGRATION']]
+
+    # Append to original DataFrame
+    filtered_migri = pandas.concat([filtered_migri, avg_df], ignore_index=True)
+
     filtered_migri.to_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_immigration.csv', index=False, sep=';')
 
 # build_data(2024)
