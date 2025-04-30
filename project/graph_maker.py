@@ -15,7 +15,7 @@ annual_poverty_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/pro
 linegraph_datasets = {
     'Net Earnings': annual_net_earnings_df,
     'Immigration': annual_immigration_df,
-    'Poverty': annual_poverty_df
+    'Poverty Risk': annual_poverty_df
 }
 
 app = Dash()
@@ -201,7 +201,7 @@ def update_linegraph(clickData, selected_year, selected_dataset):
             yaxis=dict(title='Immigration'),
         )
 
-    elif selected_dataset == 'Poverty':
+    elif selected_dataset == 'Poverty Risk':
         if clickData is not None:
             country_clicked = clickData['points'][0]['location']
             line_df=dataset.loc[dataset['COUNTRY_NAME'] == country_clicked]
@@ -249,7 +249,7 @@ def update_linegraph(clickData, selected_year, selected_dataset):
         fig.update_layout(
             title='Poverty risk over time',
             xaxis=dict(title='Year'),
-            yaxis=dict(title='Poverty risk', range=[0, 13]),
+            yaxis=dict(title='Poverty risk %', range=[0, 13]),
         )
 
     return fig
