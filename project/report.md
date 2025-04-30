@@ -62,3 +62,7 @@ Many different options to choose from, taken the following:
 - ecase: Single person without children earning 100% of the average earning
 - currency: Euro
 
+### Immigration
+
+Did not lock the scale of the line graph otherwise some values would not have been readable, since some countries need a scale between [0, 2M] and some between [0, 200k]. The EU average is present to give the user a sense of scale and difference.  
+

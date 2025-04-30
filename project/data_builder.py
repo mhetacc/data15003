@@ -133,6 +133,8 @@ def build_net_earnings():
 
     filtered_earnings.to_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_net_earnings.csv', index=False, sep=';')
 
+
+
 def build_immigration():
     migri_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/immigration.csv', sep=',')
 
@@ -159,6 +161,44 @@ def build_immigration():
 
     filtered_migri.to_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_immigration.csv', index=False, sep=';')
 
+def build_poverty():
+    poverty_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/poverty_risk.csv', sep=',')
+
+    print('dioputrido ', poverty_df.columns)
+
+    filtered_poverty= poverty_df[(poverty_df['age']=='Total') & (poverty_df['sex']=='Total') & (poverty_df['indic_il']=='At persistent risk of poverty rate by age and gender (cut-off point: 40% of mean equivalised income)')]
+
+    filtered_poverty = filtered_poverty[['geo', 'TIME_PERIOD', 'OBS_VALUE']]
+
+    filtered_poverty.rename(columns={'geo': 'COUNTRY_NAME', 'TIME_PERIOD': 'YEAR', 'OBS_VALUE': 'POVERTY_RISK'}, inplace=True)
+
+
+    # remove useless rows
+    filtered_poverty = filtered_poverty[filtered_poverty['COUNTRY_NAME'] != 'European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)']
+
+
+    countries_to_remove = ['European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)', 'European Union - 15 countries (1995-2004)', 'European Union - 27 countries (2007-2013)', 'European Union - 27 countries (from 2020)','European Union - 28 countries (2013-2020)','Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)','Euro area - 18 countries (2014)', 'Euro area - 19 countries  (2015-2022)','Euro area – 20 countries (from 2023)']
+    filtered_poverty = filtered_poverty[~filtered_poverty['COUNTRY_NAME'].isin(countries_to_remove)]
+
+    # calculate average poverty risk per year
+
+    # Calculate average immigration per year
+    avg_df = filtered_poverty.groupby('YEAR', as_index=False)['POVERTY_RISK'].mean()
+
+    # Add a placeholder country name
+    avg_df['COUNTRY_NAME'] = 'Europe Average'
+
+    # Reorder columns to match original DataFrame
+    avg_df = avg_df[['COUNTRY_NAME', 'YEAR', 'POVERTY_RISK']]
+
+    # Append to original DataFrame
+    filtered_poverty = pandas.concat([filtered_poverty, avg_df], ignore_index=True)
+
+
+    filtered_poverty.to_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_poverty.csv', index=False, sep=';')
+
+
+
 # build_data(2024)
 # build_data(2019)
 # build_data(2014)
@@ -168,4 +208,6 @@ def build_immigration():
 # 
 # build_net_earnings()
 
-build_immigration()
+# build_immigration()
+
+build_poverty()

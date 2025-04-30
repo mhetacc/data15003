@@ -10,9 +10,12 @@ annual_net_earnings_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data1500
 
 annual_immigration_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_immigration.csv', sep=';')
 
+annual_poverty_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_poverty.csv', sep=';')
+
 linegraph_datasets = {
     'Net Earnings': annual_net_earnings_df,
-    'Immigration': annual_immigration_df
+    'Immigration': annual_immigration_df,
+    'Poverty': annual_poverty_df
 }
 
 app = Dash()
@@ -197,8 +200,57 @@ def update_linegraph(clickData, selected_year, selected_dataset):
             xaxis=dict(title='Year'),
             yaxis=dict(title='Immigration'),
         )
-    else:
-        pass
+
+    elif selected_dataset == 'Poverty':
+        if clickData is not None:
+            country_clicked = clickData['points'][0]['location']
+            line_df=dataset.loc[dataset['COUNTRY_NAME'] == country_clicked]
+
+        avg_df = dataset.loc[dataset['COUNTRY_NAME'] == 'Europe Average']
+
+        fig = plotly.graph_objects.Figure()
+
+        # dynamic line
+        if clickData is not None and not line_df.empty:
+            fig.add_trace(
+                plotly.graph_objects.Scatter(
+                    x=line_df['YEAR'],
+                    y=line_df['POVERTY_RISK'],
+                    mode='lines+markers',
+                    name=country_clicked,
+                    marker=dict(color='blue'),
+                )
+            )
+
+        # average line
+        if not avg_df.empty:
+            fig.add_trace(
+                plotly.graph_objects.Scatter(
+                    x=avg_df['YEAR'],
+                    y=avg_df['POVERTY_RISK'],
+                    mode='lines+markers',
+                    name='EU Average',
+                    marker=dict(color='red'),
+                )
+            )
+
+        # add year vertical line
+        fig.add_shape(
+            type='line',
+            x0=selected_year,
+            y0=0,
+            x1=selected_year,
+            y1=1,
+            yref='paper',
+            line=dict(color='black', width=2, dash='dash'),
+            name='Selected Year'
+        )
+
+        fig.update_layout(
+            title='Poverty risk over time',
+            xaxis=dict(title='Year'),
+            yaxis=dict(title='Poverty risk', range=[0, 13]),
+        )
 
     return fig
 
