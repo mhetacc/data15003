@@ -71,10 +71,10 @@ app.layout = [
         options=[{'label': name, 'value': name} for name in linegraph_datasets.keys()],
         value='Net Earnings'
     ),
-    dcc.Graph(id='linegraph'),
-    dash_table.DataTable(
-        data=countries_temp_df
-        .to_dict('records'))
+    dcc.Graph(id='linegraph')
+    # dash_table.DataTable(
+    #     data=countries_temp_df
+    #     .to_dict('records'))
 ]
 
 
