@@ -245,12 +245,12 @@ NI,UK08,PARTY,SF,Sinn Fein,,,Nicaragua,NI,NIC,558.0,ISO 3166-2:NI,Americas,Latin
 NI,UK07,PARTY,UUP,Ulster Conservatives and Unionists - New Force,,,Nicaragua,NI,NIC,558.0,ISO 3166-2:NI,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
 NI,UK12,PARTY,DUP,Democratic Unionist Party,,,Nicaragua,NI,NIC,558.0,ISO 3166-2:NI,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
 NI,UK90,PARTY,Other parties NI,Other parties Northern Ireland,,,Nicaragua,NI,NIC,558.0,ISO 3166-2:NI,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
-GB,UK01,PARTY,Lab.,Labour Party,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-GB,UK02,PARTY,LD,Liberal Democrats ,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-GB,UK06,PARTY,Cons.,Conservative Party ,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-GB,UK09,PARTY,UKIP,UK Independence Party,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-GB,UK11,PARTY,BNP,British National Party,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-GB,UK03,PARTY,SNP,Scottish National Party,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-GB,UK04,PARTY,GP,Green Party of England and Wales,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-GB,UK05,PARTY,PC,Plaid Cymru,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-GB,UK91,PARTY,Other parties GB,Other parties Great Britain,,,United Kingdom of Great Britain and Northern Ireland,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK01,PARTY,Lab.,Labour Party,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK02,PARTY,LD,Liberal Democrats ,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK06,PARTY,Cons.,Conservative Party ,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK09,PARTY,UKIP,UK Independence Party,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK11,PARTY,BNP,British National Party,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK03,PARTY,SNP,Scottish National Party,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK04,PARTY,GP,Green Party of England and Wales,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK05,PARTY,PC,Plaid Cymru,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+GB,UK91,PARTY,Other parties GB,Other parties Great Britain,,,United Kingdom,GB,GBR,826.0,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,

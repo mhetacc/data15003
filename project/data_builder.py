@@ -164,8 +164,6 @@ def build_immigration():
 def build_poverty():
     poverty_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/poverty_risk.csv', sep=',')
 
-    print('dioputrido ', poverty_df.columns)
-
     filtered_poverty= poverty_df[(poverty_df['age']=='Total') & (poverty_df['sex']=='Total') & (poverty_df['indic_il']=='At persistent risk of poverty rate by age and gender (cut-off point: 40% of mean equivalised income)')]
 
     filtered_poverty = filtered_poverty[['geo', 'TIME_PERIOD', 'OBS_VALUE']]
@@ -199,15 +197,14 @@ def build_poverty():
 
 
 
-# build_data(2024)
-# build_data(2019)
-# build_data(2014)
-# build_data(2009)
-# 
-# merge_all()
-# 
-# build_net_earnings()
+build_data(2024)
+build_data(2019)
+build_data(2014)
+build_data(2009)
 
-# build_immigration()
+merge_all()
+
+build_net_earnings()
+build_immigration()
 
 build_poverty()

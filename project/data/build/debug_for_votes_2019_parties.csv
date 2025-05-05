@@ -17,8 +17,8 @@ Bandić Milan 365 - Stranka rada i solidarnosti;Croatia;1.97;-0.5;-0.985
 Bloco de Esquerda;Portugal;10.56;-2.0;-21.12
 Brexit Party;;30.79;2.0;61.58
 Brexit Party;;31.6;2.0;63.2
-Brexit Party;United Kingdom of Great Britain and Northern Ireland;30.79;2.0;61.58
-Brexit Party;United Kingdom of Great Britain and Northern Ireland;31.6;2.0;63.2
+Brexit Party;United Kingdom;30.79;2.0;61.58
+Brexit Party;United Kingdom;31.6;2.0;63.2
 Bulgarska sotsialisticheska partiya/Българска социалистическа партия;Bulgaria;24.26;-1.5;-36.39
 Bündnis 90/Die Grünen;Germany;20.5;-1.0;-20.5
 CDS - Partido Popular;Portugal;6.65;1.5;9.975000000000001
@@ -30,8 +30,8 @@ Centre Démocrate Humaniste;;8.94;-0.5;-4.47
 Centre Démocrate Humaniste;;3.41;-0.5;-1.705
 Change UK;;3.31;0.0;0.0
 Change UK;;3.4;0.0;0.0
-Change UK;United Kingdom of Great Britain and Northern Ireland;3.31;0.0;0.0
-Change UK;United Kingdom of Great Britain and Northern Ireland;3.4;0.0;0.0
+Change UK;United Kingdom;3.31;0.0;0.0
+Change UK;United Kingdom;3.4;0.0;0.0
 Christen-Democratisch & Vlaams;Belgium;8.9;0.5;4.45
 Christen-Democratisch & Vlaams;Belgium;14.53;0.5;7.265
 Christen-Democratisch & Vlaams;;8.9;0.5;4.45
@@ -77,8 +77,8 @@ Coaltion (Magyar Szocialista Párt + Párbeszéd Magyarországért);Hungary;6.61
 Coligação Democrática Unitária (Partido Comunista Português + Partido Ecologista os Verdes);Portugal;7.41;-2.0;-14.82
 Conservative and Unionist Party;;8.86;1.5;13.29
 Conservative and Unionist Party;;9.09;1.5;13.635
-Conservative and Unionist Party;United Kingdom of Great Britain and Northern Ireland;8.86;1.5;13.29
-Conservative and Unionist Party;United Kingdom of Great Britain and Northern Ireland;9.09;1.5;13.635
+Conservative and Unionist Party;United Kingdom;8.86;1.5;13.29
+Conservative and Unionist Party;United Kingdom;9.09;1.5;13.635
 DENK;Netherlands;1.1;-1.0;-1.1
 DIE LINKE;Germany;5.5;-2.0;-11.0
 Dansk Folkeparti;Denmark;10.76;2.0;21.52
@@ -138,8 +138,8 @@ Green Party;Ireland;11.37;-1.0;-11.37
 Green Party;Ireland;11.37;-1.0;-11.37
 Green Party;;11.78;;
 Green Party;;12.09;;
-Green Party;United Kingdom of Great Britain and Northern Ireland;11.78;;
-Green Party;United Kingdom of Great Britain and Northern Ireland;12.09;;
+Green Party;United Kingdom;11.78;;
+Green Party;United Kingdom;12.09;;
 Groen;Belgium;7.57;-1.0;-7.57
 Groen;Belgium;12.37;-1.0;-12.37
 Groen;;7.57;-1.0;-7.57
@@ -176,8 +176,8 @@ LEVICA;Slovenia;6.43;-2.0;-12.86
 Labour Party;Ireland;3.14;-1.0;-3.14
 Labour Party;;13.74;-1.0;-13.74
 Labour Party;;14.1;-1.0;-14.1
-Labour Party;United Kingdom of Great Britain and Northern Ireland;13.74;-1.0;-13.74
-Labour Party;United Kingdom of Great Britain and Northern Ireland;14.1;-1.0;-14.1
+Labour Party;United Kingdom;13.74;-1.0;-13.74
+Labour Party;United Kingdom;14.1;-1.0;-14.1
 Latviešu Nacionālisti;Latvia;0.67;2.0;1.34
 Latvijas Krievu savienībā;Latvia;6.24;0.5;3.12
 Latvijas Reģionu apvienība;Latvia;4.98;0.5;2.49
@@ -188,8 +188,8 @@ Les Républicains - Union de la droite et du centre;France;8.48;1.5;12.72
 Liberal Alliance;Denmark;2.2;1.0;2.2
 Liberal Democrats;;19.78;0.5;9.89
 Liberal Democrats;;20.3;0.5;10.15
-Liberal Democrats;United Kingdom of Great Britain and Northern Ireland;19.78;0.5;9.89
-Liberal Democrats;United Kingdom of Great Britain and Northern Ireland;20.3;0.5;10.15
+Liberal Democrats;United Kingdom;19.78;0.5;9.89
+Liberal Democrats;United Kingdom;20.3;0.5;10.15
 Liberalerna;Sweden;4.13;1.0;4.13
 Lietuvos Centro Partija;Lithuania;5.13;0.0;0.0
 Lietuvos Respublikos liberalų sąjūdis;Lithuania;6.59;1.0;6.59
@@ -253,8 +253,8 @@ Other parties;Sweden;1.73;0.0;0.0
 Other parties;Croatia;8.09;0.0;0.0
 Other parties Great Britain;;1.48;0.0;0.0
 Other parties Great Britain;;1.52;0.0;0.0
-Other parties Great Britain;United Kingdom of Great Britain and Northern Ireland;1.48;0.0;0.0
-Other parties Great Britain;United Kingdom of Great Britain and Northern Ireland;1.52;0.0;0.0
+Other parties Great Britain;United Kingdom;1.48;0.0;0.0
+Other parties Great Britain;United Kingdom;1.52;0.0;0.0
 Other parties Northern Ireland;;0.1;0.0;0.0
 Other parties Northern Ireland;;3.7;0.0;0.0
 Other parties Northern Ireland;Nicaragua;0.1;0.0;0.0
@@ -319,8 +319,8 @@ Piratenpartei Deutschland;Germany;0.7;-0.5;-0.35
 Piratepartei/Parti pirate;Luxembourg;7.7;-0.5;-3.85
 Plaid Cymru - Party of Wales;;0.97;-0.5;-0.485
 Plaid Cymru - Party of Wales;;1.0;-0.5;-0.5
-Plaid Cymru - Party of Wales;United Kingdom of Great Britain and Northern Ireland;0.97;-0.5;-0.485
-Plaid Cymru - Party of Wales;United Kingdom of Great Britain and Northern Ireland;1.0;-0.5;-0.5
+Plaid Cymru - Party of Wales;United Kingdom;0.97;-0.5;-0.485
+Plaid Cymru - Party of Wales;United Kingdom;1.0;-0.5;-0.5
 Polska Fair Play Bezpartyjni Gwiazdowski ;Poland;0.54;;
 Povežimo se;Slovenia;1.66;0.0;0.0
 Prawo i Sprawiedliwość;Poland;45.38;1.5;68.07000000000001
@@ -338,8 +338,8 @@ STAROSTOVÉ (STAN) s regionálními partnery a TOP 09;Czechia;11.65;1.0;11.65
 Saskaņa Sociāldemokrātiskā partija;Latvia;17.45;-1.5;-26.174999999999997
 Scottish National Party;;3.51;-0.5;-1.755
 Scottish National Party;;3.6;-0.5;-1.8
-Scottish National Party;United Kingdom of Great Britain and Northern Ireland;3.51;-0.5;-1.755
-Scottish National Party;United Kingdom of Great Britain and Northern Ireland;3.6;-0.5;-1.8
+Scottish National Party;United Kingdom;3.51;-0.5;-1.755
+Scottish National Party;United Kingdom;3.6;-0.5;-1.8
 Sininen tulevaisuus;Finland;0.3;1.5;0.44999999999999996
 Sinn Féin;Ireland;11.68;-1.5;-17.52
 Sinn Féin;;0.59;-1.5;-0.885
@@ -394,8 +394,8 @@ Ulster Unionist Party;Nicaragua;9.3;1.5;13.950000000000001
 Union des Démocrates et Indépendants;France;2.5;0.5;1.25
 United Kingdom Independence Party;;3.22;2.0;6.44
 United Kingdom Independence Party;;3.3;2.0;6.6
-United Kingdom Independence Party;United Kingdom of Great Britain and Northern Ireland;3.22;2.0;6.44
-United Kingdom Independence Party;United Kingdom of Great Britain and Northern Ireland;3.3;2.0;6.6
+United Kingdom Independence Party;United Kingdom;3.22;2.0;6.44
+United Kingdom Independence Party;United Kingdom;3.3;2.0;6.6
 VMRO - Bulgarsko Natsionalno Dvizhenie / ВМРО - Българско национално движение;Bulgaria;7.36;1.5;11.040000000000001
 VOLT;Germany;0.7;-0.5;-0.35
 VOX;Spain;6.28;2.0;12.56

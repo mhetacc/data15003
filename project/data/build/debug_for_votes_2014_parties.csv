@@ -42,8 +42,8 @@ Coalition l'Alternative (Union des Démocrates et Indépendants + Mouvement Dém
 Coligação Democrática Unitária (Partido Comunista Português + Partido Ecologista os Verdes);Portugal;13.71;-2.0;-27.42
 Conservative Party;;23.31;1.5;34.964999999999996
 Conservative Party;;23.93;1.5;35.894999999999996
-Conservative Party;United Kingdom of Great Britain and Northern Ireland;23.31;1.5;34.964999999999996
-Conservative Party;United Kingdom of Great Britain and Northern Ireland;23.93;1.5;35.894999999999996
+Conservative Party;United Kingdom;23.31;1.5;34.964999999999996
+Conservative Party;United Kingdom;23.93;1.5;35.894999999999996
 Dansk Folkeparti;Denmark;26.6;2.0;53.2
 Darbo partija;Lithuania;12.81;-0.5;-6.405
 Das neue Österreich;Austria;8.14;0.0;0.0
@@ -80,8 +80,8 @@ Freiheitliche Partei Österreichs;Austria;19.72;2.0;39.44
 Front national;France;24.86;2.0;49.72
 Green Party;;7.67;-1.0;-7.67
 Green Party;;7.87;-1.0;-7.87
-Green Party of England and Wales;United Kingdom of Great Britain and Northern Ireland;7.67;-1.0;-7.67
-Green Party of England and Wales;United Kingdom of Great Britain and Northern Ireland;7.87;-1.0;-7.87
+Green Party of England and Wales;United Kingdom;7.67;-1.0;-7.67
+Green Party of England and Wales;United Kingdom;7.87;-1.0;-7.87
 Groen;Belgium;6.69;-1.0;-6.69
 Groen;Belgium;10.62;-1.0;-10.62
 Groen;;6.69;-1.0;-6.69
@@ -100,15 +100,15 @@ Kresťanskodemokratické hnutie;Slovakia;13.21;0.5;6.605
 Kristdemokraterna;Sweden;5.93;0.5;2.965
 Labour Party;;24.74;-1.0;-24.74
 Labour Party;;25.4;-1.0;-25.4
-Labour Party;United Kingdom of Great Britain and Northern Ireland;24.74;-1.0;-24.74
-Labour Party;United Kingdom of Great Britain and Northern Ireland;25.4;-1.0;-25.4
+Labour Party;United Kingdom;24.74;-1.0;-24.74
+Labour Party;United Kingdom;25.4;-1.0;-25.4
 Latvijas Krievu savienībā;Latvia;6.38;0.5;3.19
 Lega Nord;Italy;6.15;2.0;12.3
 Lehet Más a Politika;Hungary;5.04;-1.0;-5.04
 Liberal Democrats;;6.69;0.5;3.345
 Liberal Democrats;;6.87;0.5;3.435
-Liberal Democrats;United Kingdom of Great Britain and Northern Ireland;6.69;0.5;3.345
-Liberal Democrats;United Kingdom of Great Britain and Northern Ireland;6.87;0.5;3.435
+Liberal Democrats;United Kingdom;6.69;0.5;3.345
+Liberal Democrats;United Kingdom;6.87;0.5;3.435
 Lietuvos Respublikos liberalų sąjūdis;Lithuania;16.55;1.0;16.55
 Lietuvos Valstiečių ir Žaliųjų Sąjunga;Lithuania;6.61;-0.5;-3.305
 Lietuvos lenkų rinkimų akcija;Lithuania;8.05;0.5;4.025
@@ -165,8 +165,8 @@ Other parties;Finland;7.1;0.0;0.0
 Other parties;Sweden;2.96;0.0;0.0
 Other parties Great Britain;;5.47;0.0;0.0
 Other parties Great Britain;;5.27;0.0;0.0
-Other parties Great Britain;United Kingdom of Great Britain and Northern Ireland;5.47;0.0;0.0
-Other parties Great Britain;United Kingdom of Great Britain and Northern Ireland;5.27;0.0;0.0
+Other parties Great Britain;United Kingdom;5.47;0.0;0.0
+Other parties Great Britain;United Kingdom;5.27;0.0;0.0
 Other parties Northern Ireland;;0.71;0.0;0.0
 Other parties Northern Ireland;;40.2;0.0;0.0
 Other parties Northern Ireland;Nicaragua;0.71;0.0;0.0
@@ -209,8 +209,8 @@ Perussuomalaiset/Sannfinländarna;Finland;12.9;2.0;25.8
 Piratenpartei Deutschland;Germany;1.4;-0.5;-0.7
 Plaid Cymru - Party of Wales;;0.69;-0.5;-0.345
 Plaid Cymru - Party of Wales;;0.71;-0.5;-0.355
-Plaid Cymru - Party of Wales;United Kingdom of Great Britain and Northern Ireland;0.69;-0.5;-0.345
-Plaid Cymru - Party of Wales;United Kingdom of Great Britain and Northern Ireland;0.71;-0.5;-0.355
+Plaid Cymru - Party of Wales;United Kingdom;0.69;-0.5;-0.345
+Plaid Cymru - Party of Wales;United Kingdom;0.71;-0.5;-0.355
 Platforma Obywatelska;Poland;32.13;1.0;32.13
 Polskie Stronnictwo Ludowe;Poland;6.8;-0.5;-3.4
 Por la Democracia Social;Spain;7.98;-1.0;-7.98
@@ -220,8 +220,8 @@ SMER - Sociálna demokracia;Slovakia;24.09;-1.5;-36.135
 Saskaņa sociāldemokrātiskā partija;Latvia;13.04;-1.5;-19.56
 Scottish National Party;;2.4;-0.5;-1.2
 Scottish National Party;;2.46;-0.5;-1.23
-Scottish National Party;United Kingdom of Great Britain and Northern Ireland;2.4;-0.5;-1.2
-Scottish National Party;United Kingdom of Great Britain and Northern Ireland;2.46;-0.5;-1.23
+Scottish National Party;United Kingdom;2.4;-0.5;-1.2
+Scottish National Party;United Kingdom;2.46;-0.5;-1.23
 Sinn Fein;;0.66;-1.5;-0.99
 Sinn Fein;;25.52;-1.5;-38.28
 Sinn Fein;Nicaragua;0.66;-1.5;-0.99
@@ -258,8 +258,8 @@ Union pour les Outre-Mer;France;0.0;0.0;0.0
 Union pour un Mouvement Populaire;France;20.81;1.0;20.81
 United Kingdom Independence Party;;26.77;2.0;53.54
 United Kingdom Independence Party;;27.49;2.0;54.98
-United Kingdom Independence Party;United Kingdom of Great Britain and Northern Ireland;26.77;2.0;53.54
-United Kingdom Independence Party;United Kingdom of Great Britain and Northern Ireland;27.49;2.0;54.98
+United Kingdom Independence Party;United Kingdom;26.77;2.0;53.54
+United Kingdom Independence Party;United Kingdom;27.49;2.0;54.98
 Uniunea Democrată Maghiară din România;Romania;6.3;0.5;3.15
 Unión Progreso y Democracia;Spain;6.51;0.5;3.255
 Vasemmistoliitto/Vänsterförbundet;Finland;9.3;-2.0;-18.6

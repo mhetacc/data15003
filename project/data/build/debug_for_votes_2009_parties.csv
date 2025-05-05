@@ -9,8 +9,8 @@ Anorthotikon Komma Ergazomenou Laou;Cyprus;34.9;-1.5;-52.349999999999994
 Apvieníba 'Tévzemei un Brívíbai'/LNNK ;Latvia;7.45;;
 Bloco de Esquerda;Portugal;10.72;-2.0;-21.44
 British National Party;;6.04;2.0;12.08
-British National Party;United Kingdom of Great Britain and Northern Ireland;0.46;2.0;0.92
-British National Party;United Kingdom of Great Britain and Northern Ireland;6.2;2.0;12.4
+British National Party;United Kingdom;0.46;2.0;0.92
+British National Party;United Kingdom;6.2;2.0;12.4
 Bulgarska sotsialisticheska partiya;Bulgaria;18.5;-1.5;-27.75
 Bündnis 90/Die Grünen;Germany;12.1;-1.0;-12.1
 Băsescu Elena;Romania;4.22;0.5;2.11
@@ -37,8 +37,8 @@ Christlich-Soziale Union;Germany;7.2;1.0;7.2
 Coalición por Europa;Spain;5.12;0.5;2.56
 Conservative Party ;;27.0;;
 Conservative Party ;;27.7;;
-Conservative Party ;United Kingdom of Great Britain and Northern Ireland;27.0;;
-Conservative Party ;United Kingdom of Great Britain and Northern Ireland;27.7;;
+Conservative Party ;United Kingdom;27.0;;
+Conservative Party ;United Kingdom;27.7;;
 Dansk Folkeparti;Denmark;14.8;2.0;29.6
 Darbo partija;Lithuania;8.79;-0.5;-4.395
 Democratic Unionist Party;;0.46;1.5;0.6900000000000001
@@ -71,8 +71,8 @@ Front de gauche pour changer d'Europe;France;6.0;-2.0;-12.0
 Grazhdani za evropeysko razvitie na Balgariya;Bulgaria;24.36;1.0;24.36
 Green Party of England and Wales;;8.38;-1.0;-8.38
 Green Party of England and Wales;;8.38;-1.0;-8.38
-Green Party of England and Wales;United Kingdom of Great Britain and Northern Ireland;8.38;-1.0;-8.38
-Green Party of England and Wales;United Kingdom of Great Britain and Northern Ireland;8.38;-1.0;-8.38
+Green Party of England and Wales;United Kingdom;8.38;-1.0;-8.38
+Green Party of England and Wales;United Kingdom;8.38;-1.0;-8.38
 Groen!;Belgium;4.9;-1.0;-4.9
 Groen!;Belgium;7.9;-1.0;-7.9
 Groen!;;4.9;-1.0;-4.9
@@ -94,15 +94,15 @@ Krestanskodemokratické hnutie;Slovakia;10.87;0.5;5.435
 Kristdemokraterna;Sweden;4.68;0.5;2.34
 Labour Party;;15.31;-1.0;-15.31
 Labour Party;;15.7;-1.0;-15.7
-Labour Party;United Kingdom of Great Britain and Northern Ireland;15.31;-1.0;-15.31
-Labour Party;United Kingdom of Great Britain and Northern Ireland;15.7;-1.0;-15.7
+Labour Party;United Kingdom;15.31;-1.0;-15.31
+Labour Party;United Kingdom;15.7;-1.0;-15.7
 Latvijas Pirma- Partija/Latvijas Cels;Latvia;7.49;1.0;7.49
 Laïkós Orthódoxos Synagermós;;7.15;2.0;14.3
 Lega Nord;Italy;10.2;2.0;20.4
 Liberal Democrats ;;13.36;;
 Liberal Democrats ;;13.7;;
-Liberal Democrats ;United Kingdom of Great Britain and Northern Ireland;13.36;;
-Liberal Democrats ;United Kingdom of Great Britain and Northern Ireland;13.7;;
+Liberal Democrats ;United Kingdom;13.36;;
+Liberal Democrats ;United Kingdom;13.7;;
 Liberalna Demokracija Slovenije;Slovenia;11.52;1.0;11.52
 Libertas (Mouvement pour la France, Chasse Pêche Nature et Tradition);France;4.6;1.5;6.8999999999999995
 Lietuvos Respublikos liberalu sajudis;Lithuania;7.36;1.0;7.36
@@ -162,8 +162,8 @@ Other parties;Finland;7.8;0.0;0.0
 Other parties;Sweden;9.22;0.0;0.0
 Other parties Great Britain;;8.89;0.0;0.0
 Other parties Great Britain;;8.94;0.0;0.0
-Other parties Great Britain;United Kingdom of Great Britain and Northern Ireland;8.89;0.0;0.0
-Other parties Great Britain;United Kingdom of Great Britain and Northern Ireland;8.94;0.0;0.0
+Other parties Great Britain;United Kingdom;8.89;0.0;0.0
+Other parties Great Britain;United Kingdom;8.94;0.0;0.0
 Other parties Northern Ireland;;0.56;0.0;0.0
 Other parties Northern Ireland;;38.62;0.0;0.0
 Other parties Northern Ireland;Nicaragua;0.56;0.0;0.0
@@ -206,8 +206,8 @@ Pilsoniska savieniba;Latvia;24.32;1.0;24.32
 Piratpartiet;Sweden;7.13;-0.5;-3.565
 Plaid Cymru;;0.78;-0.5;-0.39
 Plaid Cymru;;0.78;-0.5;-0.39
-Plaid Cymru;United Kingdom of Great Britain and Northern Ireland;0.78;-0.5;-0.39
-Plaid Cymru;United Kingdom of Great Britain and Northern Ireland;0.78;-0.5;-0.39
+Plaid Cymru;United Kingdom;0.78;-0.5;-0.39
+Plaid Cymru;United Kingdom;0.78;-0.5;-0.39
 Platforma Obywatelska;Poland;44.43;1.0;44.43
 Politisko organizáciju apvieníba 'Par cilvéka tiesíbám vienotá Latvijá';Latvia;9.66;-0.5;-4.83
 Polskie Stronnictwo Ludowe;Poland;7.01;-0.5;-3.505
@@ -216,8 +216,8 @@ Páirtí an Lucht Oibre;Ireland;13.92;-1.5;-20.88
 Saskaņas Centrs;Latvia;19.57;-1.0;-19.57
 Scottish National Party;;2.05;-0.5;-1.025
 Scottish National Party;;2.1;-0.5;-1.05
-Scottish National Party;United Kingdom of Great Britain and Northern Ireland;2.05;-0.5;-1.025
-Scottish National Party;United Kingdom of Great Britain and Northern Ireland;2.1;-0.5;-1.05
+Scottish National Party;United Kingdom;2.05;-0.5;-1.025
+Scottish National Party;United Kingdom;2.1;-0.5;-1.05
 Sinn Fein;;0.65;-1.5;-0.9750000000000001
 Sinn Fein;;26.04;-1.5;-39.06
 Sinn Fein;Nicaragua;0.65;-1.5;-0.9750000000000001
@@ -253,8 +253,8 @@ Săjuz na Demokratičnite Sili;Bulgaria;7.95;1.0;7.95
 Tevynes sajunga - Lietuvos krikšcionys demokratai;Lithuania;26.86;1.0;26.86
 UK Independence Party;;16.09;2.0;32.18
 UK Independence Party;;16.5;2.0;33.0
-UK Independence Party;United Kingdom of Great Britain and Northern Ireland;16.09;2.0;32.18
-UK Independence Party;United Kingdom of Great Britain and Northern Ireland;16.5;2.0;33.0
+UK Independence Party;United Kingdom;16.09;2.0;32.18
+UK Independence Party;United Kingdom;16.5;2.0;33.0
 Ulster Conservatives and Unionists - New Force;;0.43;1.5;0.645
 Ulster Conservatives and Unionists - New Force;;17.11;1.5;25.665
 Ulster Conservatives and Unionists - New Force;Nicaragua;0.43;1.5;0.645

@@ -42,8 +42,8 @@ FR;FR05;COALITION;Coal. L'Alternative (UDI+Modem);Coalition l'Alternative (Union
 PT;PT07;COALITION;CDU (PCP + PEV);Coligação Democrática Unitária (Partido Comunista Português + Partido Ecologista os Verdes);;PT08;Portugal;PT;PRT;620.0;ISO 3166-2:PT;Europe;Southern Europe;;150.0;39.0;;PT07;COALITION;13.71;FINAL;;-2.0;-27.42
 UK;UK03;PARTY;Cons.;Conservative Party;;;;;;;;;;;;;;UK03;PARTY;23.31;FINAL;;1.5;34.964999999999996
 UK;UK03;PARTY;Cons.;Conservative Party;;;;;;;;;;;;;;UK03;PARTY;23.93;FINAL;;1.5;35.894999999999996
-GB;UK03;PARTY;Cons.;Conservative Party;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK03;PARTY;23.31;FINAL;;1.5;34.964999999999996
-GB;UK03;PARTY;Cons.;Conservative Party;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK03;PARTY;23.93;FINAL;;1.5;35.894999999999996
+GB;UK03;PARTY;Cons.;Conservative Party;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK03;PARTY;23.31;FINAL;;1.5;34.964999999999996
+GB;UK03;PARTY;Cons.;Conservative Party;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK03;PARTY;23.93;FINAL;;1.5;35.894999999999996
 DK;DK03;PARTY;O (DF);Dansk Folkeparti;;;Denmark;DK;DNK;208.0;ISO 3166-2:DK;Europe;Northern Europe;;150.0;154.0;;DK03;PARTY;26.6;FINAL;;2.0;53.2
 LT;LT04;PARTY;DP;Darbo partija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT04;PARTY;12.81;FINAL;;-0.5;-6.405
 AT;AT03;PARTY;NEOS;Das neue Österreich;;;Austria;AT;AUT;40.0;ISO 3166-2:AT;Europe;Western Europe;;150.0;155.0;;AT03;PARTY;8.14;FINAL;;0.0;0.0
@@ -80,8 +80,8 @@ AT;AT05;PARTY;FPÖ;Freiheitliche Partei Österreichs;;;Austria;AT;AUT;40.0;ISO 3
 FR;FR15;PARTY;FN;Front national;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR15;PARTY;24.86;FINAL;;2.0;49.72
 UK;UK08;PARTY;GP;Green Party;;;;;;;;;;;;;;UK08;PARTY;7.67;FINAL;;-1.0;-7.67
 UK;UK08;PARTY;GP;Green Party;;;;;;;;;;;;;;UK08;PARTY;7.87;FINAL;;-1.0;-7.87
-GB;UK08;PARTY;GP;Green Party of England and Wales;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK08;PARTY;7.67;FINAL;;-1.0;-7.67
-GB;UK08;PARTY;GP;Green Party of England and Wales;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK08;PARTY;7.87;FINAL;;-1.0;-7.87
+GB;UK08;PARTY;GP;Green Party of England and Wales;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK08;PARTY;7.67;FINAL;;-1.0;-7.67
+GB;UK08;PARTY;GP;Green Party of England and Wales;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK08;PARTY;7.87;FINAL;;-1.0;-7.87
 BE;BE10;PARTY;Groen;Groen;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE10;PARTY;6.69;FINAL;;-1.0;-6.69
 BE;BE10;PARTY;Groen;Groen;;;Belgium;BE;BEL;56.0;ISO 3166-2:BE;Europe;Western Europe;;150.0;155.0;;BE10;PARTY;10.62;FINAL;;-1.0;-10.62
 FBE;BE10;PARTY;Groen;Groen;;;;;;;;;;;;;;BE10;PARTY;6.69;FINAL;;-1.0;-6.69
@@ -100,15 +100,15 @@ SK;SK04;PARTY;KDH;Kresťanskodemokratické hnutie;;;Slovakia;SK;SVK;703.0;ISO 31
 SE;SE01;PARTY;KD;Kristdemokraterna;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE01;PARTY;5.93;FINAL;;0.5;2.965
 UK;UK01;PARTY;Lab.;Labour Party;;;;;;;;;;;;;;UK01;PARTY;24.74;FINAL;;-1.0;-24.74
 UK;UK01;PARTY;Lab.;Labour Party;;;;;;;;;;;;;;UK01;PARTY;25.4;FINAL;;-1.0;-25.4
-GB;UK01;PARTY;Lab.;Labour Party;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK01;PARTY;24.74;FINAL;;-1.0;-24.74
-GB;UK01;PARTY;Lab.;Labour Party;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK01;PARTY;25.4;FINAL;;-1.0;-25.4
+GB;UK01;PARTY;Lab.;Labour Party;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK01;PARTY;24.74;FINAL;;-1.0;-24.74
+GB;UK01;PARTY;Lab.;Labour Party;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK01;PARTY;25.4;FINAL;;-1.0;-25.4
 LV;LV05;PARTY;LKS;Latvijas Krievu savienībā;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV05;PARTY;6.38;FINAL;;0.5;3.19
 IT;IT09;PARTY;LN;Lega Nord;;;Italy;IT;ITA;380.0;ISO 3166-2:IT;Europe;Southern Europe;;150.0;39.0;;IT09;PARTY;6.15;FINAL;;2.0;12.3
 HU;HU06;PARTY;LMP;Lehet Más a Politika;;;Hungary;HU;HUN;348.0;ISO 3166-2:HU;Europe;Eastern Europe;;150.0;151.0;;HU06;PARTY;5.04;FINAL;;-1.0;-5.04
 UK;UK04;PARTY;Ldem.;Liberal Democrats;;;;;;;;;;;;;;UK04;PARTY;6.69;FINAL;;0.5;3.345
 UK;UK04;PARTY;Ldem.;Liberal Democrats;;;;;;;;;;;;;;UK04;PARTY;6.87;FINAL;;0.5;3.435
-GB;UK04;PARTY;Ldem.;Liberal Democrats;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK04;PARTY;6.69;FINAL;;0.5;3.345
-GB;UK04;PARTY;Ldem.;Liberal Democrats;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK04;PARTY;6.87;FINAL;;0.5;3.435
+GB;UK04;PARTY;Ldem.;Liberal Democrats;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK04;PARTY;6.69;FINAL;;0.5;3.345
+GB;UK04;PARTY;Ldem.;Liberal Democrats;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK04;PARTY;6.87;FINAL;;0.5;3.435
 LT;LT07;PARTY;LRLS;Lietuvos Respublikos liberalų sąjūdis;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT07;PARTY;16.55;FINAL;;1.0;16.55
 LT;LT05;PARTY;LVZS;Lietuvos Valstiečių ir Žaliųjų Sąjunga;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT05;PARTY;6.61;FINAL;;-0.5;-3.305
 LT;LT03;PARTY;LLRA (AWPL);Lietuvos lenkų rinkimų akcija;;;Lithuania;LT;LTU;440.0;ISO 3166-2:LT;Europe;Northern Europe;;150.0;154.0;;LT03;PARTY;8.05;FINAL;;0.5;4.025
@@ -165,8 +165,8 @@ FI;FI90;PARTY;Other parties;Other parties;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;E
 SE;SE90;PARTY;Other parties;Other parties;;;Sweden;SE;SWE;752.0;ISO 3166-2:SE;Europe;Northern Europe;;150.0;154.0;;SE90;PARTY;2.96;FINAL;;0.0;0.0
 UK;UK91;PARTY;Other parties GB;Other parties Great Britain;;;;;;;;;;;;;;UK91;PARTY;5.47;FINAL;;0.0;0.0
 UK;UK91;PARTY;Other parties GB;Other parties Great Britain;;;;;;;;;;;;;;UK91;PARTY;5.27;FINAL;;0.0;0.0
-GB;UK91;PARTY;Other parties GB;Other parties Great Britain;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK91;PARTY;5.47;FINAL;;0.0;0.0
-GB;UK91;PARTY;Other parties GB;Other parties Great Britain;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK91;PARTY;5.27;FINAL;;0.0;0.0
+GB;UK91;PARTY;Other parties GB;Other parties Great Britain;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK91;PARTY;5.47;FINAL;;0.0;0.0
+GB;UK91;PARTY;Other parties GB;Other parties Great Britain;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK91;PARTY;5.27;FINAL;;0.0;0.0
 UK;UK90;PARTY;Other parties NI;Other parties Northern Ireland;;;;;;;;;;;;;;UK90;PARTY;0.71;FINAL;;0.0;0.0
 UK;UK90;PARTY;Other parties NI;Other parties Northern Ireland;;;;;;;;;;;;;;UK90;PARTY;40.2;FINAL;;0.0;0.0
 NI;UK90;PARTY;Other parties NI;Other parties Northern Ireland;;;Nicaragua;NI;NIC;558.0;ISO 3166-2:NI;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;UK90;PARTY;0.71;FINAL;;0.0;0.0
@@ -209,8 +209,8 @@ FI;FI03;PARTY;PS;Perussuomalaiset/Sannfinländarna;;;Finland;FI;FIN;246.0;ISO 31
 DE;DE12;PARTY;PIRATEN;Piratenpartei Deutschland;;;Germany;DE;DEU;276.0;ISO 3166-2:DE;Europe;Western Europe;;150.0;155.0;;DE12;PARTY;1.4;FINAL;;-0.5;-0.7
 UK;UK06;PARTY;PL-PW;Plaid Cymru - Party of Wales;;;;;;;;;;;;;;UK06;PARTY;0.69;FINAL;;-0.5;-0.345
 UK;UK06;PARTY;PL-PW;Plaid Cymru - Party of Wales;;;;;;;;;;;;;;UK06;PARTY;0.71;FINAL;;-0.5;-0.355
-GB;UK06;PARTY;PL-PW;Plaid Cymru - Party of Wales;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK06;PARTY;0.69;FINAL;;-0.5;-0.345
-GB;UK06;PARTY;PL-PW;Plaid Cymru - Party of Wales;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK06;PARTY;0.71;FINAL;;-0.5;-0.355
+GB;UK06;PARTY;PL-PW;Plaid Cymru - Party of Wales;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK06;PARTY;0.69;FINAL;;-0.5;-0.345
+GB;UK06;PARTY;PL-PW;Plaid Cymru - Party of Wales;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK06;PARTY;0.71;FINAL;;-0.5;-0.355
 PL;PL02;PARTY;PO;Platforma Obywatelska;;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL02;PARTY;32.13;FINAL;;1.0;32.13
 PL;PL01;PARTY;PSL;Polskie Stronnictwo Ludowe;;;Poland;PL;POL;616.0;ISO 3166-2:PL;Europe;Eastern Europe;;150.0;151.0;;PL01;PARTY;6.8;FINAL;;-0.5;-3.4
 ES;ES11;PARTY;Podemos;Por la Democracia Social;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES11;PARTY;7.98;FINAL;;-1.0;-7.98
@@ -220,8 +220,8 @@ SK;SK05;PARTY;SMER - SD;SMER - Sociálna demokracia;;;Slovakia;SK;SVK;703.0;ISO 
 LV;LV02;PARTY;Saskaņa SDP;Saskaņa sociāldemokrātiskā partija;;;Latvia;LV;LVA;428.0;ISO 3166-2:LV;Europe;Northern Europe;;150.0;154.0;;LV02;PARTY;13.04;FINAL;;-1.5;-19.56
 UK;UK07;PARTY;SNP;Scottish National Party;;;;;;;;;;;;;;UK07;PARTY;2.4;FINAL;;-0.5;-1.2
 UK;UK07;PARTY;SNP;Scottish National Party;;;;;;;;;;;;;;UK07;PARTY;2.46;FINAL;;-0.5;-1.23
-GB;UK07;PARTY;SNP;Scottish National Party;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK07;PARTY;2.4;FINAL;;-0.5;-1.2
-GB;UK07;PARTY;SNP;Scottish National Party;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK07;PARTY;2.46;FINAL;;-0.5;-1.23
+GB;UK07;PARTY;SNP;Scottish National Party;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK07;PARTY;2.4;FINAL;;-0.5;-1.2
+GB;UK07;PARTY;SNP;Scottish National Party;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK07;PARTY;2.46;FINAL;;-0.5;-1.23
 UK;UK05;PARTY;SF;Sinn Fein;;;;;;;;;;;;;;UK05;PARTY;0.66;FINAL;;-1.5;-0.99
 UK;UK05;PARTY;SF;Sinn Fein;;;;;;;;;;;;;;UK05;PARTY;25.52;FINAL;;-1.5;-38.28
 NI;UK05;PARTY;SF;Sinn Fein;;;Nicaragua;NI;NIC;558.0;ISO 3166-2:NI;Americas;Latin America and the Caribbean;Central America;19.0;419.0;13.0;UK05;PARTY;0.66;FINAL;;-1.5;-0.99
@@ -258,8 +258,8 @@ FR;FR08;PARTY;UOM;Union pour les Outre-Mer;;;France;FR;FRA;250.0;ISO 3166-2:FR;E
 FR;FR01;PARTY;UMP;Union pour un Mouvement Populaire;;;France;FR;FRA;250.0;ISO 3166-2:FR;Europe;Western Europe;;150.0;155.0;;FR01;PARTY;20.81;FINAL;;1.0;20.81
 UK;UK09;PARTY;UKIP;United Kingdom Independence Party;;;;;;;;;;;;;;UK09;PARTY;26.77;FINAL;;2.0;53.54
 UK;UK09;PARTY;UKIP;United Kingdom Independence Party;;;;;;;;;;;;;;UK09;PARTY;27.49;FINAL;;2.0;54.98
-GB;UK09;PARTY;UKIP;United Kingdom Independence Party;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK09;PARTY;26.77;FINAL;;2.0;53.54
-GB;UK09;PARTY;UKIP;United Kingdom Independence Party;;;United Kingdom of Great Britain and Northern Ireland;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK09;PARTY;27.49;FINAL;;2.0;54.98
+GB;UK09;PARTY;UKIP;United Kingdom Independence Party;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK09;PARTY;26.77;FINAL;;2.0;53.54
+GB;UK09;PARTY;UKIP;United Kingdom Independence Party;;;United Kingdom;GB;GBR;826.0;ISO 3166-2:GB;Europe;Northern Europe;;150.0;154.0;;UK09;PARTY;27.49;FINAL;;2.0;54.98
 RO;RO02;PARTY;UDMR;Uniunea Democrată Maghiară din România;;;Romania;RO;ROU;642.0;ISO 3166-2:RO;Europe;Eastern Europe;;150.0;151.0;;RO02;PARTY;6.3;FINAL;;0.5;3.15
 ES;ES08;PARTY;UPyD;Unión Progreso y Democracia;;;Spain;ES;ESP;724.0;ISO 3166-2:ES;Europe;Southern Europe;;150.0;39.0;;ES08;PARTY;6.51;FINAL;;0.5;3.255
 FI;FI06;PARTY;VAS;Vasemmistoliitto/Vänsterförbundet;;;Finland;FI;FIN;246.0;ISO 3166-2:FI;Europe;Northern Europe;;150.0;154.0;;FI06;PARTY;9.3;FINAL;;-2.0;-18.6

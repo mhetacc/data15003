@@ -1,3 +1,26 @@
+## Visualizer
+
+Highlighting clicked country functionality was not implemented since it requires an update of the map every time, which resets the zoom and makes using it very annoying. 
+
+Dropdown menu was changed into an Radioitem menu to make it clear for the user which options are present, and it was put in line to occupy less space.
+
+Stylizing the slider was not implemented since it would require external CSS tools, but the default value was changed to 2019 to make self evident the fact that it is a year-slider.
+
+All elements have been wrapped into an html.Div([]) to better position them vertically in the page, now no scroll is required to see all tools which make it way clearer. 
+
+
+I would have liked to add an annotation in the choropleth to instruct the user to click a country (e.g., "Click any country to see specific country-related data") that would then disappear after any click. Unfortunately its the same problem as highlighting: zoom level reset since map updates. 
+
+```python
+@app.callback(
+    Output('map', 'figure'),
+    Input('year-slider', 'value'),
+    Input('map', 'clickData')
+)
+def update_map(year, clickData):
+    return make_map(year, clickData)
+```
+
 ## Dataset
 
 ### Problems

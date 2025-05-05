@@ -27,21 +27,28 @@ app = Dash()
 def make_map(year):
     filtered_df=countries_temp_df[countries_temp_df['YEAR'] == year]
 
-    return plotly.express.choropleth(
+    map = plotly.express.choropleth(
         data_frame=filtered_df,
         locations='COUNTRY_NAME',
         locationmode='country names',  
         scope='europe',        
         color='TEMPERATURE',
+        hover_name='COUNTRY_NAME',
+        hover_data={'COUNTRY_NAME': False, 'TEMPERATURE': False, 'YEAR': False},  # hide some fields
         color_continuous_scale="RdBu",
         labels={
             'TEMPERATURE':'Temp',
         },
         title='Political temperature per country',
-    ).update_layout(
-        margin = dict(l=0,r=0,b=0,t=0,autoexpand=True),
+    )
+
+
+
+    map.update_layout(
+        autosize=True,
+        margin = dict(l=0,r=0,b=0,t=0),
         #width=1500,
-        height=800,
+        #height=800,
         coloraxis_colorbar=dict(
             title='',
             tickvals=[0, 25, 50, 75, 100],
@@ -49,33 +56,58 @@ def make_map(year):
         )
     )
 
+    return map
+
 
 
 # Place element in the page
-app.layout = [
+app.layout = html.Div([
     html.H1(
         children='Political Temperature Throughout the Years', 
-        style={'textAlign':'center',
-               'fontFamily':'Arial'}),
-    dcc.Graph(id='map'),
-    dcc.Slider(
-        id='year-slider',
-        min=countries_temp_df['YEAR'].min(),
-        max=countries_temp_df['YEAR'].max(),
-        value=countries_temp_df['YEAR'].min(),
-        marks={str(year): str(year) for year in countries_temp_df['YEAR'].unique()},    
-        step=None
+        style={
+            'textAlign':'center',
+            'fontFamily':'Arial',
+            'marginBottom':'0px',
+            'marginTop':'0px',
+        }
     ),
-    dcc.Dropdown(
-        id='linegraph_selector',
-        options=[{'label': name, 'value': name} for name in linegraph_datasets.keys()],
-        value='Net Earnings'
+    html.P(
+        children='Move the years slider and click on a country to see different data',
+        style={
+            'textAlign':'center',
+            'fontFamily':'Arial',
+            'marginTop':'0px',
+        }
     ),
-    dcc.Graph(id='linegraph')
-    # dash_table.DataTable(
-    #     data=countries_temp_df
-    #     .to_dict('records'))
-]
+    html.Div([
+        dcc.Graph(
+            id='map', 
+            style={'height':'100%', 'width':'100%'},
+            config={'responsive': True}
+            )
+    ], style={'height':'40vh'}),
+    html.Div([
+        dcc.Slider(
+            id='year-slider',
+            min=countries_temp_df['YEAR'].min(),
+            max=countries_temp_df['YEAR'].max(),
+            value=2019,  # default value
+            marks={str(year): str(year) for year in countries_temp_df['YEAR'].unique()},    
+            step=None, 
+            )
+    ], style={'height':'4vh'}),
+    html.Div([
+        dcc.RadioItems(
+            id='linegraph_selector',
+            options=[{'label': name, 'value': name} for name in linegraph_datasets.keys()],
+            value='Net Earnings',  # default selection
+             labelStyle={'display': 'inline-block', 'marginRight': '20px'}
+        ),
+    ], style={'height':'2.15vh'}),
+    html.Div([
+        dcc.Graph(id='linegraph')
+    ], style={'height':'45vh'})
+])
 
 
 # Callback to update the map based on the slider
@@ -147,6 +179,7 @@ def update_linegraph(clickData, selected_year, selected_dataset):
             title='Income over time',
             xaxis=dict(title='Year'),
             yaxis=dict(title='Income in Euro', range=[0, 40000]),
+            margin=dict(t=60) 
         )
 
     elif selected_dataset == 'Immigration':
@@ -199,6 +232,7 @@ def update_linegraph(clickData, selected_year, selected_dataset):
             title='Immigration over time',
             xaxis=dict(title='Year'),
             yaxis=dict(title='Immigration'),
+            margin=dict(t=60)
         )
 
     elif selected_dataset == 'Poverty Risk':
@@ -250,6 +284,7 @@ def update_linegraph(clickData, selected_year, selected_dataset):
             title='Poverty risk over time',
             xaxis=dict(title='Year'),
             yaxis=dict(title='Poverty risk %', range=[0, 13]),
+            margin=dict(t=60)
         )
 
     return fig
