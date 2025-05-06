@@ -101,9 +101,15 @@ app.layout = html.Div([
             id='linegraph_selector',
             options=[{'label': name, 'value': name} for name in linegraph_datasets.keys()],
             value='Net Earnings',  # default selection
-             labelStyle={'display': 'inline-block', 'marginRight': '20px'}
+            labelStyle={
+                'display': 'inline-block', 
+                'marginRight': '40px',
+                'fontFamily': 'Arial',
+                'fontWeight': 'bold',
+                 
+            }
         ),
-    ], style={'height':'2.15vh'}),
+    ], style={'height':'2.17vh'}),
     html.Div([
         dcc.Graph(id='linegraph')
     ], style={'height':'45vh'})

@@ -6,7 +6,7 @@ Interactive Data Visualization Course, Master in Data Science at University of H
 
 ![](./project/imgs/data_visualizer.png)
 
-A video showcase of the visualizer can be found at this [link](https://youtube.com/shorts/n-uEkY1vBSY?feature=share).
+A video showcase of the visualizer can be found at this [link](https://youtube.com/shorts/L3-hME7Yt54?feature=share).
 
 ### Usage
 
