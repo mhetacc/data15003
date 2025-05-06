@@ -4,13 +4,13 @@ import pandas
 import plotly.graph_objects
 
 
-countries_temp_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/countries_temp_all_merged.csv', sep=';')
+countries_temp_df = pandas.read_csv('./project/data/build/countries_temp_all_merged.csv', sep=';')
 
-annual_net_earnings_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_net_earnings.csv', sep=';')
+annual_net_earnings_df = pandas.read_csv('./project/data/build/annual_net_earnings.csv', sep=';')
 
-annual_immigration_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_immigration.csv', sep=';')
+annual_immigration_df = pandas.read_csv('./project/data/build/annual_immigration.csv', sep=';')
 
-annual_poverty_df = pandas.read_csv('/home/mhetac/Documents/GitHub/data15003/project/data/build/annual_poverty.csv', sep=';')
+annual_poverty_df = pandas.read_csv('./project/data/build/annual_poverty.csv', sep=';')
 
 linegraph_datasets = {
     'Net Earnings': annual_net_earnings_df,
